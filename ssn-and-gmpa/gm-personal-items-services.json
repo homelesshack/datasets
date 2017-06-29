@@ -1,0 +1,1495 @@
+{
+  "providers": [
+    {
+      "id": "57d65beb870542339c237883",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "Clothes, Blankets, Coats, Gloves &amp; Scarves, Underwear, Socks, Shoes &amp; Toiletries are available 5 days a week during drop-in sessions at The Beacon as needed. Towels are available at the Beacon for showers. ",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "The Beacon",
+        "streetLine2": "45 Bloom Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 3LY",
+        "latitude": 53.4769358511002,
+        "longitude": -2.23806468087968
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "barnabus",
+      "serviceProviderName": "Barnabus",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        },
+        {
+          "id": "blankets",
+          "name": "Blankets"
+        },
+        {
+          "id": "toiletries",
+          "name": "Toiletries"
+        },
+        {
+          "id": "coats",
+          "name": "Coats"
+        },
+        {
+          "id": "gloves",
+          "name": "Gloves & Scarves"
+        },
+        {
+          "id": "socks",
+          "name": "Socks & pants"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58aebd088b21a7418c44edd5",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "We have a limited amount of rucksacks donated to us but any we receive we offer to our homeless friends through our support office. Sleeping bags are also available at our support office with our support workers 5 days a week 10.30 &ndash; 1pm. ",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Support Office",
+        "streetLine2": "61 Bloom Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 3LY",
+        "latitude": 53.4769358511002,
+        "longitude": -2.23806468087968
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "barnabus",
+      "serviceProviderName": "Barnabus",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "sleeping-bags",
+          "name": "Sleeping Bags"
+        },
+        {
+          "id": "rucksacks",
+          "name": "Rucksacks"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "59541fcbc238cc3aac55e0ff",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "Help is offered by a referral system whereby a family struggling to provide basic items for their children can access our service once they have been referred by a support worker. This is usually a Health Visitor, Housing Officer, Social Worker or similar. We work with all statutory services and voluntary agencies across Manchester and Salford to ensure as many families as possible in need of our support can be referred for help",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Wood Street Mission   ",
+        "streetLine2": "26 Wood Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 3EF",
+        "latitude": 53.4806785741108,
+        "longitude": -2.24955263871662
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "wood-street-mission",
+      "serviceProviderName": "Wood Street Mission",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        },
+        {
+          "id": "blankets",
+          "name": "Blankets"
+        },
+        {
+          "id": "towels",
+          "name": "Towels"
+        },
+        {
+          "id": "sleeping-bags",
+          "name": "Sleeping Bags"
+        },
+        {
+          "id": "toiletries",
+          "name": "Toiletries"
+        },
+        {
+          "id": "coats",
+          "name": "Coats"
+        },
+        {
+          "id": "gloves",
+          "name": "Gloves & Scarves"
+        },
+        {
+          "id": "socks",
+          "name": "Socks & pants"
+        },
+        {
+          "id": "tents",
+          "name": "Tents"
+        },
+        {
+          "id": "rucksacks",
+          "name": "Rucksacks"
+        },
+        {
+          "id": "packs",
+          "name": "Complete packs"
+        },
+        {
+          "id": "food",
+          "name": "Dried food"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf2870542339c2378a0",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "We offer a wide range of furniture, clothes and household goods. Some of the stock is new but the big majority is pre-loved at prices we believe are hard to match anywhere in Greater Manchester. In addition we offer a 25% discount to anyone in receipt of housing, employment or incapacity benefits. If you find yourself in need of support including food, clothing, bedding or furniture, we will be able to help you but you will need to be referred to us by another organisation such as Manchester City Council, Jobcentre Plus or the Citizens Advice Bureau. If you are not connected to another organisation and don&amp;rsquo;t have a support worker, please give us a call on 0161 228 7331 to book an appointment to come in and see one of the team. ",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "110 Oldham Rd",
+        "streetLine2": null,
+        "streetLine3": null,
+        "streetLine4": null,
+        "city": "Manchester",
+        "postcode": "M4 6AG",
+        "latitude": 53.4865376497875,
+        "longitude": -2.22775007450613
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "mustard-tree",
+      "serviceProviderName": "Mustard Tree",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        },
+        {
+          "id": "blankets",
+          "name": "Blankets"
+        },
+        {
+          "id": "towels",
+          "name": "Towels"
+        },
+        {
+          "id": "sleeping-bags",
+          "name": "Sleeping Bags"
+        },
+        {
+          "id": "toiletries",
+          "name": "Toiletries"
+        },
+        {
+          "id": "coats",
+          "name": "Coats"
+        },
+        {
+          "id": "gloves",
+          "name": "Gloves & Scarves"
+        },
+        {
+          "id": "socks",
+          "name": "Socks & pants"
+        },
+        {
+          "id": "rucksacks",
+          "name": "Rucksacks"
+        },
+        {
+          "id": "packs",
+          "name": "Complete packs"
+        },
+        {
+          "id": "food",
+          "name": "Dried food"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65beb870542339c237885",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "Available on referral or to clients depending on availability",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Charter Street Ragged School",
+        "streetLine2": "142 Dantzic Street ",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": " M4 4DN",
+        "latitude": 53.4896579009624,
+        "longitude": -2.23635755747702
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:00",
+          "endTime": "09:00",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "07:00",
+          "endTime": "09:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "lifeshare",
+      "serviceProviderName": "Lifeshare",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        },
+        {
+          "id": "blankets",
+          "name": "Blankets"
+        },
+        {
+          "id": "sleeping-bags",
+          "name": "Sleeping Bags"
+        },
+        {
+          "id": "toiletries",
+          "name": "Toiletries"
+        },
+        {
+          "id": "coats",
+          "name": "Coats"
+        },
+        {
+          "id": "gloves",
+          "name": "Gloves & Scarves"
+        },
+        {
+          "id": "socks",
+          "name": "Socks & pants"
+        },
+        {
+          "id": "food",
+          "name": "Dried food"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c03870542339c2378e1",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "!Audacious Church",
+        "streetLine2": "Trinity Way",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 7BB",
+        "latitude": 53.4847977323144,
+        "longitude": -2.25266614167454
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "audacious-a-teams",
+      "serviceProviderName": "Audacious A-Teams",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        },
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        },
+        {
+          "id": "blankets",
+          "name": "Blankets"
+        },
+        {
+          "id": "towels",
+          "name": "Towels"
+        },
+        {
+          "id": "sleeping-bags",
+          "name": "Sleeping Bags"
+        },
+        {
+          "id": "toiletries",
+          "name": "Toiletries"
+        },
+        {
+          "id": "coats",
+          "name": "Coats"
+        },
+        {
+          "id": "gloves",
+          "name": "Gloves & Scarves"
+        },
+        {
+          "id": "socks",
+          "name": "Socks & pants"
+        },
+        {
+          "id": "tents",
+          "name": "Tents"
+        },
+        {
+          "id": "rucksacks",
+          "name": "Rucksacks"
+        },
+        {
+          "id": "packs",
+          "name": "Complete packs"
+        },
+        {
+          "id": "food",
+          "name": "Dried food"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bfd870542339c2378c9",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Edward Holt House",
+        "streetLine2": "Pimblett Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1FU",
+        "latitude": 53.4905686797488,
+        "longitude": -2.2438382465874
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "booth-centre",
+      "serviceProviderName": "Booth Centre",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "toiletries",
+          "name": "Toiletries"
+        },
+        {
+          "id": "gloves",
+          "name": "Gloves & Scarves"
+        },
+        {
+          "id": "socks",
+          "name": "Socks & pants"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58971bd56bad0f07589acc76",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "Outreach service providing personal items. Call 07785374673 to find us. New volunteers always welcome.",
+      "tags": [],
+      "location": {
+        "description": "Meet at side of New Harvest Christian Fellowship",
+        "streetLine1": "New Harvest Christian Fellowship",
+        "streetLine2": "194 Chapel St",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": "M3 6BY",
+        "latitude": 53.4834909700999,
+        "longitude": -2.2584751228588
+      },
+      "openingTimes": [
+        {
+          "startTime": "20:00",
+          "endTime": "22:30",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "open-door-greater-manchester",
+      "serviceProviderName": "Open Door Greater Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "sleeping-bags",
+          "name": "Sleeping Bags"
+        },
+        {
+          "id": "gloves",
+          "name": "Gloves & Scarves"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf4870542339c2378ab",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "",
+      "tags": [
+        "Anyone over the age of 18"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Windsor Drop-in Centre, Churchill Way",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": "M6 5BU",
+        "latitude": 53.4860114524149,
+        "longitude": -2.28453178219705
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "salford-loaves-and-fishes",
+      "serviceProviderName": "Salford Loaves and Fishes",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57ed1878cbad0f3754c33186",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": null,
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Elliott&#39;s fruit and veg ",
+        "streetLine2": "Chorlton precinct ",
+        "streetLine3": "Wilbraham road ",
+        "streetLine4": null,
+        "city": "Chorlton ",
+        "postcode": "M21 9aq ",
+        "latitude": 53.4429440941598,
+        "longitude": -2.27838730740742
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Friday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "reach-out-to-the-community",
+      "serviceProviderName": "Reach Out to the Community ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        },
+        {
+          "id": "blankets",
+          "name": "Blankets"
+        },
+        {
+          "id": "towels",
+          "name": "Towels"
+        },
+        {
+          "id": "sleeping-bags",
+          "name": "Sleeping Bags"
+        },
+        {
+          "id": "toiletries",
+          "name": "Toiletries"
+        },
+        {
+          "id": "coats",
+          "name": "Coats"
+        },
+        {
+          "id": "gloves",
+          "name": "Gloves & Scarves"
+        },
+        {
+          "id": "socks",
+          "name": "Socks & pants"
+        },
+        {
+          "id": "tents",
+          "name": "Tents"
+        },
+        {
+          "id": "rucksacks",
+          "name": "Rucksacks"
+        },
+        {
+          "id": "food",
+          "name": "Dried food"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf0870542339c237897",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Wilbraham Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Chorlton",
+        "postcode": "M21 9LD",
+        "latitude": 53.4428268681962,
+        "longitude": -2.28237609589408
+      },
+      "openingTimes": [
+        {
+          "startTime": "18:00",
+          "endTime": "21:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "21:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "21:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "21:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "21:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "mad-dogs-street-project",
+      "serviceProviderName": "Mad Dogs Street Project",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        },
+        {
+          "id": "toiletries",
+          "name": "Toiletries"
+        },
+        {
+          "id": "sleeping-bags",
+          "name": "Sleeping Bags"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57e3f442cbad0f1e28bf395a",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "We offer a wide range of furniture, clothes and household goods. Some of the stock is new but the big majority is pre-loved at prices we believe are hard to match anywhere in Greater Manchester. In addition we offer a 25% discount to anyone in receipt of housing, employment or incapacity benefits. If you find yourself in need of support including food, clothing, bedding or furniture, we will be able to help you but you will need to be referred to us by another organisation such as Manchester City Council, Jobcentre Plus or the Citizens Advice Bureau. If you are not connected to another organisation and don&rsquo;t have a support worker, please give us a call on 0161 228 7331 to book an appointment to come in and see one of the team.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "15 SOUTHWAY",
+        "streetLine2": "ECCLES PRECINCT",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": " M30 0LJ",
+        "latitude": 53.4835798703966,
+        "longitude": -2.33808708346986
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Friday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "mustard-tree",
+      "serviceProviderName": "Mustard Tree",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        },
+        {
+          "id": "blankets",
+          "name": "Blankets"
+        },
+        {
+          "id": "towels",
+          "name": "Towels"
+        },
+        {
+          "id": "sleeping-bags",
+          "name": "Sleeping Bags"
+        },
+        {
+          "id": "toiletries",
+          "name": "Toiletries"
+        },
+        {
+          "id": "coats",
+          "name": "Coats"
+        },
+        {
+          "id": "gloves",
+          "name": "Gloves & Scarves"
+        },
+        {
+          "id": "socks",
+          "name": "Socks & pants"
+        },
+        {
+          "id": "rucksacks",
+          "name": "Rucksacks"
+        },
+        {
+          "id": "packs",
+          "name": "Complete packs"
+        },
+        {
+          "id": "food",
+          "name": "Dried food"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58b43fcf8b21a82d10d36d83",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "Men, women and youth sleeping rough.",
+      "tags": [
+        "Over 18s"
+      ],
+      "location": {
+        "description": "Manchester",
+        "streetLine1": "7 Woodville Grove ",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport ",
+        "postcode": "Sk57hu ",
+        "latitude": 53.4295257092683,
+        "longitude": -2.1532172844204
+      },
+      "openingTimes": [
+        {
+          "startTime": "19:30",
+          "endTime": "23:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "20:00",
+          "endTime": "23:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "19:00",
+          "endTime": "00:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "11:00",
+          "endTime": "14:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "helping-hearts-homeless-foundation",
+      "serviceProviderName": "Helping Hearts Homeless Foundation ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        },
+        {
+          "id": "blankets",
+          "name": "Blankets"
+        },
+        {
+          "id": "towels",
+          "name": "Towels"
+        },
+        {
+          "id": "sleeping-bags",
+          "name": "Sleeping Bags"
+        },
+        {
+          "id": "toiletries",
+          "name": "Toiletries"
+        },
+        {
+          "id": "coats",
+          "name": "Coats"
+        },
+        {
+          "id": "gloves",
+          "name": "Gloves & Scarves"
+        },
+        {
+          "id": "socks",
+          "name": "Socks & pants"
+        },
+        {
+          "id": "tents",
+          "name": "Tents"
+        },
+        {
+          "id": "rucksacks",
+          "name": "Rucksacks"
+        },
+        {
+          "id": "packs",
+          "name": "Complete packs"
+        },
+        {
+          "id": "food",
+          "name": "Dried food"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65be9870542339c23787b",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "Rucksack Basic Contents: – warm top, Socks, Hat, Gloves, Scarf, Mini flask, Pot Noodle, Pot of Oats, Chocolate bar, Toothbrush & Toothpaste, Roll On Deodorant, Hand Warmers & clean underwear. We provide the ‘Rough Sleepers Information & Map’ Lanyard courtesy of The Wellspring Stockport",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "69 Thompson Lane",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Chadderton",
+        "postcode": "OL9 8RH",
+        "latitude": 53.5319092812727,
+        "longitude": -2.14910654500351
+      },
+      "openingTimes": [
+        {
+          "startTime": "13:00",
+          "endTime": "19:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "13:00",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "streets-ahead",
+      "serviceProviderName": "Streets Ahead",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "packs",
+          "name": "Complete packs"
+        },
+        {
+          "id": "food",
+          "name": "Dried food"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c03870542339c2378df",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "H3 provide Welcome Packs to local temporary accommodation residents who are moving on to more permanent accommodation. These packs are supplied to provide essentials such as a kettle and toaster to make something warm to eat and drink, and cleaning supplies / utensils to help make things feel more like home. The packs are designed to make a very stressful time a little bit easier for any person making the transition from a period of homelessness into a new settled place that they can finally call home.",
+      "tags": [
+        "Men",
+        "women and families moving from temporary to more permanent accommodation"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Stockport Homes",
+        "streetLine2": "St. Peter&rsquo;s Square",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 1NZ",
+        "latitude": 53.4094095497031,
+        "longitude": -2.15992929923073
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "h3",
+      "serviceProviderName": "H3",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "packs",
+          "name": "Complete packs"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bea870542339c23787f",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "Rucksacks containing ideally:  Rucksack, Fleece / Jumper, Hat / Scarf / Gloves, 2 Socks, 2 Undies, Toothbrush, Sleeping bag, Flask , Tins of beans / Soup etc (with ring pulls), Spoon, Crossword puzzles / word searches / pens. Subject to availabilty.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Harvey St",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 1YD",
+        "latitude": 53.4104668720237,
+        "longitude": -2.15564588494777
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "17:00",
+          "endTime": "20:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "17:00",
+          "endTime": "20:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "17:00",
+          "endTime": "20:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "17:00",
+          "endTime": "20:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "wellspring",
+      "serviceProviderName": "The Wellspring",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "packs",
+          "name": "Complete packs"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58ac810c8b21a80d20d5a5f0",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "The Olive Branch",
+        "streetLine2": "2c Castle Street",
+        "streetLine3": "Edgeley",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK3 9AB",
+        "latitude": 53.4026813140468,
+        "longitude": -2.1634686765731
+      },
+      "openingTimes": [
+        {
+          "startTime": "00:00",
+          "endTime": "00:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "stockport-loaves-and-fishes",
+      "serviceProviderName": "Stockport Loaves and Fishes",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        },
+        {
+          "id": "blankets",
+          "name": "Blankets"
+        },
+        {
+          "id": "sleeping-bags",
+          "name": "Sleeping Bags"
+        },
+        {
+          "id": "tents",
+          "name": "Tents"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58b69f4e8b21a82d10d3e4c0",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "Our charity shop in Market Street, Bury has very reasonably priced clothing, bags, bedding etc. e.g. clothing from 50p an item",
+      "tags": [
+        "Anyone"
+      ],
+      "location": {
+        "description": "At our charity shop at 1a Market Street, Bury, BL9 0BL&#10;Porch Packs can also be accessed here",
+        "streetLine1": "1a Market Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Bury",
+        "postcode": "BL9 0BL",
+        "latitude": 53.5921888038466,
+        "longitude": -2.29660642838701
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:30",
+          "day": "Friday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "15:30",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "regtbuild",
+      "serviceProviderName": "Re&gt;Build ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        },
+        {
+          "id": "blankets",
+          "name": "Blankets"
+        },
+        {
+          "id": "towels",
+          "name": "Towels"
+        },
+        {
+          "id": "coats",
+          "name": "Coats"
+        },
+        {
+          "id": "gloves",
+          "name": "Gloves & Scarves"
+        },
+        {
+          "id": "rucksacks",
+          "name": "Rucksacks"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57e3f4cccbad0f1e28bf3a0e",
+      "categoryId": "items",
+      "categoryName": "Personal Items",
+      "categorySynopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products",
+      "info": "We offer a wide range of furniture, clothes and household goods. Some of the stock is new but the big majority is pre-loved at prices we believe are hard to match anywhere in Greater Manchester. In addition we offer a 25% discount to anyone in receipt of housing, employment or incapacity benefits. If you find yourself in need of support including food, clothing, bedding or furniture, we will be able to help you but you will need to be referred to us by another organisation such as Manchester City Council, Jobcentre Plus or the Citizens Advice Bureau. If you are not connected to another organisation and don&rsquo;t have a support worker, please give us a call on 0161 228 7331 to book an appointment to come in and see one of the team.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "50 HULTON DISTRICT CENTRE",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": "M28 0AU",
+        "latitude": 53.5300666684244,
+        "longitude": -2.42322512505369
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "mustard-tree",
+      "serviceProviderName": "Mustard Tree",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        },
+        {
+          "id": "blankets",
+          "name": "Blankets"
+        },
+        {
+          "id": "towels",
+          "name": "Towels"
+        },
+        {
+          "id": "sleeping-bags",
+          "name": "Sleeping Bags"
+        },
+        {
+          "id": "toiletries",
+          "name": "Toiletries"
+        },
+        {
+          "id": "coats",
+          "name": "Coats"
+        },
+        {
+          "id": "gloves",
+          "name": "Gloves & Scarves"
+        },
+        {
+          "id": "socks",
+          "name": "Socks & pants"
+        },
+        {
+          "id": "rucksacks",
+          "name": "Rucksacks"
+        },
+        {
+          "id": "packs",
+          "name": "Complete packs"
+        },
+        {
+          "id": "food",
+          "name": "Dried food"
+        }
+      ],
+      "isOpen247": false
+    }
+  ],
+  "category": {
+    "id": "items",
+    "name": "Personal Items",
+    "synopsis": "Clothes, blankets, shoes, sleeping bags, and disposable goods including toiletries and sanitary products"
+  }
+}

@@ -1,0 +1,693 @@
+{
+  "providers": [
+    {
+      "id": "57d65c06870542339c2378ea",
+      "categoryId": "activities",
+      "categoryName": "Activities",
+      "categorySynopsis": "Social and creative activities.",
+      "info": "2-4 pm, we hold a range of activities at our drop-in. When possible, on a Monday, our friends who have completed the Skullfades Barber Academy offer haircuts, Tuesday is our I.T Cafe and Arts and Crafts activity session. Wednesday we hold an over 40&rsquo;s social and on Thursday we hold our &lsquo;God Slot&rsquo; which provides our friends with the opportunity to feed their spiritual needs as well as the physical ones. 2017 saw the first Ladies only session. On the first Friday of every month, we offer a session where our female homeless friends can enjoy an afternoon of socialising and pampering, offering nail art, new clothes, sewing, colouring, hot showers, brews and biscuits and occasionally some one-off events such as cooking.&#10;&#10;Our projects are on offer during spring, summer and early autumn and give the opportunity to build trust, confidence and motivation. They help to promote a sense of community and belonging:- &#10;&#10;ALLOTMENT PROJECT&#10;This takes place off-site each Friday afternoon and gives our friends the opportunity to work at our allotment, preparing the soil, nurturing and caring for a wide variety of plants and vegetables. The produce grown is shared out among the homeless or used to create meals at our drop-in centre. &#10;&#10;RENU-UP CYCLING ENTERPRISE &#10;This takes place off-site 3 days a week (Tue &ndash;Thu, 10:30- 16:00) and allows our Clients to learn how to transform donated furniture into beautiful, up-cycled pieces. An inspiring, rewarding, activity, providing employable skills and in time employment opportunities.",
+      "tags": [
+        "Anyone who is homeless"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "The Beacon",
+        "streetLine2": "45 Bloom Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 3LY",
+        "latitude": 53.4769358511002,
+        "longitude": -2.23806468087968
+      },
+      "openingTimes": [
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "barnabus",
+      "serviceProviderName": "Barnabus",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "otheractivity",
+          "name": "Other Activities"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "59523e3bc238cb0e4cbc0645",
+      "categoryId": "activities",
+      "categoryName": "Activities",
+      "categorySynopsis": "Social and creative activities.",
+      "info": "Street League Dance-Fit Manchester&#10;&#10;Overview: Dance-fit and employability Academy designed to support unemployed 16-24 year olds to move into education, employment and training.&#10;&#10;Location: Sugden Sports Centre, 114 Grosvenor Street, M1 7HL&#10;&#10;Includes: Employability and work skills training, professional dance-fit coaching every day, daily social activities, 100 hour work placement&#10;&#10;Programme hours: Monday - Wednesday 10am - 2pm 12 hours per week&#10;&#10;Other benefits: Free Nike clothing, bus fares reimbursed and opportunities to perform locally and with other networks across Manchester (participation is optional).",
+      "tags": [
+        "16 to 25 year olds"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Sugden Sports Centre",
+        "streetLine2": "114 Grosvenor St",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 7HL",
+        "latitude": 53.471053040987,
+        "longitude": -2.23572679424361
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Wednesday"
+        }
+      ],
+      "serviceProviderId": "street-league",
+      "serviceProviderName": "Street League",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "sports",
+          "name": "Sport"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "59523dffc238cb0e4cbc0641",
+      "categoryId": "activities",
+      "categoryName": "Activities",
+      "categorySynopsis": "Social and creative activities.",
+      "info": "Street League Football Manchester &#10;&#10;Overview: Football Academy designed to support unemployed 16-24 year olds to move into education, employment and training.&#10;&#10;Location: Sugden Sports Centre, 114 Grosvenor St, Manchester, M1 7HL&#10;&#10;Includes: Employability and work skills training, professional football coaching every day, daily social activities, 100 hour work placement&#10;&#10;Programme hours: Monday - Thursday 10am - 2pm - 16 hours per week&#10;&#10;Other benefits: Free Nike football kit, bus fares reimbursed, regular competitive football matches against local employers (participation is optional)",
+      "tags": [
+        "16 to 25 year olds"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Sugden Sports Centre",
+        "streetLine2": "114 Grosvenor St",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 7HL",
+        "latitude": 53.471053040987,
+        "longitude": -2.23572679424361
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "street-league",
+      "serviceProviderName": "Street League",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "sports",
+          "name": "Sport"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "59541fecc238cc3aac55e119",
+      "categoryId": "activities",
+      "categoryName": "Activities",
+      "categorySynopsis": "Social and creative activities.",
+      "info": "We host Book Clubs for one or two days in each school holiday. Using our Family Room, or at outreach locations, we set out a small children&rsquo;s book shop with tables and chairs there for the kids to sit down and look through the many books on display.  The parents we support throughout the year are encouraged to bring their kids along to experience the Book Clubs themselves.  They can spend as long as they want choosing books to take home and keep as well as learning how to interact and share books with other kids at the Clubs.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Wood Street Mission   ",
+        "streetLine2": "26 Wood Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 3EF",
+        "latitude": 53.4806785741108,
+        "longitude": -2.24955263871662
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "wood-street-mission",
+      "serviceProviderName": "Wood Street Mission",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "otheractivity",
+          "name": "Other Activities"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57fd32b0cbad0f199c895fcd",
+      "categoryId": "activities",
+      "categoryName": "Activities",
+      "categorySynopsis": "Social and creative activities.",
+      "info": "A new Manchester choir for anyone who is homeless, run by musicians from Band on the wall. Free to all, food and drink are provided.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Charter Street Ragged School ",
+        "streetLine2": "142 Dantzic Street ",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": " M4 4DN",
+        "latitude": 53.4896579009624,
+        "longitude": -2.23635755747702
+      },
+      "openingTimes": [
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        }
+      ],
+      "serviceProviderId": "lifeshare",
+      "serviceProviderName": "Lifeshare",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "arts",
+          "name": "Arts"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf9870542339c2378be",
+      "categoryId": "activities",
+      "categoryName": "Activities",
+      "categorySynopsis": "Social and creative activities.",
+      "info": "Gardening for people in temporary accomodation.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "1479-1489 Ashton Old Road,",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M11 1HH",
+        "latitude": 53.4729463447738,
+        "longitude": -2.15534748414351
+      },
+      "openingTimes": [
+        {
+          "startTime": "12:30",
+          "endTime": "14:30",
+          "day": "Monday"
+        }
+      ],
+      "serviceProviderId": "justlife",
+      "serviceProviderName": "Justlife",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "gardening",
+          "name": "Gardening"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57ee739bcbad0f3754c34a2c",
+      "categoryId": "activities",
+      "categoryName": "Activities",
+      "categorySynopsis": "Social and creative activities.",
+      "info": "Gardening Club",
+      "tags": [
+        "People living in unsupported temporary accommodation (B&amp;B&#39;s)"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "1479-1489 Ashton Old Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M11 1HH",
+        "latitude": 53.4729554702876,
+        "longitude": -2.15524205867038
+      },
+      "openingTimes": [
+        {
+          "startTime": "12:30",
+          "endTime": "14:30",
+          "day": "Monday"
+        }
+      ],
+      "serviceProviderId": "justlife",
+      "serviceProviderName": "Justlife",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "otheractivity",
+          "name": "Other Activities"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "594bc5289cad0a25d0437138",
+      "categoryId": "activities",
+      "categoryName": "Activities",
+      "categorySynopsis": "Social and creative activities.",
+      "info": "The aim of the Salford Prison Project is to support offenders who do not normally receive statutory supervision from the Probation Service but have high rates of reconviction. &#10;&#10;The aim of the Project is to support offenders who show a willingness to engage and are ready to address their offending behaviour.&#10;&#10;Eligibility is dependent on referral from statutory bodies based in HM prisons, and in the community, such as the community drug and alcohol team.  &#10;&#10;In addition, offenders must: &#10;Be assessed as low / medium risk &#10;Not have committed a sexual offence &#10;Not have committed serious violent offences against the person&#10;Not have committed racially aggravated or motivated offences",
+      "tags": [
+        "ex-offenders"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "84-86 Liverpool Road",
+        "streetLine2": "Eccles ",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M30 0WZ",
+        "latitude": 53.4832949834766,
+        "longitude": -2.34962788251715
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "salford-ucrc",
+      "serviceProviderName": "Salford UCRC",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "otheractivity",
+          "name": "Other Activities"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c05870542339c2378e4",
+      "categoryId": "activities",
+      "categoryName": "Activities",
+      "categorySynopsis": "Social and creative activities.",
+      "info": "H3 runs a number of ongoing activities such as gardening, cooking and crafts for people to get engaged with, learn new skills and and have fun. We have run trips to places like the Museum of Science and Industry, and arranged provided gym equipment to temporary accommodation residents to use as they wish. These activities are led by the Committee group and residents, who can bring forward ideas or suggest skills that they would like to learn. ",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Stockport Homes",
+        "streetLine2": "St. Peter&rsquo;s Square",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 1NZ",
+        "latitude": 53.4094095497031,
+        "longitude": -2.15992929923073
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "h3",
+      "serviceProviderName": "H3",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "gardening",
+          "name": "Gardening"
+        },
+        {
+          "id": "otheractivity",
+          "name": "Other Activities"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "595103f1c238cb0e4cbc03b5",
+      "categoryId": "activities",
+      "categoryName": "Activities",
+      "categorySynopsis": "Social and creative activities.",
+      "info": "The Acorn Recovery Project comprises of a number of programmes.&#10;&#10;The Reduction and Motivation Programme (RAMP&copy;) provides a safe environment for those in active addiction to explore their addiction, its impact on them and others, and the life changes needed to gain recovery from substances.&#10;&#10;It allows you to learn about addiction, ask questions, gain support from others going through the same experiences, and offers clear goals, focus and structure, helping you to make the first steps towards recovery.&#10;&#10;RAMP consists of 24 group work sessions, overseen by our highly skilled staff with a wealth of experience in working with addiction. We deliver RAMP in a variety of locations.&#10;&#10;Over 4-12 weeks, you will take part in sessions based around a range of subjects, from relapse prevention to overcoming negative thinking. You can enter and exit RAMP at any point.&#10;&#10;The programme offers a safe environment that can provide you with clear goals, focus and structure, helping you make the first steps to a lifelong recovery.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Fulstone House (Head Office) ",
+        "streetLine2": "130 Mile End Lane ",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": " SK2 6BY",
+        "latitude": 53.3947151311362,
+        "longitude": -2.13671574333859
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "calico-group",
+      "serviceProviderName": "Calico Group",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "otheractivity",
+          "name": "Other Activities"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "595273f9c238cb0e4cbc0957",
+      "categoryId": "activities",
+      "categoryName": "Activities",
+      "categorySynopsis": "Social and creative activities.",
+      "info": "Explore your potential with Achieve&#10;&#10;Our new personal development course provides a unique offering for 11 to 19-year-olds; a practical approach to learning which supports young people to fulfil their potential.&#10;&#10;Our Achieve programme provides an opportunity for you to try out new activities, boost your confidence and gain a recognised Prince&#39;s Trust qualification.&#10;&#10;Achieve can be delivered in a variety of settings such as youth centres, pupil referral units, youth offender institutions and, in some locations, at a Prince&#39;s Trust centre - so there are lots of places where you can join Achieve to start fulfulling your potential!",
+      "tags": [
+        "11 to 19-year-olds"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "70 ",
+        "streetLine2": "The Rock",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "  Bury",
+        "postcode": "BL9 0PB",
+        "latitude": 53.5941167106942,
+        "longitude": -2.29482201170633
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "the-prince39s-trust",
+      "serviceProviderName": "The Prince Trust",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "arts",
+          "name": "Arts"
+        },
+        {
+          "id": "sports",
+          "name": "Sport"
+        },
+        {
+          "id": "gardening",
+          "name": "Gardening"
+        },
+        {
+          "id": "otheractivity",
+          "name": "Other Activities"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "59527069c238cb0e4cbc0925",
+      "categoryId": "activities",
+      "categoryName": "Activities",
+      "categorySynopsis": "Social and creative activities.",
+      "info": "Our Fairbridge Access course is free, fun and fully-equipped to help you to work towards your goals. &#10;&#10;With one-to-one support and group activities, our team members will help you to develop the skills you need to move forward.&#10;&#10;Kicking-off with a five-day Access course, you&rsquo;ll have the chance to take part in a range of challenging and adventurous activities &ndash; including a residential trip.&#10;&#10;Upon your return from the Access course, you will be able to choose from a selection of engaging and interesting Follow On sessions that will help you develop and grow.&#10;If you&rsquo;re local to one of our 18 centres or to one of our delivery sites across the country, we definitely recommend it.&#10;&#10;The programme continues for as long as you need and, once ready, we&rsquo;ll support you to where you want to be, including finding a job, going to college, training or volunteering.&#10;&#10;It is your choice to join the programme, your choice to stay on it and you will not be made to do anything you don&#39;t want to.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "70 ",
+        "streetLine2": "The Rock",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "  Bury",
+        "postcode": "BL9 0PB",
+        "latitude": 53.5941167106942,
+        "longitude": -2.29482201170633
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "the-prince39s-trust",
+      "serviceProviderName": "The Prince Trust",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "otheractivity",
+          "name": "Other Activities"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "59527fd5c238cb0e4cbc09e4",
+      "categoryId": "activities",
+      "categoryName": "Activities",
+      "categorySynopsis": "Social and creative activities.",
+      "info": "Befriending&#10;&#10;If you feel that you would benefit from someone to chat with on a regular basis and maybe go for a coffee, we have a number of trained volunteers who are matched with individuals to do just that.&#10;&#10;You can self-refer into this service.&#10;&#10;Following referral, you will be invited to meet with a recovery worker for a brief assessment after which you will be introduced to your buddy. From then on you arrange mutually convenient times to meet up with your worker.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "BAND @ Bolton",
+        "streetLine2": "YMCA 125",
+        "streetLine3": "Deansgate ",
+        "streetLine4": "",
+        "city": "Bolton ",
+        "postcode": "BL1 1HA",
+        "latitude": 53.578976052924,
+        "longitude": -2.43229245656624
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "band--building-a-new-direction",
+      "serviceProviderName": "BAND- Building A New Direction",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "otheractivity",
+          "name": "Other Activities"
+        }
+      ],
+      "isOpen247": false
+    }
+  ],
+  "category": {
+    "id": "activities",
+    "name": "Activities",
+    "synopsis": "Social and creative activities."
+  }
+}

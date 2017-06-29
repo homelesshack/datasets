@@ -1,0 +1,1516 @@
+{
+  "providers": [
+    {
+      "id": "57d65bec870542339c237887",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "At our drop-in we offer a range of classes and courses such as English, Maths and IT as well as Arts and Crafts and other social and community building activities. We provide IT training, help with online forms and internet access, at the IT Caf&amp;amp;eacute; on Tues 2-4pm.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "The Beacon",
+        "streetLine2": "45 Bloom Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 3LY",
+        "latitude": 53.4769358511002,
+        "longitude": -2.23806468087968
+      },
+      "openingTimes": [
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "barnabus",
+      "serviceProviderName": "Barnabus",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57e3f20bcbad0f1e28bf3817",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "We have an IT Suite open on Tuesdays, Wednesdays &amp;amp; Thursdays from 10.30 - 12.00 &amp;amp; 1.00 - 2.30. We offer basic IT Skills, CSCS Practice Discs, and a range of other free online courses.",
+      "tags": [
+        "Ex - offenders",
+        "Anyone",
+        "People with additional needs"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "",
+        "postcode": "M1 1JQ",
+        "latitude": 53.4819014613034,
+        "longitude": -2.23605822866979
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:30",
+          "endTime": "12:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "14:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "12:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "14:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "12:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "14:30",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "gm-community-chaplaincy",
+      "serviceProviderName": "Greater Manchester Community Chaplaincy",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        },
+        {
+          "id": "volunteering",
+          "name": "Volunteering"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c07870542339c2378ec",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "We run a tenancy training course called House Trained which enables young people to move up a banding level on Manchester Move. For more information contact the team and if you are interested in this course, we can send you an application form.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "City Centre Project",
+        "streetLine2": "52 Oldham Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 1LE",
+        "latitude": 53.483397559647,
+        "longitude": -2.23401712221756
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "13:30",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "13:30",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "13:30",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "13:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "ypsf",
+      "serviceProviderName": "Young People's Support Foundation",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bfe870542339c2378ce",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "Some workshops available ie about drugs, relationships etc and support finding and applying for volunteering and educational opportunities for clients",
+      "tags": [
+        "16-25"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "1st floor",
+        "streetLine2": "27 Houldsworth Street",
+        "streetLine3": null,
+        "streetLine4": null,
+        "city": "Manchester",
+        "postcode": "M1 1EB",
+        "latitude": 53.4835909837923,
+        "longitude": -2.2316221630479
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "lifeshare",
+      "serviceProviderName": "Lifeshare",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bea870542339c237881",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "We can help with training, learning and making progress towards your goals.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "5 Oak Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 5JD",
+        "latitude": 53.4840950661472,
+        "longitude": -2.23584437681465
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "albert-kennedy-trust",
+      "serviceProviderName": "Albert Kennedy Trust",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "59524efbc238cb0e4cbc06c8",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "Back on Track provides a variety of training programmes at various levels to help adults going through tough times. &#10;&#10;Course list can be found here: http://www.backontrackmanchester.org.uk/courses/",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "4th Floor  ",
+        "streetLine2": "Swan Buildings",
+        "streetLine3": "20 Swan Street ",
+        "streetLine4": "",
+        "city": "Manchester ",
+        "postcode": "M4 5JW",
+        "latitude": 53.4852948100951,
+        "longitude": -2.23366589693637
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "back-on-track",
+      "serviceProviderName": "Back On Track",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c00870542339c2378d2",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "Creative sessions including drama, music, photography, creative writing, film making and visual arts",
+      "tags": [
+        "Men aged 18-30 who have experienced sex work",
+        "homelessness and offending"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Swan Buildings",
+        "streetLine2": "20 Swan Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 5JW",
+        "latitude": 53.4852948100951,
+        "longitude": -2.23366589693637
+      },
+      "openingTimes": [
+        {
+          "startTime": "17:00",
+          "endTime": "19:00",
+          "day": "Wednesday"
+        }
+      ],
+      "serviceProviderId": "the-men39s-room",
+      "serviceProviderName": "The Men&#39;s Room",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf3870542339c2378a8",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "People First is working in partnership with other landlords, Manchester City Council and Jobcentre Plus to help people back into work.",
+      "tags": [
+        "Anyone who is homeless",
+        "at risk of becoming so or in need of support in living independently."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "1 City Road",
+        "streetLine2": "City Road East",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M15 4PN",
+        "latitude": 53.4722233243208,
+        "longitude": -2.24816217051489
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "people-first-housing",
+      "serviceProviderName": "People First Housing Association",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bfc870542339c2378c5",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "The Freedom Project is aimed at those who have additional barriers to moving on in life, such as homelessness, mental health issues, addiction recovery or a criminal record. It runs for 20 weeks and allows participants to gain work skills and experience within the six main areas of our operation: warehousing &amp;amp; deliveries, catering, customer services, facilities management, waste recycling and office admin. Further support is provided through our own in-house training modules.&amp;#10;&amp;#10;Freedom Project participants can access a number of other services alongside their work experience. Some of these are support-related, such as professional counselling and mentoring. Others are creative like our art and drama classes. Finally there are employability-based services such as our Ready for Work club and work placements with local businesses.&amp;#10;&amp;#10;The Freedom Project regularly helps its participants to grow in confidence, motivation, stability, wellbeing and employability. It ensures that they have an up-to-date CV and gives them at least one current work reference. Perhaps most important of all, it provides the opportunity to experience the sense of value that comes from belonging to a healthy community and from serving others in need.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "110 Oldham Rd",
+        "streetLine2": null,
+        "streetLine3": null,
+        "streetLine4": null,
+        "city": "Manchester",
+        "postcode": "M4 6AG",
+        "latitude": 53.4865376497875,
+        "longitude": -2.22775007450613
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "mustard-tree",
+      "serviceProviderName": "Mustard Tree",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bed870542339c23788c",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "Employment skills training, Volunteering programme (supported), Work based qualifications, CV writing and help to apply for jobs",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Edward Holt House",
+        "streetLine2": "Pimblett Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1FU",
+        "latitude": 53.4905686797488,
+        "longitude": -2.2438382465874
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "booth-centre",
+      "serviceProviderName": "Booth Centre",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58e6534efaad651940cd32ec",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "Volunteering is a fantastic way to develop skills, build confidence and meet new people. We have a range of opportunities available in the Fallowfield library, IT classes for 50+, job club support and retirement housing scheme support.&#10;&#10;",
+      "tags": [
+        "18+"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "One Manchester",
+        "streetLine2": "Turing House ",
+        "streetLine3": "Archway 5 ",
+        "streetLine4": "Hulme",
+        "city": "",
+        "postcode": "M15 5RL",
+        "latitude": 53.4644611142835,
+        "longitude": -2.24630934416906
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "one-manchester",
+      "serviceProviderName": "One Manchester ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "volunteering",
+          "name": "Volunteering"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58e78a55faad651940cd6648",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "We deliver a range of training ranging from:&#10;&bull;&#9;Construction CSCS card training&#10;&bull;&#9;Health and Social Care &#10;&bull;&#9;Hospitality&#10;&bull;&#9;Customer services &#10;&bull;&#9;IT &#10;&bull;&#9;Numeracy&#10;&bull;&#9;Literacy&#10;&bull;&#9;Warehouse&#10;&bull;&#9;Facilities&#10;&bull;&#9;Childcare&#10;&bull;&#9;Business Administration&#10;&#10;&#10;",
+      "tags": [
+        "All"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "",
+        "postcode": "M15 5RL",
+        "latitude": 53.4644611142835,
+        "longitude": -2.24630934416906
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "one-manchester",
+      "serviceProviderName": "One Manchester ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c02870542339c2378d9",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "The Limes provides education and training to homeless and marginalised people as well as the local community on a weekly basis. We deliver an 8 session Tenancy Training programme which enables young people from 19 to 25 to gain skills and knowledge to sustain their own tenancies and also gives them extra priority on the housing register. We run a Job Club each Wednesday from 10am to 4pm. ",
+      "tags": [
+        "19-25"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "76 Daisy Bank Road",
+        "streetLine2": "Victoria Park",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M14 5GL",
+        "latitude": 53.4589060159415,
+        "longitude": -2.21374627256372
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        }
+      ],
+      "serviceProviderId": "chapter-1---the-limes",
+      "serviceProviderName": "Chapter 1 - The Limes",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5849644bb421f51a78bd88c2",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "Support to provide enhanced training and vocational skills to support the journey into employment after leaving the armed forces",
+      "tags": [
+        "Armed Forces Veterans"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Walking With The Wounded",
+        "streetLine2": "42 Canada Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M40 8AE",
+        "latitude": 53.4950704717916,
+        "longitude": -2.2064217588725
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "walking-with-the-wounded",
+      "serviceProviderName": "Walking With The Wounded",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        },
+        {
+          "id": "education",
+          "name": "Education"
+        },
+        {
+          "id": "volunteering",
+          "name": "Volunteering"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65be8870542339c237877",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "The service works with single people aged 18 and over who are homeless or who are experiencing housing related crisis. It provides a safe environment for people to tackle the root cause of the issues affecting their lives while developing the confidence and skills to move to independent living. For referrals please call 0161 721 4140 to request online form to send to; Manchester.referrals@nacro.org.uk",
+      "tags": [
+        "18-64",
+        "homeless",
+        "single",
+        "offending risk and in need of support to address substance misuse."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "308 Clayton Ln",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M11 2AG",
+        "latitude": 53.4772061944564,
+        "longitude": -2.18716963169063
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "nacro-housing-services",
+      "serviceProviderName": "Nacro Housing - Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58f6260afaad65207c362604",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "Unlocking Potential enable people to develop independent living skills. We&rsquo;ll work with you to set small achievable goals through our innovative coaching method. We offer engaging learning activities where you can meet new people.&#10;&#10;You can either self-refer to our service or be referred by another agency who knows you.  A referral form can be found on [Tameside Council&#39;s website](http://www.tameside.gov.uk/housing/supportingpeople/floatingsupport). Telephone:  0161 339 5450",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Adullam Tameside Unlocking Potential",
+        "streetLine2": "Richmond Suite",
+        "streetLine3": "Portland House",
+        "streetLine4": "",
+        "city": "Ashton under Lyne",
+        "postcode": "OL6 7BS",
+        "latitude": 53.4868724842415,
+        "longitude": -2.10257642684842
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "adullam-homes-housing-association-limited",
+      "serviceProviderName": "Adullam Homes Housing Association Limited",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58f871dcfaad65207c36691d",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "Training for frontline workers on spotting the signs of modern slavery, how to refer cases and ensure victims are removed from situations of exploitation",
+      "tags": [
+        "Anyone who comes into contact with vulnerable populations"
+      ],
+      "location": {
+        "description": "Our office addresses are confidential due to the nature of our work, but we can be reached via info@hopeforjustice.org&#10;or 0845 519 7402",
+        "streetLine1": "P.O. BOX 5527",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M22 2BQ",
+        "latitude": 53.3972365536709,
+        "longitude": -2.25873367474508
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "hope-for-justice",
+      "serviceProviderName": "Hope for Justice - Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        },
+        {
+          "id": "education",
+          "name": "Education"
+        },
+        {
+          "id": "volunteering",
+          "name": "Volunteering"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c06870542339c2378e5",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "H3 has developed the capacity to deliver services in order to generate profits for the charity, and to enable ex-homeless people to gain employment and skills. We have an ongoing cleaning contract that employs one full time worker, and an ad hoc service of painting and decorating. Using the H3 van, we are looking for new ways to engage with social enterprise activity and support our social mission through business creation.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Stockport Homes",
+        "streetLine2": "St. Peter&rsquo;s Square",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 1NZ",
+        "latitude": 53.4094095497031,
+        "longitude": -2.15992929923073
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "h3",
+      "serviceProviderName": "H3",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf5870542339c2378b0",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "The Wellspring currently provides Maths & English courses every Thursday afternoon at The Wellspring, with many members gaining qualifications up to GCSE level as a result.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Harvey St",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 1YD",
+        "latitude": 53.4104668720237,
+        "longitude": -2.15564588494777
+      },
+      "openingTimes": [
+        {
+          "startTime": "13:30",
+          "endTime": "15:30",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "wellspring",
+      "serviceProviderName": "The Wellspring",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58eea232faad6619400a445a",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "We work on: Literacy (reading and writing), Numeracy (Basic maths), Cooking, Art, and I.T. (Basic Computer Skills).&#10;&#10;The group is run with a friendly atmosphere, and we have found that this warm and informal setting is the secret ingredient which makes New Hope tick. &#10;&#10;There are no fees. A meal is provided at midday, with a small contribution asked for refreshments. ",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "New Hope Ashton",
+        "streetLine2": "230 Stamford Street Central",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton-under-Lyne",
+        "postcode": "OL6 7LJ",
+        "latitude": 53.4867162277159,
+        "longitude": -2.09591492485839
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "new-hope",
+      "serviceProviderName": "New Hope",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "education",
+          "name": "Education"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58de455e01ad0f06b8e35a52",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "There are therapeutic workshops provided to help people with a range of issues including budgeting and computer skills.",
+      "tags": [
+        "Male and 35+"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "215 Mossley Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton Under Lyne",
+        "postcode": "OL6 6LX",
+        "latitude": 53.4904108779769,
+        "longitude": -2.08339867976857
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greystones-housing-group",
+      "serviceProviderName": "Greystones Housing Group",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "59527385c238cb0e4cbc0946",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "The Ex-Offenders Mosaic programme&#10;&#10;Mosaic&rsquo;s trained mentors meet prisoners three to six months before release to establish a long-lasting relationship which continues into the community-integration phase. The mentors offer wide-ranging practical assistance, including helping prisoners to secure housing and employment. With these vital support structures in place, the likelihood of re-offending in the future is significantly reduced.&#10;&#10;To qualify for a mentor a prisoner must:&#10;&#10;Be aged 18-30 at the beginning of the mentoring relationship&#10;Not be convicted of a sexual assault and not be convicted of, or under investigation for any terrorist-related activity.&#10;Be eligible for release back in to the local community and not be liable to deportation",
+      "tags": [
+        "Ex-offenders aged 18-30 years-old"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "70 ",
+        "streetLine2": "The Rock",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "  Bury",
+        "postcode": "BL9 0PB",
+        "latitude": 53.5941167106942,
+        "longitude": -2.29482201170633
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "the-prince39s-trust",
+      "serviceProviderName": "The Prince Trust",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "59527269c238cb0e4cbc0931",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "Boost your confidence with Team&#10;&#10;If you&rsquo;re unemployed and between 16 and 25, you can meet new people, gain new skills and train on our Team programme.&#10;&#10;How does it work?&#10;&#10;Join Team, our 12-week personal development programme (www.princes-trust.org.uk/help-for-young-people/get-job/boost-your-confidence/your-team-journey), for the chance to gain new skills, take a qualification and meet new people.&#10;&#10;When you come on board, you&rsquo;ll be challenged to:&#10;Take on your own group community project, making a positive difference to the place where you live&#10;Take part in an action packed residential trip&#10;Get two weeks&rsquo; work experience in something you&rsquo;re interested in&#10;Develop your English and Maths skills &#10;&#10;As part of the course, we also spend some time developing your interview and CV skills to ensure your confidence is sky-high for when taking the next step.&#10;&#10;Not sure whether to dive right in?&#10;&#10;It&rsquo;s completely free and won&rsquo;t affect your Jobseeker&rsquo;s Allowance.  ",
+      "tags": [
+        "16 to 25-year-olds"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "70 ",
+        "streetLine2": "The Rock",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "  Bury",
+        "postcode": "BL9 0PB",
+        "latitude": 53.5941167106942,
+        "longitude": -2.29482201170633
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "the-prince39s-trust",
+      "serviceProviderName": "The Prince Trust",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "595272dec238cb0e4cbc093a",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "Discover new talents with Get Started&#10;&#10;Our Get Started programme - covering everything from music to fashion - will give you a taste of fun activities. &#10;&#10;If you&rsquo;re 16-25 and out of work, education or training, we&rsquo;ll give you the chance to take part in a week of activities with help from inspirational experts. Working with partners including the Premier League, ASOS and Sony, you&rsquo;ll work towards a group challenge while developing your skills and confidence.&#10;What&rsquo;s more, it&rsquo;s completely free and won&rsquo;t affect your Jobseeker&rsquo;s Allowance. We&rsquo;ll even throw in lunch and cover your travel expenses.&#10;We wrap up the course by celebrating everything you&rsquo;ve achieved with a special event. It&rsquo;s a great way to finish the course &ndash; with your new friends &ndash; and you&rsquo;ll be able to invite family and friends to join in with you.",
+      "tags": [
+        "16-25 year-olds"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "70 ",
+        "streetLine2": "The Rock",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "  Bury",
+        "postcode": "BL9 0PB",
+        "latitude": 53.5941167106942,
+        "longitude": -2.29482201170633
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "the-prince39s-trust",
+      "serviceProviderName": "The Prince Trust",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        },
+        {
+          "id": "education",
+          "name": "Education"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57e3f573cbad0f1e28bf3ac1",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "The Freedom Project is aimed at those who have additional barriers to moving on in life, such as homelessness, mental health issues, addiction recovery or a criminal record. It runs for 20 weeks and allows participants to gain work skills and experience within the six main areas of our operation: warehousing &amp;amp; deliveries, catering, customer services, facilities management, waste recycling and office admin. Further support is provided through our own in-house training modules.&amp;#10;&amp;#10;Freedom Project participants can access a number of other services alongside their work experience. Some of these are support-related, such as professional counselling and mentoring. Others are creative like our art and drama classes. Finally there are employability-based services such as our Ready for Work club and work placements with local businesses.&amp;#10;&amp;#10;The Freedom Project regularly helps its participants to grow in confidence, motivation, stability, wellbeing and employability. It ensures that they have an up-to-date CV and gives them at least one current work reference. Perhaps most important of all, it provides the opportunity to experience the sense of value that comes from belonging to a healthy community and from serving others in need.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "50 HULTON DISTRICT CENTRE",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": "M28 0AU",
+        "latitude": 53.5300666684244,
+        "longitude": -2.42322512505369
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "mustard-tree",
+      "serviceProviderName": "Mustard Tree",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58b6a21d8b21a82d10d3ea13",
+      "categoryId": "training",
+      "categoryName": "Training",
+      "categorySynopsis": "Training and workshops, and support back to employment.",
+      "info": "We provide volunteering and work experience opportunities with on-going support for you to get your life back on track.  We offer &#39;bite-sized&#39; chunks of on-the-job training to all volunteers and those on placements which gives confidence eventually to enable you to move into employment.  Where possible we offer accredited training such as Health &amp; Safety, First Aid, Manual Handling and others.",
+      "tags": [
+        "Anyone but must not be drinking or using to access these services"
+      ],
+      "location": {
+        "description": "Warehouse work; driver&#39;s mate; retail; woodwork",
+        "streetLine1": "4 Park Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Bury ",
+        "postcode": "BL9 5BQ",
+        "latitude": 53.6000289297146,
+        "longitude": -2.29566408351252
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "15:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "regtbuild",
+      "serviceProviderName": "Re&gt;Build ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Training and workshops"
+        },
+        {
+          "id": "volunteering",
+          "name": "Volunteering"
+        }
+      ],
+      "isOpen247": false
+    }
+  ],
+  "category": {
+    "id": "training",
+    "name": "Training",
+    "synopsis": "Training and workshops, and support back to employment."
+  }
+}

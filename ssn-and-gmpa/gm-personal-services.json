@@ -1,0 +1,322 @@
+{
+  "providers": [
+    {
+      "id": "57d65beb870542339c237884",
+      "categoryId": "services",
+      "categoryName": "Personal Services",
+      "categorySynopsis": "Haircuts, laundry, showers, religious services ...",
+      "info": "Hot showers are available in our Beacon drop-in 5 days a week. We also offer clean clothes and toiletries. Showers are also available during our ladies only session on the first Friday of each month 2-4 pm.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "The Beacon",
+        "streetLine2": "45 Bloom Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 3LY",
+        "latitude": 53.4769358511002,
+        "longitude": -2.23806468087968
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "barnabus",
+      "serviceProviderName": "Barnabus",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "shower",
+          "name": "Showers"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58078319cbad0f199c8a107b",
+      "categoryId": "services",
+      "categoryName": "Personal Services",
+      "categorySynopsis": "Haircuts, laundry, showers, religious services ...",
+      "info": "Our sunday evening service has showers aswell as hot food, hot drinks, advice and support.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "52 Oldham St",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 1LE",
+        "latitude": 53.483397559647,
+        "longitude": -2.23401712221756
+      },
+      "openingTimes": [
+        {
+          "startTime": "17:00",
+          "endTime": "19:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "coffee4craig",
+      "serviceProviderName": "Coffee4Craig",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "shower",
+          "name": "Showers"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bfe870542339c2378cd",
+      "categoryId": "services",
+      "categoryName": "Personal Services",
+      "categorySynopsis": "Haircuts, laundry, showers, religious services ...",
+      "info": "Free Showers at Weekend Breakfast and haircuts available at monthly wellbeing clinic",
+      "tags": [
+        "over 18s"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Charter Street Ragged School ,",
+        "streetLine2": "142 Dantzic Street ",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": " M4 4DN",
+        "latitude": 53.4896579009624,
+        "longitude": -2.23635755747702
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:30",
+          "endTime": "09:00",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "09:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "lifeshare",
+      "serviceProviderName": "Lifeshare",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "shower",
+          "name": "Showers"
+        },
+        {
+          "id": "haircut",
+          "name": "Haircuts"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bff870542339c2378d0",
+      "categoryId": "services",
+      "categoryName": "Personal Services",
+      "categorySynopsis": "Haircuts, laundry, showers, religious services ...",
+      "info": "The booth centre offer the opportunity for all people who use the centre to recieve free hair cuts by qualified hair dressers.  &#10;please note that whilst this service is available every Tuesday, on Thursdays, this service takes place on alternate weeks.  please contact us at the centre for clarifcation.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Edward Holt House",
+        "streetLine2": "Pimblett Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1FU",
+        "latitude": 53.4905686797488,
+        "longitude": -2.2438382465874
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "booth-centre",
+      "serviceProviderName": "Booth Centre",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "haircut",
+          "name": "Haircuts"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bed870542339c23788f",
+      "categoryId": "services",
+      "categoryName": "Personal Services",
+      "categorySynopsis": "Haircuts, laundry, showers, religious services ...",
+      "info": "Showers available.",
+      "tags": [
+        "Adults facing a wide range of social issues including homelessness."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "104b Denmark Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M15 6JS",
+        "latitude": 53.4611199299643,
+        "longitude": -2.24065702809002
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "cornerstone-day-centre",
+      "serviceProviderName": "Cornerstone",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "shower",
+          "name": "Showers"
+        },
+        {
+          "id": "haircut",
+          "name": "Haircuts"
+        },
+        {
+          "id": "laundry",
+          "name": "Laundry"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf5870542339c2378b1",
+      "categoryId": "services",
+      "categoryName": "Personal Services",
+      "categorySynopsis": "Haircuts, laundry, showers, religious services ...",
+      "info": "",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Harvey St",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 1YD",
+        "latitude": 53.4104668720237,
+        "longitude": -2.15564588494777
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "11:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "11:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "11:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "11:30",
+          "day": "Friday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "11:30",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "11:30",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "wellspring",
+      "serviceProviderName": "The Wellspring",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "shower",
+          "name": "Showers"
+        }
+      ],
+      "isOpen247": false
+    }
+  ],
+  "category": {
+    "id": "services",
+    "name": "Personal Services",
+    "synopsis": "Haircuts, laundry, showers, religious services ..."
+  }
+}

@@ -1,0 +1,1290 @@
+{
+  "providers": [
+    {
+      "id": "57d65bf6870542339c2378b5",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Hot drinks, toast and cereals are all free in our Beacon centre 5 days a week. Hot food is on offer for a fee of 50p. This includes a fully cooked breakfast and as much tea and coffee as our friends would like. Hot food, biscuits and brews are also available in our afternoon drop-in sessions. The Beacon is also open on a Tuesday evening 7.45 to 9pm serving a hot meal and drinks. ",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "The Beacon",
+        "streetLine2": "45 Bloom Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 3LY",
+        "latitude": 53.4769358511002,
+        "longitude": -2.23806468087968
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "19:45",
+          "endTime": "21:00",
+          "day": "Tuesday"
+        }
+      ],
+      "serviceProviderId": "barnabus",
+      "serviceProviderName": "Barnabus",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57ebf032cbad0f3754c32799",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Meals in our new indoor space for anyone who is currently homeless.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "52 Oldham St",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 1LE",
+        "latitude": 53.483397559647,
+        "longitude": -2.23401712221756
+      },
+      "openingTimes": [
+        {
+          "startTime": "17:00",
+          "endTime": "19:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "coffee4craig",
+      "serviceProviderName": "Coffee4Craig",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57f61556cbad0f3754c38525",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "The Morning Hours early hours drop in offers a basic breakfast of tea/coffee and toast each Friday.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "St Ann Church",
+        "streetLine2": "St Ann Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M2 7LF",
+        "latitude": 53.4816828791461,
+        "longitude": -2.24637904956573
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:00",
+          "endTime": "09:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "st-ann39s-church",
+      "serviceProviderName": "St Ann&#39;s Church",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c01870542339c2378d5",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Street Kitchen based on the street outside Manchester Cathedral. Offering hot food, support and advice to anyone experiencing homelessness, at risk of becoming homeless and those in food poverty.&amp;#10;&amp;#10;We also offer signposting to other agencies during this time. ",
+      "tags": [
+        "Anyone",
+        "No referral"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Manchester Cathedral",
+        "streetLine2": "Victoria Bridge St",
+        "streetLine3": null,
+        "streetLine4": null,
+        "city": "Manchester",
+        "postcode": "M3 1SX",
+        "latitude": 53.485108,
+        "longitude": -2.244228
+      },
+      "openingTimes": [
+        {
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "day": "Tuesday"
+        }
+      ],
+      "serviceProviderId": "coffee4craig",
+      "serviceProviderName": "Coffee4Craig",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf8870542339c2378b9",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "SPIN operate a street kitchen in Manchester feeding and clothing the homeless every Thursday evening. ",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Manchester Cathedral",
+        "streetLine2": "Victoria Bridge St",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1SX",
+        "latitude": 53.4851118944918,
+        "longitude": -2.24422887615841
+      },
+      "openingTimes": [
+        {
+          "startTime": "19:45",
+          "endTime": "21:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "spin",
+      "serviceProviderName": "SPIN",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf8870542339c2378ba",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Soup kitchen from 7-9pm every Friday at Cathedral Gardens. ",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Cathedral Gardens",
+        "streetLine2": "Victoria Bridge St",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1SX",
+        "latitude": 53.4851118944918,
+        "longitude": -2.24422887615841
+      },
+      "openingTimes": [
+        {
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "the-vow-team",
+      "serviceProviderName": "The vow team",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf1870542339c23789b",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Soup N Smiles street kitchen near Manchester Cathedral.",
+      "tags": [
+        "Anyone who is homeless."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Victoria Bridge St",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester ",
+        "postcode": "M3 1SX",
+        "latitude": 53.4851118944918,
+        "longitude": -2.24422887615841
+      },
+      "openingTimes": [
+        {
+          "startTime": "19:30",
+          "endTime": "21:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "16:00",
+          "endTime": "17:00",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "myriad-foundation",
+      "serviceProviderName": "Myriad Foundation",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5935473d9cad0b0c14bff577",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "A free hot healthy meal ",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Brunswick Parish Church",
+        "streetLine2": "Brunswick Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M13 9TQ",
+        "latitude": 53.4693287275071,
+        "longitude": -2.22565428686088
+      },
+      "openingTimes": [
+        {
+          "startTime": "13:00",
+          "endTime": "13:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "13:30",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "justlife",
+      "serviceProviderName": "Justlife",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf2870542339c23789f",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Every Friday evening between 19:00 – 20:30, we invite guests into our Ancoats base where we serve them with a hot and nutritious meal. Typically we serve up to 90 people who live on the streets, in hostels, temporary accommodation or who are simply struggling to survive in their current situations.\n\nFrom the Soup Run, we are able to signpost to Mustard Tree premises during the week to receive blankets and warm clothes, or to other organisations for advice and support.  Whilst the provision of food and drink is essential, the Soup Run also offers an opportunity to listen to and befriend those who attend.",
+      "tags": [
+        "Over 18"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "110 Oldham Rd",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 6AG",
+        "latitude": 53.4865376497875,
+        "longitude": -2.22775007450613
+      },
+      "openingTimes": [
+        {
+          "startTime": "19:00",
+          "endTime": "20:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "mustard-tree",
+      "serviceProviderName": "Mustard Tree",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58481aa4b421f51ef8aaf44c",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Hot meal and music on alternate Wednesdays. 14th December, 11th/25th January.&#10;",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "110 Oldham Rd",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 6AG",
+        "latitude": 53.4865827925854,
+        "longitude": -2.22764482381055
+      },
+      "openingTimes": [
+        {
+          "startTime": "19:30",
+          "endTime": "21:00",
+          "day": "Wednesday"
+        }
+      ],
+      "serviceProviderId": "sanctury",
+      "serviceProviderName": "Sanctuary",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf6870542339c2378b4",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Hot three course meal and support within the church.",
+      "tags": [
+        "Rough Sleepers"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Trinity Way",
+        "streetLine2": "wibble",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": "M3 7BB",
+        "latitude": 53.4852384477003,
+        "longitude": -2.25253313385126
+      },
+      "openingTimes": [
+        {
+          "startTime": "19:30",
+          "endTime": "21:30",
+          "day": "Tuesday"
+        }
+      ],
+      "serviceProviderId": "audacious-a-teams",
+      "serviceProviderName": "Audacious A-Teams",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bed870542339c23788b",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Lunch",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Edward Holt House",
+        "streetLine2": "Pimblett Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1FU",
+        "latitude": 53.4905686797488,
+        "longitude": -2.2438382465874
+      },
+      "openingTimes": [
+        {
+          "startTime": "12:00",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "12:00",
+          "endTime": "13:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "12:00",
+          "endTime": "13:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "12:00",
+          "endTime": "13:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "12:00",
+          "endTime": "13:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "booth-centre",
+      "serviceProviderName": "Booth Centre",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5835c32eb421f71440ef91a9",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "We provide a hot meal every Sunday - we open our doors at 4pm and serve a meal at 5pm. we have a sit down meal. We also provide clothing and food parcels when we have them available, and help guests to find available support services.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Church of the Apostles ",
+        "streetLine2": "Ridgeway street",
+        "streetLine3": "Miles platting",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M40 7FY",
+        "latitude": 53.4858060043269,
+        "longitude": -2.21513246049508
+      },
+      "openingTimes": [
+        {
+          "startTime": "16:00",
+          "endTime": "18:30",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "food4allapostles",
+      "serviceProviderName": "Food4All@Apostles",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58971bf96bad0f07589acc7a",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Outreach service providing food and hot drinks. Call 07785374673 to find us. New volunteers always welcome.",
+      "tags": [],
+      "location": {
+        "description": "Meet at side of New Harvest Christian Fellowship",
+        "streetLine1": "New Harvest Christian Fellowship",
+        "streetLine2": "194 Chapel St",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": "M3 6BY",
+        "latitude": 53.4834909700999,
+        "longitude": -2.2584751228588
+      },
+      "openingTimes": [
+        {
+          "startTime": "20:00",
+          "endTime": "22:30",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "open-door-greater-manchester",
+      "serviceProviderName": "Open Door Greater Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bfc870542339c2378c7",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Tea and coffee is served throughout the day. Breakfast: toast, porridge and cereal. Sandwiches. Lunch: soup and bread, a hot meal, dessert.",
+      "tags": [
+        "Adults facing a wide range of social issues including homelessness."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "104b Denmark Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M15 6JS",
+        "latitude": 53.4611199299643,
+        "longitude": -2.24065702809002
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "cornerstone-day-centre",
+      "serviceProviderName": "Cornerstone",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65be9870542339c237878",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Cheap hot meals, showers and laundry. Free tea, coffee and soup.",
+      "tags": [
+        "Anyone over the age of 18"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Windsor Drop-in Centre, Churchill Way",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": "M6 5BU",
+        "latitude": 53.4860114524149,
+        "longitude": -2.28453178219705
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "salford-loaves-and-fishes",
+      "serviceProviderName": "Salford Loaves and Fishes",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf8870542339c2378b8",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Hotpots, stews, cakes and flapjack delivered directly.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Wilbraham Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Chorlton",
+        "postcode": "M21 9LD",
+        "latitude": 53.4428268681962,
+        "longitude": -2.28237609589408
+      },
+      "openingTimes": [
+        {
+          "startTime": "18:00",
+          "endTime": "21:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "21:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "21:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "21:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "21:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "mad-dogs-street-project",
+      "serviceProviderName": "Mad Dogs Street Project",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf0870542339c237895",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "A free, nutritious, hot meal is provided on a Monday and hot pasties are served on a Friday.",
+      "tags": [
+        "People living in unsupported temporary accommodation (B&amp;B&#39;s)"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "1479-1489 Ashton Old Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M11 1HH",
+        "latitude": 53.4729554702876,
+        "longitude": -2.15524205867038
+      },
+      "openingTimes": [
+        {
+          "startTime": "12:00",
+          "endTime": "12:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "12:00",
+          "endTime": "12:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "justlife",
+      "serviceProviderName": "Justlife",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65be9870542339c23787d",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Free food and drink is available 365 days a year.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Harvey St",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 1YD",
+        "latitude": 53.4104668720237,
+        "longitude": -2.15564588494777
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "17:00",
+          "endTime": "20:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "17:00",
+          "endTime": "20:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "17:00",
+          "endTime": "20:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "17:00",
+          "endTime": "20:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "wellspring",
+      "serviceProviderName": "The Wellspring",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58ac80b48b21a80d20d5a5e5",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Stockport Baptist Church ",
+        "streetLine2": "Thomson street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK3 9DR",
+        "latitude": 53.4046530703108,
+        "longitude": -2.16106962065909
+      },
+      "openingTimes": [
+        {
+          "startTime": "18:00",
+          "endTime": "19:30",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "stockport-loaves-and-fishes",
+      "serviceProviderName": "Stockport Loaves and Fishes",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58e3bf2bfaad65099ce9b070",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "The IMPACT Project is adjacent to the Greystones supported housing unit. &#10;&#10;The project provides a day support service where people who are sleeping rough are provided light meals.&#10;&#10;When receiving a notification that someone is sleeping rough in Tameside we also provide an outreach service where we make contact with the person on the street and endeavour to put them in contact with the services they need.  ",
+      "tags": [
+        "18+ and either rough sleeping or are at a severe risk of doing so"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "215 Mossley Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton Under Lyne",
+        "postcode": "OL6 6LX",
+        "latitude": 53.4904108779769,
+        "longitude": -2.08339867976857
+      },
+      "openingTimes": [
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greystones-housing-group",
+      "serviceProviderName": "Greystones Housing Group",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58de372501ad0f06b8e34ec3",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": null,
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "New Life Centre",
+        "streetLine2": "St James St",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton under Lyne",
+        "postcode": "OL6 6SF",
+        "latitude": 53.4861188626716,
+        "longitude": -2.07675934551103
+      },
+      "openingTimes": [
+        {
+          "startTime": "16:00",
+          "endTime": "18:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "new-life-church",
+      "serviceProviderName": "New Life Church",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "591da99e09c3da1714ae9a8c",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Free Food in Bury:&#10;Monday 18:00 - 19:00: Hot Meal&#10;Wednesday 18:00 - 19:00: Hot Meal&#10;",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "114 Manchester Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Bury",
+        "postcode": "BL9 0TH",
+        "latitude": 53.5868386367811,
+        "longitude": -2.30105543548446
+      },
+      "openingTimes": [
+        {
+          "startTime": "18:00",
+          "endTime": "19:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "19:00",
+          "day": "Wednesday"
+        }
+      ],
+      "serviceProviderId": "bury-baptist-church",
+      "serviceProviderName": "Bury Baptist Church",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "591c69afcbad100320e3dbb1",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Free Food in Bury:&#10;Tuesday 10 - 12:00: Beans on Toast&#10;Wednesday 10:00 - 12:00: Beans on Toast&#10;Thursday 11:30 - 13:00: Hot Lunch &amp; Pudding&#10;Saturday 16:00 - 17:30: Bacon Butties&#10;&#10;&#10;&#10;",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "The Manna House",
+        "streetLine2": "Irwell Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Bury BL9 0HE ",
+        "postcode": "BL9 0HE ",
+        "latitude": 53.5932065397977,
+        "longitude": -2.30295906360816
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "11:30",
+          "endTime": "13:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "16:00",
+          "endTime": "17:30",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "bury-christian-fellowship",
+      "serviceProviderName": "Bury Christian Fellowship",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "591c5dfacbad100320e3d208",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Food Parcels and more",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Caritas Centre",
+        "streetLine2": "St Joseph&rsquo;s Presbytery",
+        "streetLine3": "Peter Street (off Walmersley Road)",
+        "streetLine4": "",
+        "city": "Bury",
+        "postcode": "BL9 6AB",
+        "latitude": 53.5973945490212,
+        "longitude": -2.28863471322934
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "16:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "bury-red-door",
+      "serviceProviderName": "Bury Red Door",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58497fe0b421f51a78bd9e07",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "Morning breakfast.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "73 Great George Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Rochdale",
+        "postcode": "OL16 1QG",
+        "latitude": 53.6134236394763,
+        "longitude": -2.1565890695862
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "petrus-day-centre",
+      "serviceProviderName": "Petrus Day Centre ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58a1c2b50bc3da271c69fafb",
+      "categoryId": "meals",
+      "categoryName": "Meals",
+      "categorySynopsis": "Hot meals and drinks.",
+      "info": "WINTER WATCH AND STOREHOUSE FOOD BANK&#10;&#10;Winter Watch is our winter caf&eacute; providing food and warmth for the homeless and isolated. Last year over 400 individuals accessed the service; Storehouse food bank distributed 4,534 food parcels, supporting 1,391 adults and 812 children.&#10;&#10;STOREHOUSE PANTRY&#10;&#10;Using surplus food from FareShare, local food sources and bulk buying Storehouse Pantry provides everyday goods to pantry members at a low cost, accessed from a local church building on Johnson Fold.&#10;&#10;LOCAL WELFARE PROVISION, CHRISTMAS DINNER ON JESUS AND BL LUNCHES&#10;&#10;Local Welfare Provision (crisis food) issues over 1,800 parcels, supporting 2300 adults and nearly 1000 children each year. We also provide 1200 Christmas hampers and 1,300 packed lunches a day during the school summer holidays.&#10;&#10;FRIENDS OF FUN FOOD&#10;&#10;Friends of Fun Food is a project offering cooking and meal planning support to our clients and fun food sessions to schools and communities.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": " Environ House, Salop St",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Bolton ",
+        "postcode": "BL2 1DZ",
+        "latitude": 53.5763672540659,
+        "longitude": -2.42284193315902
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "20:30",
+          "endTime": "23:30",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "20:30",
+          "endTime": "23:30",
+          "day": "Sunday"
+        },
+        {
+          "startTime": "20:30",
+          "endTime": "23:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "urban-outreach-bolton",
+      "serviceProviderName": "Urban Outreach Bolton ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Meals"
+        }
+      ],
+      "isOpen247": false
+    }
+  ],
+  "category": {
+    "id": "meals",
+    "name": "Meals",
+    "synopsis": "Hot meals and drinks."
+  }
+}

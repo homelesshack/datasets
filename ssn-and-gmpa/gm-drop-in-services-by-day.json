@@ -1,0 +1,2958 @@
+{
+  "categoryName": "Drop-In",
+  "categoryKey": "dropin",
+  "daysServices": [
+    {
+      "name": "Monday",
+      "serviceProviders": [
+        {
+          "key": "barnabus",
+          "name": "Barnabus",
+          "serviceInfo": "Our Beacon drop-in is open 5 days a week offering a hot breakfast, snacks and some evening meals. We also offer food, clothes, blankets, hot showers and toiletries for our friends. The centre receives around 500 visits per week where our friends are able to take part in a range of activities. We run a variety of classes at our drop-in to help build self esteem, confidence and skills. We also offer opportunities for training and volunteering as part of our buddy scheme. We also have a part time nurse funded by the Big Lottery. 3 days a week in a our drop-in, she provides basic nursing, registration with a GP and referrals to specialist clinics. We also hold afternoon activity sessions at the drop in Tuesday-Thursday. The Beacon is often the start of our friends&#39; journey. We then refer them onto our support workers at our separate support office who offer one to one support 5 days a week. ",
+          "tags": [
+            "Homeless and vulnerable adults"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "The Beacon",
+            "street1": "45 Bloom Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 3LY",
+            "openingTimes": [],
+            "latitude": 53.4769358511002,
+            "longitude": -2.23806468087968,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "13:00",
+            "day": "Monday"
+          },
+          "locationDescription": "The Beacon, drop in centre on Bloom Street near Chorlton Street Bus Station"
+        },
+        {
+          "key": "samaritans",
+          "name": "Samaritans",
+          "serviceInfo": "If there's something troubling you, come to us for confidential advice.",
+          "tags": [],
+          "address": {
+            "key": "11947134-ddff-47bc-823b-c37fd91d62f5",
+            "street": "74 Oxford Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 5NH",
+            "openingTimes": [],
+            "latitude": 53.4742063958118,
+            "longitude": -2.24103245938343,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "08:30",
+            "endTime": "20:30",
+            "day": "Monday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "albert-kennedy-trust",
+          "name": "Albert Kennedy Trust",
+          "serviceInfo": "Pop in for advice, but it is best to call us before you come.",
+          "tags": [
+            "LGBT"
+          ],
+          "address": {
+            "key": "3505474b-dd5a-4645-8b6f-bee0896b78b5",
+            "street": "5 Oak Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M4 5JD",
+            "openingTimes": [],
+            "latitude": 53.4841042329318,
+            "longitude": -2.23575401058525,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "16:30",
+            "day": "Monday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "mash-manchester-action-on-street-health",
+          "name": "MASH; Manchester Action on Street Health ",
+          "serviceInfo": "A welcoming, supportive dropin for women who sex work, with access to refreshments.",
+          "tags": [
+            "sex workers"
+          ],
+          "address": {
+            "key": "266c1a98-f267-4760-978b-cf6cbc7baa23",
+            "street": "94-96 Fairfield St  ",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M1 2WR",
+            "openingTimes": [
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Monday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.475420606571,
+            "longitude": -2.22208576134738,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "12:30",
+            "endTime": "15:30",
+            "day": "Monday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "booth-centre",
+          "name": "Booth Centre",
+          "serviceInfo": "Drop in advice hub open daily providing support and advice, free internet access, free drinks and a snack.",
+          "tags": [
+            "Over 18s"
+          ],
+          "address": {
+            "key": "63000f37-75f8-48f8-b344-5560488edf5e",
+            "street": "Edward Holt House",
+            "street1": "Pimblett Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M3 1FU",
+            "openingTimes": [],
+            "latitude": 53.4905686797488,
+            "longitude": -2.2438382465874,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "13:00",
+            "day": "Monday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "A warm, safe and comfortable environment to access our services, rest or meet other clients and socialise.",
+          "tags": [
+            "Adult"
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Monday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "salford-loaves-and-fishes",
+          "name": "Salford Loaves and Fishes",
+          "serviceInfo": "Drop-in centre offering a communal space with an equipped lounge. Cheap hot meals, showers and laundry. Free tea, coffee and soup. The centre hosts services provided by the Citizens Advice Bureau and Salford Health Matters - support and advice, doctor's surgery, drug and alcohol clinic, needle exchange, dental treatment. Specialist stop smoking advice and literacy support.",
+          "tags": [
+            "Anyone over the age of 18"
+          ],
+          "address": {
+            "key": "18978a61-06db-4dfb-9bd3-ae0a2c14216c",
+            "street": "Mona Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Salford",
+            "postcode": "M6 6PP",
+            "openingTimes": [],
+            "latitude": 53.4919920086962,
+            "longitude": -2.28317012009174,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:30",
+            "endTime": "14:00",
+            "day": "Monday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "justlife",
+          "name": "Justlife",
+          "serviceInfo": "Drop in for a coffee and chat or to use the computer.",
+          "tags": [
+            "People living in Unsupported Temporary Accommodation"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "1479-1489 Ashton Old Road,",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M11 1HH",
+            "openingTimes": [],
+            "latitude": 53.4729554702876,
+            "longitude": -2.15524205867038,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "11:00",
+            "endTime": "13:00",
+            "day": "Monday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "salford-ucrc",
+          "name": "Salford UCRC",
+          "serviceInfo": "The Centre runs welfare benefit drop-in sessions on Monday, Tuesday, Thursday and Friday from 9am - 11.30am, where you can get initial advice.",
+          "tags": [],
+          "address": {
+            "key": "d364539f-fee9-4531-80c6-982d48b383bf",
+            "street": "84-86 Liverpool Road",
+            "street1": "Eccles ",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M30 0WZ",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4832949834766,
+            "longitude": -2.34962788251715,
+            "isOpen247": false,
+            "telephone": "0161 789 2999 "
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "11:30",
+            "day": "Monday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "manchester-integrated-drug-and-alcohol-service",
+          "name": "Manchester Integrated Drug and Alcohol Service",
+          "serviceInfo": "Breakfast club and advice drop in.",
+          "tags": [],
+          "address": {
+            "key": "ce9a67f7-4b15-484c-a81c-7e5a33cf3a68",
+            "street": "Bradnor Road",
+            "street1": "Sharston Industrial Estate",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M22 4TF",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Friday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Saturday"
+              }
+            ],
+            "latitude": 53.4005615359763,
+            "longitude": -2.25909978430467,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "12:30",
+            "day": "Monday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "bury-rough-sleepers",
+          "name": "Bury Rough Sleepers",
+          "serviceInfo": null,
+          "tags": [],
+          "address": {
+            "key": "17f49811-5090-450d-9520-fac0f261cc6f",
+            "street": "Humphrey House",
+            "street1": "Angouleme Way",
+            "street2": "",
+            "street3": "",
+            "city": "Bury",
+            "postcode": "BL9 0EQ",
+            "openingTimes": [
+              {
+                "startTime": "08:00",
+                "endTime": "10:00",
+                "day": "Monday"
+              }
+            ],
+            "latitude": 53.5903435110848,
+            "longitude": -2.29405546636981,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "08:00",
+            "endTime": "10:00",
+            "day": "Monday"
+          },
+          "locationDescription": ""
+        }
+      ],
+      "index": 0
+    },
+    {
+      "name": "Tuesday",
+      "serviceProviders": [
+        {
+          "key": "barnabus",
+          "name": "Barnabus",
+          "serviceInfo": "Our Beacon drop-in is open 5 days a week offering a hot breakfast, snacks and some evening meals. We also offer food, clothes, blankets, hot showers and toiletries for our friends. The centre receives around 500 visits per week where our friends are able to take part in a range of activities. We run a variety of classes at our drop-in to help build self esteem, confidence and skills. We also offer opportunities for training and volunteering as part of our buddy scheme. We also have a part time nurse funded by the Big Lottery. 3 days a week in a our drop-in, she provides basic nursing, registration with a GP and referrals to specialist clinics. We also hold afternoon activity sessions at the drop in Tuesday-Thursday. The Beacon is often the start of our friends&#39; journey. We then refer them onto our support workers at our separate support office who offer one to one support 5 days a week. ",
+          "tags": [
+            "Homeless and vulnerable adults"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "The Beacon",
+            "street1": "45 Bloom Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 3LY",
+            "openingTimes": [],
+            "latitude": 53.4769358511002,
+            "longitude": -2.23806468087968,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "13:00",
+            "day": "Tuesday"
+          },
+          "locationDescription": "The Beacon, drop in centre on Bloom Street near Chorlton Street Bus Station"
+        },
+        {
+          "key": "barnabus",
+          "name": "Barnabus",
+          "serviceInfo": "Our Beacon drop-in is open 5 days a week offering a hot breakfast, snacks and some evening meals. We also offer food, clothes, blankets, hot showers and toiletries for our friends. The centre receives around 500 visits per week where our friends are able to take part in a range of activities. We run a variety of classes at our drop-in to help build self esteem, confidence and skills. We also offer opportunities for training and volunteering as part of our buddy scheme. We also have a part time nurse funded by the Big Lottery. 3 days a week in a our drop-in, she provides basic nursing, registration with a GP and referrals to specialist clinics. We also hold afternoon activity sessions at the drop in Tuesday-Thursday. The Beacon is often the start of our friends&#39; journey. We then refer them onto our support workers at our separate support office who offer one to one support 5 days a week. ",
+          "tags": [
+            "Homeless and vulnerable adults"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "The Beacon",
+            "street1": "45 Bloom Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 3LY",
+            "openingTimes": [],
+            "latitude": 53.4769358511002,
+            "longitude": -2.23806468087968,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "14:00",
+            "endTime": "16:00",
+            "day": "Tuesday"
+          },
+          "locationDescription": "The Beacon, drop in centre on Bloom Street near Chorlton Street Bus Station"
+        },
+        {
+          "key": "barnabus",
+          "name": "Barnabus",
+          "serviceInfo": "Our Beacon drop-in is open 5 days a week offering a hot breakfast, snacks and some evening meals. We also offer food, clothes, blankets, hot showers and toiletries for our friends. The centre receives around 500 visits per week where our friends are able to take part in a range of activities. We run a variety of classes at our drop-in to help build self esteem, confidence and skills. We also offer opportunities for training and volunteering as part of our buddy scheme. We also have a part time nurse funded by the Big Lottery. 3 days a week in a our drop-in, she provides basic nursing, registration with a GP and referrals to specialist clinics. We also hold afternoon activity sessions at the drop in Tuesday-Thursday. The Beacon is often the start of our friends&#39; journey. We then refer them onto our support workers at our separate support office who offer one to one support 5 days a week. ",
+          "tags": [
+            "Homeless and vulnerable adults"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "The Beacon",
+            "street1": "45 Bloom Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 3LY",
+            "openingTimes": [],
+            "latitude": 53.4769358511002,
+            "longitude": -2.23806468087968,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "19:45",
+            "endTime": "21:00",
+            "day": "Tuesday"
+          },
+          "locationDescription": "The Beacon, drop in centre on Bloom Street near Chorlton Street Bus Station"
+        },
+        {
+          "key": "samaritans",
+          "name": "Samaritans",
+          "serviceInfo": "If there's something troubling you, come to us for confidential advice.",
+          "tags": [],
+          "address": {
+            "key": "11947134-ddff-47bc-823b-c37fd91d62f5",
+            "street": "74 Oxford Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 5NH",
+            "openingTimes": [],
+            "latitude": 53.4742063958118,
+            "longitude": -2.24103245938343,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "08:30",
+            "endTime": "20:30",
+            "day": "Tuesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "lifeshare",
+          "name": "Lifeshare",
+          "serviceInfo": "Young People&#39;s drop in for age 16-25",
+          "tags": [
+            "16-25s"
+          ],
+          "address": {
+            "key": "15fcd356-f8ab-4302-bdc0-36960b223c3a",
+            "street": "1st floor",
+            "street1": "27 Houldsworth Street",
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M1 1EB",
+            "openingTimes": [
+              {
+                "startTime": "10:00",
+                "endTime": "16:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "16:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "16:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "16:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "16:00",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4835909837923,
+            "longitude": -2.2316221630479,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "14:00",
+            "endTime": "16:00",
+            "day": "Tuesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "albert-kennedy-trust",
+          "name": "Albert Kennedy Trust",
+          "serviceInfo": "Pop in for advice, but it is best to call us before you come.",
+          "tags": [
+            "LGBT"
+          ],
+          "address": {
+            "key": "3505474b-dd5a-4645-8b6f-bee0896b78b5",
+            "street": "5 Oak Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M4 5JD",
+            "openingTimes": [],
+            "latitude": 53.4841042329318,
+            "longitude": -2.23575401058525,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "16:30",
+            "day": "Tuesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "mash-manchester-action-on-street-health",
+          "name": "MASH; Manchester Action on Street Health ",
+          "serviceInfo": "A welcoming, supportive dropin for women who sex work, with access to refreshments.",
+          "tags": [
+            "sex workers"
+          ],
+          "address": {
+            "key": "266c1a98-f267-4760-978b-cf6cbc7baa23",
+            "street": "94-96 Fairfield St  ",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M1 2WR",
+            "openingTimes": [
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Monday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.475420606571,
+            "longitude": -2.22208576134738,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "12:30",
+            "endTime": "15:30",
+            "day": "Tuesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "mash-manchester-action-on-street-health",
+          "name": "MASH; Manchester Action on Street Health ",
+          "serviceInfo": "A welcoming, supportive dropin for women who sex work, with access to refreshments.",
+          "tags": [
+            "sex workers"
+          ],
+          "address": {
+            "key": "266c1a98-f267-4760-978b-cf6cbc7baa23",
+            "street": "94-96 Fairfield St  ",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M1 2WR",
+            "openingTimes": [
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Monday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.475420606571,
+            "longitude": -2.22208576134738,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "20:00",
+            "endTime": "22:45",
+            "day": "Tuesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "justlife",
+          "name": "Justlife",
+          "serviceInfo": "Drop in for a coffee and chat or to use the computer.",
+          "tags": [
+            "For people living in unsupported temporary accommodation (B&amp;B&#39;s)"
+          ],
+          "address": {
+            "key": "b13a3d1b-1ee0-4339-a585-21d4f2903709",
+            "street": "Brunswick Parish Church",
+            "street1": "Brunswick Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M13 9TQ",
+            "openingTimes": [
+              {
+                "startTime": "11:00",
+                "endTime": "13:30",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "11:00",
+                "endTime": "13:30",
+                "day": "Thursday"
+              }
+            ],
+            "latitude": 53.4693287275071,
+            "longitude": -2.22565428686088,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "11:00",
+            "endTime": "13:30",
+            "day": "Tuesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "booth-centre",
+          "name": "Booth Centre",
+          "serviceInfo": "Drop in advice hub open daily providing support and advice, free internet access, free drinks and a snack.",
+          "tags": [
+            "Over 18s"
+          ],
+          "address": {
+            "key": "63000f37-75f8-48f8-b344-5560488edf5e",
+            "street": "Edward Holt House",
+            "street1": "Pimblett Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M3 1FU",
+            "openingTimes": [],
+            "latitude": 53.4905686797488,
+            "longitude": -2.2438382465874,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "13:00",
+            "day": "Tuesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "A warm, safe and comfortable environment to access our services, rest or meet other clients and socialise.",
+          "tags": [
+            "Adult"
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Tuesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "people-first-housing",
+          "name": "People First Housing Association",
+          "serviceInfo": "Up to an hour&#39;s support with filling out forms, writing a CV, using the phone to contact benefits, landlords, doctors, etc, reading through letters, using the internet. Please call 0161 235 6900 to book an appointment.",
+          "tags": [
+            "Homeless or at risk;"
+          ],
+          "address": {
+            "key": "d2863daf-c4c9-442f-b35b-bfe9772a70c7",
+            "street": "Avenue Library",
+            "street1": "Victoria Avenue East",
+            "street2": null,
+            "street3": null,
+            "city": "Blackley",
+            "postcode": "M9 6HW",
+            "openingTimes": [],
+            "latitude": 53.5324256405775,
+            "longitude": -2.20678464430017,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "12:30",
+            "day": "Tuesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "salford-ucrc",
+          "name": "Salford UCRC",
+          "serviceInfo": "The Centre runs welfare benefit drop-in sessions on Monday, Tuesday, Thursday and Friday from 9am - 11.30am, where you can get initial advice.",
+          "tags": [],
+          "address": {
+            "key": "d364539f-fee9-4531-80c6-982d48b383bf",
+            "street": "84-86 Liverpool Road",
+            "street1": "Eccles ",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M30 0WZ",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4832949834766,
+            "longitude": -2.34962788251715,
+            "isOpen247": false,
+            "telephone": "0161 789 2999 "
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "11:30",
+            "day": "Tuesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "manchester-integrated-drug-and-alcohol-service",
+          "name": "Manchester Integrated Drug and Alcohol Service",
+          "serviceInfo": "Breakfast club and advice drop in.",
+          "tags": [],
+          "address": {
+            "key": "ce9a67f7-4b15-484c-a81c-7e5a33cf3a68",
+            "street": "Bradnor Road",
+            "street1": "Sharston Industrial Estate",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M22 4TF",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Friday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Saturday"
+              }
+            ],
+            "latitude": 53.4005615359763,
+            "longitude": -2.25909978430467,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "12:30",
+            "day": "Tuesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "ypsf",
+          "name": "Young People's Support Foundation",
+          "serviceInfo": "Advice for young people on housing, employment, money, health and relationships along with a free breakfast, shower, laundry and computer facilities",
+          "tags": [
+            "16 - 25"
+          ],
+          "address": {
+            "key": "9641769e-26c5-4537-9f59-9727fee5fdb5",
+            "street": "Signpost",
+            "street1": "St Andrew&#39;s Hall",
+            "street2": "Brownley Road",
+            "street3": "Wythenshawe",
+            "city": "",
+            "postcode": "M22 0DW",
+            "openingTimes": [
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Friday"
+              },
+              {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.3771013384639,
+            "longitude": -2.25907748121929,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "12:00",
+            "day": "Tuesday"
+          },
+          "locationDescription": ""
+        }
+      ],
+      "index": 1
+    },
+    {
+      "name": "Wednesday",
+      "serviceProviders": [
+        {
+          "key": "barnabus",
+          "name": "Barnabus",
+          "serviceInfo": "Our Beacon drop-in is open 5 days a week offering a hot breakfast, snacks and some evening meals. We also offer food, clothes, blankets, hot showers and toiletries for our friends. The centre receives around 500 visits per week where our friends are able to take part in a range of activities. We run a variety of classes at our drop-in to help build self esteem, confidence and skills. We also offer opportunities for training and volunteering as part of our buddy scheme. We also have a part time nurse funded by the Big Lottery. 3 days a week in a our drop-in, she provides basic nursing, registration with a GP and referrals to specialist clinics. We also hold afternoon activity sessions at the drop in Tuesday-Thursday. The Beacon is often the start of our friends&#39; journey. We then refer them onto our support workers at our separate support office who offer one to one support 5 days a week. ",
+          "tags": [
+            "Homeless and vulnerable adults"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "The Beacon",
+            "street1": "45 Bloom Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 3LY",
+            "openingTimes": [],
+            "latitude": 53.4769358511002,
+            "longitude": -2.23806468087968,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "13:00",
+            "day": "Wednesday"
+          },
+          "locationDescription": "The Beacon, drop in centre on Bloom Street near Chorlton Street Bus Station"
+        },
+        {
+          "key": "barnabus",
+          "name": "Barnabus",
+          "serviceInfo": "Our Beacon drop-in is open 5 days a week offering a hot breakfast, snacks and some evening meals. We also offer food, clothes, blankets, hot showers and toiletries for our friends. The centre receives around 500 visits per week where our friends are able to take part in a range of activities. We run a variety of classes at our drop-in to help build self esteem, confidence and skills. We also offer opportunities for training and volunteering as part of our buddy scheme. We also have a part time nurse funded by the Big Lottery. 3 days a week in a our drop-in, she provides basic nursing, registration with a GP and referrals to specialist clinics. We also hold afternoon activity sessions at the drop in Tuesday-Thursday. The Beacon is often the start of our friends&#39; journey. We then refer them onto our support workers at our separate support office who offer one to one support 5 days a week. ",
+          "tags": [
+            "Homeless and vulnerable adults"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "The Beacon",
+            "street1": "45 Bloom Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 3LY",
+            "openingTimes": [],
+            "latitude": 53.4769358511002,
+            "longitude": -2.23806468087968,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "14:00",
+            "endTime": "16:00",
+            "day": "Wednesday"
+          },
+          "locationDescription": "The Beacon, drop in centre on Bloom Street near Chorlton Street Bus Station"
+        },
+        {
+          "key": "samaritans",
+          "name": "Samaritans",
+          "serviceInfo": "If there's something troubling you, come to us for confidential advice.",
+          "tags": [],
+          "address": {
+            "key": "11947134-ddff-47bc-823b-c37fd91d62f5",
+            "street": "74 Oxford Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 5NH",
+            "openingTimes": [],
+            "latitude": 53.4742063958118,
+            "longitude": -2.24103245938343,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "08:30",
+            "endTime": "20:30",
+            "day": "Wednesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "albert-kennedy-trust",
+          "name": "Albert Kennedy Trust",
+          "serviceInfo": "Pop in for advice, but it is best to call us before you come.",
+          "tags": [
+            "LGBT"
+          ],
+          "address": {
+            "key": "3505474b-dd5a-4645-8b6f-bee0896b78b5",
+            "street": "5 Oak Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M4 5JD",
+            "openingTimes": [],
+            "latitude": 53.4841042329318,
+            "longitude": -2.23575401058525,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "16:30",
+            "day": "Wednesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "mash-manchester-action-on-street-health",
+          "name": "MASH; Manchester Action on Street Health ",
+          "serviceInfo": "A welcoming, supportive dropin for women who sex work, with access to refreshments.",
+          "tags": [
+            "sex workers"
+          ],
+          "address": {
+            "key": "266c1a98-f267-4760-978b-cf6cbc7baa23",
+            "street": "94-96 Fairfield St  ",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M1 2WR",
+            "openingTimes": [
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Monday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.475420606571,
+            "longitude": -2.22208576134738,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "12:30",
+            "endTime": "15:30",
+            "day": "Wednesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "mash-manchester-action-on-street-health",
+          "name": "MASH; Manchester Action on Street Health ",
+          "serviceInfo": "A welcoming, supportive dropin for women who sex work, with access to refreshments.",
+          "tags": [
+            "sex workers"
+          ],
+          "address": {
+            "key": "266c1a98-f267-4760-978b-cf6cbc7baa23",
+            "street": "94-96 Fairfield St  ",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M1 2WR",
+            "openingTimes": [
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Monday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.475420606571,
+            "longitude": -2.22208576134738,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "20:00",
+            "endTime": "22:45",
+            "day": "Wednesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "sanctury",
+          "name": "Sanctuary",
+          "serviceInfo": "Hot meal and music on alternate Wednesdays. 14th December, 11th/25th January.",
+          "tags": [],
+          "address": {
+            "key": "b33b50bc-528c-4543-9b48-cac26b8e3158",
+            "street": "110 Oldham Rd",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M4 6AG",
+            "openingTimes": [
+              {
+                "startTime": "19:30",
+                "endTime": "21:00",
+                "day": "Wednesday"
+              }
+            ],
+            "latitude": 53.4865827925854,
+            "longitude": -2.22764482381055,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "19:30",
+            "endTime": "21:00",
+            "day": "Wednesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "urban-village-medical-practice",
+          "name": "Urban Village Medical Practice",
+          "serviceInfo": "Homeless Clinic dropin for registered patients - to register contact Rachel Brennan on 07847476402 or 0161 2725652. We have GP and nurse, drug assessment/treatment, alcohol and mental health advice.",
+          "tags": [],
+          "address": {
+            "key": "301b974b-7e47-4377-b87c-b41e0ce4f01d",
+            "street": "Ancoats Primary Care Centre",
+            "street1": "Old Mill Street",
+            "street2": "Ancoats",
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M4 6EE",
+            "openingTimes": [],
+            "latitude": 53.4829128466428,
+            "longitude": -2.21945770466593,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "14:30",
+            "endTime": "16:30",
+            "day": "Wednesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "booth-centre",
+          "name": "Booth Centre",
+          "serviceInfo": "Drop in advice hub open daily providing support and advice, free internet access, free drinks and a snack.",
+          "tags": [
+            "Over 18s"
+          ],
+          "address": {
+            "key": "63000f37-75f8-48f8-b344-5560488edf5e",
+            "street": "Edward Holt House",
+            "street1": "Pimblett Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M3 1FU",
+            "openingTimes": [],
+            "latitude": 53.4905686797488,
+            "longitude": -2.2438382465874,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "13:00",
+            "day": "Wednesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "A warm, safe and comfortable environment to access our services, rest or meet other clients and socialise.",
+          "tags": [
+            "Adult"
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Wednesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "salford-loaves-and-fishes",
+          "name": "Salford Loaves and Fishes",
+          "serviceInfo": "Drop-in centre offering a communal space with an equipped lounge. Cheap hot meals, showers and laundry. Free tea, coffee and soup. The centre hosts services provided by the Citizens Advice Bureau and Salford Health Matters - support and advice, doctor's surgery, drug and alcohol clinic, needle exchange, dental treatment. Specialist stop smoking advice and literacy support.",
+          "tags": [
+            "Anyone over the age of 18"
+          ],
+          "address": {
+            "key": "18978a61-06db-4dfb-9bd3-ae0a2c14216c",
+            "street": "Mona Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Salford",
+            "postcode": "M6 6PP",
+            "openingTimes": [],
+            "latitude": 53.4919920086962,
+            "longitude": -2.28317012009174,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:30",
+            "endTime": "14:00",
+            "day": "Wednesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "manchester-integrated-drug-and-alcohol-service",
+          "name": "Manchester Integrated Drug and Alcohol Service",
+          "serviceInfo": "Breakfast club and advice drop in.",
+          "tags": [],
+          "address": {
+            "key": "ce9a67f7-4b15-484c-a81c-7e5a33cf3a68",
+            "street": "Bradnor Road",
+            "street1": "Sharston Industrial Estate",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M22 4TF",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Friday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Saturday"
+              }
+            ],
+            "latitude": 53.4005615359763,
+            "longitude": -2.25909978430467,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "12:30",
+            "day": "Wednesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "st-ann39s-health-and-wellbeing-hub",
+          "name": "St Ann&#39;s Hospice",
+          "serviceInfo": "The health and wellbeing Hub is a drop in service, anybody is welcome - patients carers and health care professionals - to get information and advice and to see what we can offer. A registered nurse will be available throughout the session. A volunteer will also be available to help people access online information and creative therapy materials will be available as well. We are hoping that this new service will mean we can provide help and advice to more people and that more patients for the potentially progressive life-limiting illness will be able to access our services.",
+          "tags": [],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "St Ann&rsquo;s Hospice ",
+            "street1": "Meadowsweet Lane (off Peel Lane)",
+            "street2": "Little Hulton",
+            "street3": "Worsley",
+            "city": "Manchester",
+            "postcode": "M28 0FE",
+            "openingTimes": [],
+            "latitude": 53.5281540693782,
+            "longitude": -2.42521238242318,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "12:00",
+            "endTime": "17:00",
+            "day": "Wednesday"
+          },
+          "locationDescription": "NB: The service is available for three weeks of the month at the address below: &#10;&#10;St Ann&rsquo;s Hospice &#10;Meadowsweet Lane (off Peel Lane)&#10;Little Hulton, Worsley,&#10;Manchester M28 OFE&#10;&#10;The remaining week will be an outreach service. It is advisable to confirm location details with the organisation on  0161 702 5416."
+        }
+      ],
+      "index": 2
+    },
+    {
+      "name": "Thursday",
+      "serviceProviders": [
+        {
+          "key": "barnabus",
+          "name": "Barnabus",
+          "serviceInfo": "Our Beacon drop-in is open 5 days a week offering a hot breakfast, snacks and some evening meals. We also offer food, clothes, blankets, hot showers and toiletries for our friends. The centre receives around 500 visits per week where our friends are able to take part in a range of activities. We run a variety of classes at our drop-in to help build self esteem, confidence and skills. We also offer opportunities for training and volunteering as part of our buddy scheme. We also have a part time nurse funded by the Big Lottery. 3 days a week in a our drop-in, she provides basic nursing, registration with a GP and referrals to specialist clinics. We also hold afternoon activity sessions at the drop in Tuesday-Thursday. The Beacon is often the start of our friends&#39; journey. We then refer them onto our support workers at our separate support office who offer one to one support 5 days a week. ",
+          "tags": [
+            "Homeless and vulnerable adults"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "The Beacon",
+            "street1": "45 Bloom Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 3LY",
+            "openingTimes": [],
+            "latitude": 53.4769358511002,
+            "longitude": -2.23806468087968,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "13:00",
+            "day": "Thursday"
+          },
+          "locationDescription": "The Beacon, drop in centre on Bloom Street near Chorlton Street Bus Station"
+        },
+        {
+          "key": "barnabus",
+          "name": "Barnabus",
+          "serviceInfo": "Our Beacon drop-in is open 5 days a week offering a hot breakfast, snacks and some evening meals. We also offer food, clothes, blankets, hot showers and toiletries for our friends. The centre receives around 500 visits per week where our friends are able to take part in a range of activities. We run a variety of classes at our drop-in to help build self esteem, confidence and skills. We also offer opportunities for training and volunteering as part of our buddy scheme. We also have a part time nurse funded by the Big Lottery. 3 days a week in a our drop-in, she provides basic nursing, registration with a GP and referrals to specialist clinics. We also hold afternoon activity sessions at the drop in Tuesday-Thursday. The Beacon is often the start of our friends&#39; journey. We then refer them onto our support workers at our separate support office who offer one to one support 5 days a week. ",
+          "tags": [
+            "Homeless and vulnerable adults"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "The Beacon",
+            "street1": "45 Bloom Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 3LY",
+            "openingTimes": [],
+            "latitude": 53.4769358511002,
+            "longitude": -2.23806468087968,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "14:00",
+            "endTime": "15:30",
+            "day": "Thursday"
+          },
+          "locationDescription": "The Beacon, drop in centre on Bloom Street near Chorlton Street Bus Station"
+        },
+        {
+          "key": "samaritans",
+          "name": "Samaritans",
+          "serviceInfo": "If there's something troubling you, come to us for confidential advice.",
+          "tags": [],
+          "address": {
+            "key": "11947134-ddff-47bc-823b-c37fd91d62f5",
+            "street": "74 Oxford Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 5NH",
+            "openingTimes": [],
+            "latitude": 53.4742063958118,
+            "longitude": -2.24103245938343,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "08:30",
+            "endTime": "20:30",
+            "day": "Thursday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "albert-kennedy-trust",
+          "name": "Albert Kennedy Trust",
+          "serviceInfo": "Pop in for advice, but it is best to call us before you come.",
+          "tags": [
+            "LGBT"
+          ],
+          "address": {
+            "key": "3505474b-dd5a-4645-8b6f-bee0896b78b5",
+            "street": "5 Oak Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M4 5JD",
+            "openingTimes": [],
+            "latitude": 53.4841042329318,
+            "longitude": -2.23575401058525,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "16:30",
+            "day": "Thursday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "mash-manchester-action-on-street-health",
+          "name": "MASH; Manchester Action on Street Health ",
+          "serviceInfo": "A welcoming, supportive dropin for women who sex work, with access to refreshments.",
+          "tags": [
+            "sex workers"
+          ],
+          "address": {
+            "key": "266c1a98-f267-4760-978b-cf6cbc7baa23",
+            "street": "94-96 Fairfield St  ",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M1 2WR",
+            "openingTimes": [
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Monday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.475420606571,
+            "longitude": -2.22208576134738,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "12:30",
+            "endTime": "15:30",
+            "day": "Thursday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "mash-manchester-action-on-street-health",
+          "name": "MASH; Manchester Action on Street Health ",
+          "serviceInfo": "A welcoming, supportive dropin for women who sex work, with access to refreshments.",
+          "tags": [
+            "sex workers"
+          ],
+          "address": {
+            "key": "266c1a98-f267-4760-978b-cf6cbc7baa23",
+            "street": "94-96 Fairfield St  ",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M1 2WR",
+            "openingTimes": [
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Monday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.475420606571,
+            "longitude": -2.22208576134738,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "20:00",
+            "endTime": "22:45",
+            "day": "Thursday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "people-first-housing",
+          "name": "People First Housing Association",
+          "serviceInfo": "Up to an hour&#39;s support with filling out forms, writing a CV, using the phone to contact benefits, landlords, doctors, etc, reading through letters, using the internet. Please call 0161 235 6900 to book an appointment.",
+          "tags": [
+            "Homeless or at risk;"
+          ],
+          "address": {
+            "key": "986c9b82-f45b-4c52-b033-dc98e8b42bc8",
+            "street": "1 City Road",
+            "street1": "City Road East",
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 4PN",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4722233243208,
+            "longitude": -2.24816217051489,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "15:00",
+            "day": "Thursday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "justlife",
+          "name": "Justlife",
+          "serviceInfo": "Drop in for a coffee and chat or to use the computer.",
+          "tags": [
+            "For people living in unsupported temporary accommodation (B&amp;B&#39;s)"
+          ],
+          "address": {
+            "key": "b13a3d1b-1ee0-4339-a585-21d4f2903709",
+            "street": "Brunswick Parish Church",
+            "street1": "Brunswick Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M13 9TQ",
+            "openingTimes": [
+              {
+                "startTime": "11:00",
+                "endTime": "13:30",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "11:00",
+                "endTime": "13:30",
+                "day": "Thursday"
+              }
+            ],
+            "latitude": 53.4693287275071,
+            "longitude": -2.22565428686088,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "11:00",
+            "endTime": "13:30",
+            "day": "Thursday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "booth-centre",
+          "name": "Booth Centre",
+          "serviceInfo": "Drop in advice hub open daily providing support and advice, free internet access, free drinks and a snack.",
+          "tags": [
+            "Over 18s"
+          ],
+          "address": {
+            "key": "63000f37-75f8-48f8-b344-5560488edf5e",
+            "street": "Edward Holt House",
+            "street1": "Pimblett Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M3 1FU",
+            "openingTimes": [],
+            "latitude": 53.4905686797488,
+            "longitude": -2.2438382465874,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "13:00",
+            "day": "Thursday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "A warm, safe and comfortable environment to access our services, rest or meet other clients and socialise.",
+          "tags": [
+            "Adult"
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Thursday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "salford-loaves-and-fishes",
+          "name": "Salford Loaves and Fishes",
+          "serviceInfo": "Drop-in centre offering a communal space with an equipped lounge. Cheap hot meals, showers and laundry. Free tea, coffee and soup. The centre hosts services provided by the Citizens Advice Bureau and Salford Health Matters - support and advice, doctor's surgery, drug and alcohol clinic, needle exchange, dental treatment. Specialist stop smoking advice and literacy support.",
+          "tags": [
+            "Anyone over the age of 18"
+          ],
+          "address": {
+            "key": "18978a61-06db-4dfb-9bd3-ae0a2c14216c",
+            "street": "Mona Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Salford",
+            "postcode": "M6 6PP",
+            "openingTimes": [],
+            "latitude": 53.4919920086962,
+            "longitude": -2.28317012009174,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:30",
+            "endTime": "14:00",
+            "day": "Thursday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "justlife",
+          "name": "Justlife",
+          "serviceInfo": "Community Cafe",
+          "tags": [
+            "Anyone in the local community that is over 18"
+          ],
+          "address": {
+            "key": "30a3f850-872d-4ad1-ab10-4bfcdcdc6beb",
+            "street": "1479-1489 Ashton Old Road",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M11 1HH",
+            "openingTimes": [
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4729554702876,
+            "longitude": -2.15524205867038,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "12:00",
+            "day": "Thursday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "salford-ucrc",
+          "name": "Salford UCRC",
+          "serviceInfo": "The Centre runs welfare benefit drop-in sessions on Monday, Tuesday, Thursday and Friday from 9am - 11.30am, where you can get initial advice.",
+          "tags": [],
+          "address": {
+            "key": "d364539f-fee9-4531-80c6-982d48b383bf",
+            "street": "84-86 Liverpool Road",
+            "street1": "Eccles ",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M30 0WZ",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4832949834766,
+            "longitude": -2.34962788251715,
+            "isOpen247": false,
+            "telephone": "0161 789 2999 "
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "11:30",
+            "day": "Thursday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "manchester-integrated-drug-and-alcohol-service",
+          "name": "Manchester Integrated Drug and Alcohol Service",
+          "serviceInfo": "Breakfast club and advice drop in.",
+          "tags": [],
+          "address": {
+            "key": "ce9a67f7-4b15-484c-a81c-7e5a33cf3a68",
+            "street": "Bradnor Road",
+            "street1": "Sharston Industrial Estate",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M22 4TF",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Friday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Saturday"
+              }
+            ],
+            "latitude": 53.4005615359763,
+            "longitude": -2.25909978430467,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "12:30",
+            "day": "Thursday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "people-first-housing",
+          "name": "People First Housing Association",
+          "serviceInfo": "Up to an hour&#39;s support with filling out forms, writing a CV, using the phone to contact benefits, landlords, doctors, etc, reading through letters, using the internet. Please call 0161 235 6900 to book an appointment.",
+          "tags": [
+            "Homeless or at risk;"
+          ],
+          "address": {
+            "key": "0d4efbe6-92ce-4697-a724-8d1f56af7f0b",
+            "street": "Forum Square",
+            "street1": "Wythenshawe",
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M22 5RX",
+            "openingTimes": [
+              {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "day": "Thursday"
+              }
+            ],
+            "latitude": 53.380541050611,
+            "longitude": -2.26451023899937,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "13:00",
+            "day": "Thursday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "ypsf",
+          "name": "Young People's Support Foundation",
+          "serviceInfo": "Advice for young people on housing, employment, money, health and relationships along with a free breakfast, shower, laundry and computer facilities",
+          "tags": [
+            "16 - 25"
+          ],
+          "address": {
+            "key": "9641769e-26c5-4537-9f59-9727fee5fdb5",
+            "street": "Signpost",
+            "street1": "St Andrew&#39;s Hall",
+            "street2": "Brownley Road",
+            "street3": "Wythenshawe",
+            "city": "",
+            "postcode": "M22 0DW",
+            "openingTimes": [
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Friday"
+              },
+              {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.3771013384639,
+            "longitude": -2.25907748121929,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "12:00",
+            "day": "Thursday"
+          },
+          "locationDescription": ""
+        }
+      ],
+      "index": 3
+    },
+    {
+      "name": "Friday",
+      "serviceProviders": [
+        {
+          "key": "barnabus",
+          "name": "Barnabus",
+          "serviceInfo": "Our Beacon drop-in is open 5 days a week offering a hot breakfast, snacks and some evening meals. We also offer food, clothes, blankets, hot showers and toiletries for our friends. The centre receives around 500 visits per week where our friends are able to take part in a range of activities. We run a variety of classes at our drop-in to help build self esteem, confidence and skills. We also offer opportunities for training and volunteering as part of our buddy scheme. We also have a part time nurse funded by the Big Lottery. 3 days a week in a our drop-in, she provides basic nursing, registration with a GP and referrals to specialist clinics. We also hold afternoon activity sessions at the drop in Tuesday-Thursday. The Beacon is often the start of our friends&#39; journey. We then refer them onto our support workers at our separate support office who offer one to one support 5 days a week. ",
+          "tags": [
+            "Homeless and vulnerable adults"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "The Beacon",
+            "street1": "45 Bloom Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 3LY",
+            "openingTimes": [],
+            "latitude": 53.4769358511002,
+            "longitude": -2.23806468087968,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "13:00",
+            "day": "Friday"
+          },
+          "locationDescription": "The Beacon, drop in centre on Bloom Street near Chorlton Street Bus Station"
+        },
+        {
+          "key": "samaritans",
+          "name": "Samaritans",
+          "serviceInfo": "If there's something troubling you, come to us for confidential advice.",
+          "tags": [],
+          "address": {
+            "key": "11947134-ddff-47bc-823b-c37fd91d62f5",
+            "street": "74 Oxford Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 5NH",
+            "openingTimes": [],
+            "latitude": 53.4742063958118,
+            "longitude": -2.24103245938343,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "08:30",
+            "endTime": "20:30",
+            "day": "Friday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "lifeshare",
+          "name": "Lifeshare",
+          "serviceInfo": "Young People&#39;s drop in for age 16-25",
+          "tags": [
+            "16-25s"
+          ],
+          "address": {
+            "key": "15fcd356-f8ab-4302-bdc0-36960b223c3a",
+            "street": "1st floor",
+            "street1": "27 Houldsworth Street",
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M1 1EB",
+            "openingTimes": [
+              {
+                "startTime": "10:00",
+                "endTime": "16:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "16:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "16:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "16:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "16:00",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4835909837923,
+            "longitude": -2.2316221630479,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "14:00",
+            "endTime": "16:00",
+            "day": "Friday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "albert-kennedy-trust",
+          "name": "Albert Kennedy Trust",
+          "serviceInfo": "Pop in for advice, but it is best to call us before you come.",
+          "tags": [
+            "LGBT"
+          ],
+          "address": {
+            "key": "3505474b-dd5a-4645-8b6f-bee0896b78b5",
+            "street": "5 Oak Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M4 5JD",
+            "openingTimes": [],
+            "latitude": 53.4841042329318,
+            "longitude": -2.23575401058525,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "16:30",
+            "day": "Friday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "st-ann39s-church",
+          "name": "St Ann&#39;s Church",
+          "serviceInfo": "Morning Hours is a safe-space for anyone who is street homeless and moved out of shop doorways in the early hours. In addition to providing a safe-space, Morning Hours has toilet facilities, as well as a basic breakfast of tea/coffee and toast. Morning Hours is open every Friday, between 7am and 9am.",
+          "tags": [],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "St Ann Church",
+            "street1": "St Ann Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M2 7LF",
+            "openingTimes": [],
+            "latitude": 53.4816828791461,
+            "longitude": -2.24637904956573,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:00",
+            "endTime": "09:00",
+            "day": "Friday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "mash-manchester-action-on-street-health",
+          "name": "MASH; Manchester Action on Street Health ",
+          "serviceInfo": "A welcoming, supportive dropin for women who sex work, with access to refreshments.",
+          "tags": [
+            "sex workers"
+          ],
+          "address": {
+            "key": "266c1a98-f267-4760-978b-cf6cbc7baa23",
+            "street": "94-96 Fairfield St  ",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M1 2WR",
+            "openingTimes": [
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Monday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "20:00",
+                "endTime": "22:45",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "12:30",
+                "endTime": "15:30",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.475420606571,
+            "longitude": -2.22208576134738,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "12:30",
+            "endTime": "15:30",
+            "day": "Friday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "booth-centre",
+          "name": "Booth Centre",
+          "serviceInfo": "Drop in advice hub open daily providing support and advice, free internet access, free drinks and a snack.",
+          "tags": [
+            "Over 18s"
+          ],
+          "address": {
+            "key": "63000f37-75f8-48f8-b344-5560488edf5e",
+            "street": "Edward Holt House",
+            "street1": "Pimblett Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M3 1FU",
+            "openingTimes": [],
+            "latitude": 53.4905686797488,
+            "longitude": -2.2438382465874,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "13:00",
+            "day": "Friday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "A warm, safe and comfortable environment to access our services, rest or meet other clients and socialise.",
+          "tags": [
+            "Adult"
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Friday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "justlife",
+          "name": "Justlife",
+          "serviceInfo": "Drop in for a coffee and chat or to use the computer.",
+          "tags": [
+            "People living in Unsupported Temporary Accommodation"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "1479-1489 Ashton Old Road,",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M11 1HH",
+            "openingTimes": [],
+            "latitude": 53.4729554702876,
+            "longitude": -2.15524205867038,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "11:00",
+            "endTime": "13:00",
+            "day": "Friday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "salford-ucrc",
+          "name": "Salford UCRC",
+          "serviceInfo": "The Centre runs welfare benefit drop-in sessions on Monday, Tuesday, Thursday and Friday from 9am - 11.30am, where you can get initial advice.",
+          "tags": [],
+          "address": {
+            "key": "d364539f-fee9-4531-80c6-982d48b383bf",
+            "street": "84-86 Liverpool Road",
+            "street1": "Eccles ",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M30 0WZ",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "16:30",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4832949834766,
+            "longitude": -2.34962788251715,
+            "isOpen247": false,
+            "telephone": "0161 789 2999 "
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "11:30",
+            "day": "Friday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "manchester-integrated-drug-and-alcohol-service",
+          "name": "Manchester Integrated Drug and Alcohol Service",
+          "serviceInfo": "Breakfast club and advice drop in.",
+          "tags": [],
+          "address": {
+            "key": "ce9a67f7-4b15-484c-a81c-7e5a33cf3a68",
+            "street": "Bradnor Road",
+            "street1": "Sharston Industrial Estate",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M22 4TF",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Friday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Saturday"
+              }
+            ],
+            "latitude": 53.4005615359763,
+            "longitude": -2.25909978430467,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "10:30",
+            "day": "Friday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "salvation-army-oldham",
+          "name": "Salvation Army (Oldham)",
+          "serviceInfo": "We currently offer is a Drop In service where people can get a hot meal. We also have support workers from other agencies that work alongside us at the drop in to provide advice and signposting.",
+          "tags": [],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "203 Roundthorn Road",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Oldham",
+            "postcode": "OL4 5LD",
+            "openingTimes": [],
+            "latitude": 53.5358962354254,
+            "longitude": -2.09011188936555,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "11:00",
+            "endTime": "13:00",
+            "day": "Friday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "bury-rough-sleepers",
+          "name": "Bury Rough Sleepers",
+          "serviceInfo": null,
+          "tags": [],
+          "address": {
+            "key": "4e8673e2-902c-461d-8d3c-b6cb6d902e5e",
+            "street": "Mosses Community Centre",
+            "street1": "Cecil Street",
+            "street2": "",
+            "street3": "",
+            "city": "Bury",
+            "postcode": "BL9 0SB",
+            "openingTimes": [
+              {
+                "startTime": "08:00",
+                "endTime": "12:00",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.5901695545374,
+            "longitude": -2.29168241926154,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "08:00",
+            "endTime": "12:00",
+            "day": "Friday"
+          },
+          "locationDescription": ""
+        }
+      ],
+      "index": 4
+    },
+    {
+      "name": "Saturday",
+      "serviceProviders": [
+        {
+          "key": "samaritans",
+          "name": "Samaritans",
+          "serviceInfo": "If there's something troubling you, come to us for confidential advice.",
+          "tags": [],
+          "address": {
+            "key": "11947134-ddff-47bc-823b-c37fd91d62f5",
+            "street": "74 Oxford Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 5NH",
+            "openingTimes": [],
+            "latitude": 53.4742063958118,
+            "longitude": -2.24103245938343,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "08:30",
+            "endTime": "20:30",
+            "day": "Saturday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "lifeshare",
+          "name": "Lifeshare",
+          "serviceInfo": "Breakfast Drop in with breakfast and showers for over 18s.",
+          "tags": [
+            "Over 18s"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "142 Dantzic Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M4 4DN",
+            "openingTimes": [],
+            "latitude": 53.4896579009624,
+            "longitude": -2.23635755747702,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:00",
+            "endTime": "09:00",
+            "day": "Saturday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "manchester-integrated-drug-and-alcohol-service",
+          "name": "Manchester Integrated Drug and Alcohol Service",
+          "serviceInfo": "Breakfast club and advice drop in.",
+          "tags": [],
+          "address": {
+            "key": "ce9a67f7-4b15-484c-a81c-7e5a33cf3a68",
+            "street": "Bradnor Road",
+            "street1": "Sharston Industrial Estate",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M22 4TF",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "17:00",
+                "day": "Friday"
+              },
+              {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "day": "Saturday"
+              }
+            ],
+            "latitude": 53.4005615359763,
+            "longitude": -2.25909978430467,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "12:00",
+            "day": "Saturday"
+          },
+          "locationDescription": ""
+        }
+      ],
+      "index": 5
+    },
+    {
+      "name": "Sunday",
+      "serviceProviders": [
+        {
+          "key": "samaritans",
+          "name": "Samaritans",
+          "serviceInfo": "If there's something troubling you, come to us for confidential advice.",
+          "tags": [],
+          "address": {
+            "key": "11947134-ddff-47bc-823b-c37fd91d62f5",
+            "street": "74 Oxford Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 5NH",
+            "openingTimes": [],
+            "latitude": 53.4742063958118,
+            "longitude": -2.24103245938343,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "08:30",
+            "endTime": "20:30",
+            "day": "Sunday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "coffee4craig",
+          "name": "Coffee4Craig",
+          "serviceInfo": "Hot Meals,Advice,Support,Showers,Phone and TV. at our Sunday evening drop in. ",
+          "tags": [],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "52 Oldham Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester ",
+            "postcode": "M4 1LE",
+            "openingTimes": [],
+            "latitude": 53.483397559647,
+            "longitude": -2.23401712221756,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "17:00",
+            "endTime": "19:00",
+            "day": "Sunday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "lifeshare",
+          "name": "Lifeshare",
+          "serviceInfo": "Breakfast Drop in with breakfast and showers for over 18s.",
+          "tags": [
+            "Over 18s"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "142 Dantzic Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M4 4DN",
+            "openingTimes": [],
+            "latitude": 53.4896579009624,
+            "longitude": -2.23635755747702,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:00",
+            "endTime": "09:00",
+            "day": "Sunday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "stockport-loaves-and-fishes",
+          "name": "Stockport Loaves and Fishes",
+          "serviceInfo": "Drop in providing a hot meal and drinks, a warm and friendly environment where you can get tents, sleeping bags, clothing and toiletries and advice and guidance. You also get a carry out bag of food after you have been fed.",
+          "tags": [],
+          "address": {
+            "key": "df22eabe-e2cd-43c3-bf59-b6a1e19fd583",
+            "street": "The Olive Branch",
+            "street1": "2c Castle Street",
+            "street2": "Edgeley",
+            "street3": "",
+            "city": "Stockport",
+            "postcode": "SK3 9AB",
+            "openingTimes": [
+              {
+                "startTime": "17:30",
+                "endTime": "21:00",
+                "day": "Sunday"
+              }
+            ],
+            "latitude": 53.4026813140468,
+            "longitude": -2.1634686765731,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "17:00",
+            "endTime": "19:30",
+            "day": "Sunday"
+          },
+          "locationDescription": ""
+        }
+      ],
+      "index": 6
+    }
+  ],
+  "synopsis": "Day centres and social spaces that support homeless people."
+}

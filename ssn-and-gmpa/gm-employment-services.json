@@ -1,0 +1,319 @@
+{
+  "providers": [
+    {
+      "id": "57d65c02870542339c2378da",
+      "categoryId": "employment",
+      "categoryName": "Employment",
+      "categorySynopsis": "Job opportunities with support for people experiencing homelessness.",
+      "info": "You can become a seller of Big Issue North if you are homeless, vulnerably housed or in need of earning an income.  Vendors are self employed and buy the magazine for &pound;1.25, selling it to customers for &pound;2.50 keeping the profit they make.   Make an appointment at your nearest office (see list below) to find out more. If you have problems getting to an office, you can contact us by phone on 0161 831 5550",
+      "tags": [
+        "Over 18s"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "10 Swan Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 5JN",
+        "latitude": 53.4851516443337,
+        "longitude": -2.23333357168639
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "13:00",
+          "day": "Monday"
+        }
+      ],
+      "serviceProviderId": "big-issue-north",
+      "serviceProviderName": "Big Issue North",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "jobs",
+          "name": "Job Opportunities"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58e652a2faad651940cd32e7",
+      "categoryId": "employment",
+      "categoryName": "Employment",
+      "categorySynopsis": "Job opportunities with support for people experiencing homelessness.",
+      "info": "We work closely with major employers in Manchester to understand what they are looking for in their staff and to help equip people in our communities to access real job opportunities. &#10;&#10;If you seek support to find work, and want to learn more about our service please drop into one of one of our job clubs:&#10;&#10;Mondays, Tuesdays &amp; Fridays 10am &ndash; 3pm&#10;&bull;&#9;East Hub, 27 Garratt Way, Gorton M18 7HE&#10;&#10;Wednesday 10am &ndash; 3pm &#10;&bull;&#9;Turing House, Archway 4, Hulme M15 5RL&#10;&#10;Thursdays 12:30pm &ndash; 3:30pm&#10;&bull;&#9;The Place at Platt Lane, Platt Lane, Fallowfield M14 7FB&#10;",
+      "tags": [
+        "All"
+      ],
+      "location": {
+        "description": "Mondays, Tuesdays &amp; Fridays 10am &ndash; 3pm&#10;&bull;&#9;East Hub, 27 Garratt Way, Gorton M18 7HE&#10;&#10;Wednesday 10am &ndash; 3pm &#10;&bull;&#9;Turing House, Archway 4, Hulme M15 5RL&#10;&#10;Thursdays 12:30pm &ndash; 3:30pm&#10;&bull;&#9;The Place at Platt Lane, Platt Lane, Fallowfield M14 7FB&#10;",
+        "streetLine1": "",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester ",
+        "postcode": "M15 5RL",
+        "latitude": 53.4644611142835,
+        "longitude": -2.24630934416906
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "15:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "15:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "15:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "one-manchester",
+      "serviceProviderName": "One Manchester ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "jobclub",
+          "name": "Job Clubs"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c07870542339c2378eb",
+      "categoryId": "employment",
+      "categoryName": "Employment",
+      "categorySynopsis": "Job opportunities with support for people experiencing homelessness.",
+      "info": "The Job Club is intended to assist those who are struggling to get back into employment; each course runs for between 8-12 weeks and includes; Community; Eating together, socialising and even receiving prayer if members are happy with this. Course; A structured course that enables the development of a positive self-image and an improved job application; Coaching; Planned one to one sessions for personal advice, encouragement and goal setting. A good course for those who need to turn the tables on unsuccessful job searching",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Faith Life Centre",
+        "streetLine2": "5 Mary Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1NH",
+        "latitude": 53.4901975741291,
+        "longitude": -2.24944278248027
+      },
+      "openingTimes": [
+        {
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "day": "Monday"
+        }
+      ],
+      "serviceProviderId": "feed-the-5000",
+      "serviceProviderName": "Feed the 5000",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "jobclub",
+          "name": "Job Clubs"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "584963d3b421f51a78bd8734",
+      "categoryId": "employment",
+      "categoryName": "Employment",
+      "categorySynopsis": "Job opportunities with support for people experiencing homelessness.",
+      "info": "Support all veterans with physical, mental or social injury to gain the skills and qualifications necessary to develop new careers outside the military",
+      "tags": [
+        "Armed Forces Veterans"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Walking With The Wounded",
+        "streetLine2": "42 Canada Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M40 8AE",
+        "latitude": 53.4950704717916,
+        "longitude": -2.2064217588725
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "walking-with-the-wounded",
+      "serviceProviderName": "Walking With The Wounded",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "jobs",
+          "name": "Job Opportunities"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58f6258ffaad65207c3625f6",
+      "categoryId": "employment",
+      "categoryName": "Employment",
+      "categorySynopsis": "Job opportunities with support for people experiencing homelessness.",
+      "info": "Unlocking Potential offer engaging learning activities where you can meet new people and participate in volunteering and employment related opportunities.&#10;&#10;You can either self-refer to our service or be referred by another agency who knows you.  A referral form can be found on [Tameside Council&#39;s website](http://www.tameside.gov.uk/housing/supportingpeople/floatingsupport). Telephone:  0161 339 5450",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Adullam Tameside Unlocking Potential",
+        "streetLine2": "Richmond Suite",
+        "streetLine3": "Portland House",
+        "streetLine4": "",
+        "city": "Ashton under Lyne",
+        "postcode": "OL6 7BS",
+        "latitude": 53.4868724842415,
+        "longitude": -2.10257642684842
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "adullam-homes-housing-association-limited",
+      "serviceProviderName": "Adullam Homes Housing Association Limited",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "jobs",
+          "name": "Job Opportunities"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "595271bdc238cb0e4cbc092b",
+      "categoryId": "employment",
+      "categoryName": "Employment",
+      "categorySynopsis": "Job opportunities with support for people experiencing homelessness.",
+      "info": "Our Get into programme for 16 to 25-year-olds can give you the experience and training you need to move into a job.&#10;&#10;What happens on the programme?&#10;&#10;If you&rsquo;re not in work, education or training and live in the UK, we can give you the chance to gain work experience and receive training in a specific sector through our Get into programme. We&#39;ll also focus on your employability skills to help you move into a job after the course. &#10;&#10;With programmes running in a number of sectors - including retail, construction, logistics and hospitality - you&#39;ll spend time training on the job and gain valuable work experience in your chosen sector.&#10;&#10;In order to give you the best chance of getting a job after the programme, we run courses in sectors where we know jobs are most likely to be available. &#10;&#10;The course is completely free and won&rsquo;t affect your Jobseeker&rsquo;s Allowance. We&#39;ll cover your travel costs, and may be able to support with lunch and childcare costs during the course.&#10;&#10;Not sure if this is for you?&#10;&#10;You can meet our staff before the course starts and ask us questions to decide if it&#39;s right for you.&#10;&#10;During the programme, you&#39;ll also benefit from one-to-one support to help you think about what you&#39;d like to do after the course finishes, and will have the option of support either from our staff or a volunteer mentor for up to six months. ",
+      "tags": [
+        "16 to 25-year-olds"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "70 The Rock",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Bury",
+        "postcode": "BL9 0PB",
+        "latitude": 53.5941167106942,
+        "longitude": -2.29482201170633
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "the-prince39s-trust",
+      "serviceProviderName": "The Prince Trust",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "jobclub",
+          "name": "Job Clubs"
+        }
+      ],
+      "isOpen247": false
+    }
+  ],
+  "category": {
+    "id": "employment",
+    "name": "Employment",
+    "synopsis": "Job opportunities with support for people experiencing homelessness."
+  }
+}

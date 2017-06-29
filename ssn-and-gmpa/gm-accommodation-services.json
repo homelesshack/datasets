@@ -1,0 +1,2107 @@
+{
+  "providers": [
+    {
+      "id": "58ab18988b21a80d20d57032",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "At our support office, our support workers can make referrals for accommodation depending upon the needs of individuals and availability including nightshelters, cold weather provision, hostels and supported accomodation",
+      "tags": [
+        "Anyone who is street homeless"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Support Office",
+        "streetLine2": "61 Bloom Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 3LY",
+        "latitude": 53.4769358511002,
+        "longitude": -2.23806468087968
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "barnabus",
+      "serviceProviderName": "Barnabus",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "hostel",
+          "name": "Hostels"
+        },
+        {
+          "id": "supported",
+          "name": "Supported"
+        },
+        {
+          "id": "shelter",
+          "name": "Night shelter"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58a317060bc3da271c6a2249",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Tenancy Bond Guarantee Scheme:&#10;&#10;One of the biggest obstacles to our friends who are ready for their own home, is the requirement of an up front deposit by the landlords. This Barnabus-run scheme enables us to guarantee a deposit on behalf of our homeless friends, overcoming this issue. We also provide support for the first year of the tenancy to ensure they succeed at independent living. &#10;&#10;",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Support Office",
+        "streetLine2": "61 Bloom Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 3LY",
+        "latitude": 53.4769358511002,
+        "longitude": -2.23806468087968
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "barnabus",
+      "serviceProviderName": "Barnabus",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "financial-support",
+          "name": "Financial support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58908bda6bad1019d8f0948f",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "DURING SEVERE WEATHER ONLY; &#10;As procedure dictates when the temperature drops to zero or below for 3 consecutive nights Manchester City Council will implement SWEP.  Coffee4Craig volunteers will be on site out of hours between 9pm and midnight at 52 Oldham Street, Manchester FOR ALL ROUGH SLEEPERS TO GAIN ACCESS TO AN INDOOR SPACE. &#10;&#10;&#10;",
+      "tags": [
+        "ALL ROUGH SLEEPERS"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "52 Oldham St",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 1LE",
+        "latitude": 53.483397559647,
+        "longitude": -2.23401712221756
+      },
+      "openingTimes": [
+        {
+          "startTime": "21:00",
+          "endTime": "00:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "coffee4craig",
+      "serviceProviderName": "Coffee4Craig",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "emergency",
+          "name": "Emergency"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c02870542339c2378dd",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "At Homes of Hope we provide friendship and support within a safe, family-style home and we try to embed a culture of honesty where people feel valued and develop positive relationships.&#10;We seek to develop the life skills, resilience and well-being of our residents&#39; so that they have the choice and opportunity of moving into work, education, training or volunteering. We are passionate in helping people realise their worth and their identity, that everyone has amazing gifts, talents and abilities; and our desire is to help our residents&#39; understand their potential and avoid becoming homeless again.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "",
+        "postcode": "M1 7HB",
+        "latitude": 53.4711758064866,
+        "longitude": -2.23727916423065
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        }
+      ],
+      "serviceProviderId": "homes-of-hope",
+      "serviceProviderName": "Homes of Hope",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf3870542339c2378a7",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "People First is in business to deliver services that will improve the lives of as many people as possible.  We own and manage high quality housing in Hulme, Manchester and provide community support services across North-West England. We provide support in helping people move from temporary accommodation. ",
+      "tags": [
+        "Homeless or at risk"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "1 City Road",
+        "streetLine2": "City Road East",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M15 4PN",
+        "latitude": 53.4722233243208,
+        "longitude": -2.24816217051489
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "people-first-housing",
+      "serviceProviderName": "People First Housing Association",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "social",
+          "name": "Social Housing"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bec870542339c237886",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Boaz helps organise hosted accommodation for refused destitute asylum seekers, and homeless refugees in Greater Manchester. Contact Boaz office for referral.",
+      "tags": [
+        "Refused destitute asylum seekers",
+        "and homeless refugees."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "110 Oldham Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 6AG",
+        "latitude": 53.4865827925854,
+        "longitude": -2.22764482381055
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "boaz-trust",
+      "serviceProviderName": "BOAZ Trust",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "hosted",
+          "name": "Hosted"
+        },
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "580a725e1fc3d60ef438f285",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Boaz Night Shelter will be open from 03/10/16 to 30/04/17 for refused destitute asylum seekers, and homeless refugees in Greater Manchester. Hot meal and breakfast provided. Contact Boaz office to check space and to apply for referral. Please note Boaz Night Shelter operates from 7 churches across the city (one for each night of the week) and will move location between the churches each day.",
+      "tags": [
+        "Refused destitute asylum seekers",
+        "and homeless refugees"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "110 Oldham Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 6AG",
+        "latitude": 53.4865827925854,
+        "longitude": -2.22764482381055
+      },
+      "openingTimes": [
+        {
+          "startTime": "18:00",
+          "endTime": "07:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "07:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "07:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "07:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "07:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "07:00",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "07:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "boaz-trust",
+      "serviceProviderName": "Boaz Trust",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "shelter",
+          "name": "Night shelter"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58a1d9280bc3da271c6a006f",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "All-adult homeless households who have presented as homeless to Manchester City Council with low-medium support needs. Can accept mixed and same sex couples, groups, and those with multiple needs. Manchester connection preferred.&#10;&#10;For referrals please phone daily 24 hours or write. Application forms completed by referral agency. Assessment required. Additional information welcomed. Require proof of ID, National Insurance number and income.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Woodward Court Accommodation Centre ",
+        "streetLine2": "",
+        "streetLine3": "Woodward Street",
+        "streetLine4": "Ancoats",
+        "city": "Manchester",
+        "postcode": "M4 7JP",
+        "latitude": 53.485465098585,
+        "longitude": -2.21971201298722
+      },
+      "openingTimes": [
+        {
+          "startTime": "00:00",
+          "endTime": "00:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "00:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "00:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "00:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "00:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "00:00",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "00:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "woodward-court",
+      "serviceProviderName": "Woodward Court",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c00870542339c2378d1",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Hostel with a limited number of single rooms for single homeless women, and women escaping domestic violence.  You can come in for advice in an emergency, and we will try to help you through the referral process and find suitable accommodation.&#10;NOTE We are currently in a temporary location - please call or email for more information.",
+      "tags": [
+        "Women; Over 18s"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Plymouth Grove",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "Longsight",
+        "city": "Manchester",
+        "postcode": "M13 9LU",
+        "latitude": 53.4646952202139,
+        "longitude": -2.22323472596347
+      },
+      "openingTimes": [
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Monday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Friday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "women39s-direct-access-hostel",
+      "serviceProviderName": "Women&#39;s direct access hostel",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "hostel",
+          "name": "Hostels"
+        }
+      ],
+      "isOpen247": true
+    },
+    {
+      "id": "5828c15ad121fa194cf160e4",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "The Greater Manchester Winter Night Shelter is a rolling night shelter (using a different church each night of the week). We take referrals via The Booth Centre - please attend their drop-in service to check if there is a space and to apply for a referral. The address and opening times below refer to the Booth Centre and not our night shelter, which is open 6:30pm to 8:30am. ",
+      "tags": [
+        "Men only. Must be over 18 and homeless."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "The Booth Centre",
+        "streetLine2": "Edward Holt House",
+        "streetLine3": "Pimblett Street",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1FU",
+        "latitude": 53.4924500330502,
+        "longitude": -2.24247745383715
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greater-together-manchester",
+      "serviceProviderName": "Greater Together Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "emergency",
+          "name": "Emergency"
+        },
+        {
+          "id": "shelter",
+          "name": "Night shelter"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf3870542339c2378a4",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "16 rooms.  Phone or call in at the guest house Mon-Fri 9.30am-4pm or next door at the Cornerstone Day Centre Mon-Fri 10.30am-4pm. May accept emergency referrals Fri-Sun. If a resident is in receipt of benefits, then £46.04 pw will be required.",
+      "tags": [
+        "Over 40 male."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "104 Denmark Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Moss Side",
+        "postcode": "M15 6JS",
+        "latitude": 53.4611199299643,
+        "longitude": -2.24065702809002
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "morning-star-hostel",
+      "serviceProviderName": "Morning Star Hostel",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "hostel",
+          "name": "Hostels"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c01870542339c2378d8",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "The Limes provides supported housing for 26 young men. The accommodation provided consists of a detached house with twenty furnished single rooms spread over 3 floors. An annexe building at the rear with six furnished rooms is part of a new initiative between Manchester City Council and Chapter 1 The Limes, housing young rough sleepers, who receive intensive and holistic housing-related support. The project is staffed from 8am until midnight every day. An emergency service is provided by a sleep-in member of staff and an on-call service, as well as a waking Night Concierge. The Project Manager leads the staff team which includes a Senior Project Worker, full and part time Project Workers, an Administrator and Domestic staff. Service Users will normally stay at our project for a period of two years before moving on to independent living. We are part of the Manchester Young People&#39;s Alliance, we accept referrals through the Gateway service (YPSF City Centre Project/Signpost). Contact Pauline Gaye regarding support.",
+      "tags": [
+        "Males aged 16-30"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "76 Daisy Bank Road",
+        "streetLine2": "Victoria Park",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M14 5GL",
+        "latitude": 53.4589060159415,
+        "longitude": -2.21374627256372
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:00",
+          "endTime": "00:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "00:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "00:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "00:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "00:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "00:00",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "00:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "chapter-1---the-limes",
+      "serviceProviderName": "Chapter 1 - The Limes",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "hostel",
+          "name": "Hostels"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58496365b421f51a78bd872a",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Support to find settled accommodation for our Armed Forces Veterans. We currently have a 1 bed-roomed supported flat available for a veteran with medium risk needs, with a view to gaining education, training or employment, and settled accommodation when deemed ready. We also have rooms in our training house becoming available, that is used for veterans that are ready to return to work, or gain the skills necessary to gain full time employment. We can also enrol you for social housing in the Manchester area if you are deemed homeless or in danger of becoming so. Please use the contacts available for further information.",
+      "tags": [
+        "Armed Forces Veterans"
+      ],
+      "location": {
+        "description": "Manchester area",
+        "streetLine1": "Walking With The Wounded",
+        "streetLine2": "42 Canada Street",
+        "streetLine3": null,
+        "streetLine4": null,
+        "city": "Manchester",
+        "postcode": "M40 8AE",
+        "latitude": 53.4950704717916,
+        "longitude": -2.2064217588725
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "walking-with-the-wounded",
+      "serviceProviderName": "Walking With The Wounded",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "hostel",
+          "name": "Hostels"
+        },
+        {
+          "id": "rented",
+          "name": "Rented"
+        },
+        {
+          "id": "supported",
+          "name": "Supported"
+        },
+        {
+          "id": "social",
+          "name": "Social Housing"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf3870542339c2378a6",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "The accommodation offered comprise a mix of one bedroom dispersed, shared and self contained units that offers community-based support located in North, East and South Manchester. For referrals please call 0161 721 4140 to request online form to send to; Manchester.referrals@nacro.org.uk",
+      "tags": [
+        "18-64",
+        "homeless",
+        "single",
+        "offending risk and in need of support to address substance misuse."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "308 Clayton Ln",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M11 2AG",
+        "latitude": 53.4772061944564,
+        "longitude": -2.18716963169063
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "nacro-housing-services",
+      "serviceProviderName": "Nacro Housing - Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c02870542339c2378db",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Narrowgate is a general purpose night shelter. - we provide same day, emergency access accommodation to those referred by a registered agency. We operate year round, seven nights a week, from 7.30pm to 7am. Guests can access services during the day including food and snacks, healthcare, access to services and GP.",
+      "tags": [
+        "Over 18s",
+        "Referrals only"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Windsor Christian Centre",
+        "streetLine2": "Churchill Way",
+        "streetLine3": null,
+        "streetLine4": null,
+        "city": "Salford",
+        "postcode": "M6 5BU",
+        "latitude": 53.4860114524149,
+        "longitude": -2.28453178219705
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:00",
+          "endTime": "07:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "07:00",
+          "endTime": "07:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "07:00",
+          "endTime": "07:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "07:00",
+          "endTime": "07:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "07:00",
+          "endTime": "07:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "07:00",
+          "endTime": "07:00",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "07:00",
+          "endTime": "07:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "narrowgate",
+      "serviceProviderName": "Narrowgate",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "emergency",
+          "name": "Emergency"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58888b27b2c3d6254cfbef21",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Emmaus offers you a home, work in a social enterprise and an opportunity for you to gain confidence, training and any support you may need to live independently again. To join an Emmaus community you have to commit to working full-time in the social enterprise but the rewards for doing so are great.&#10;&#10;Help is available in things you wish to change in your life. This can cover anything &ndash; personal development, training, career development, and support to live independently. The community is a drug and alcohol free environment and we have access to alcohol and drugs support.&#10;",
+      "tags": [
+        "people aged 18 and above who agree to the conditions of joining an Emmaus community"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Emmaus House",
+        "streetLine2": "101 Fitzwarren Street",
+        "streetLine3": null,
+        "streetLine4": null,
+        "city": "Salford",
+        "postcode": "M6 5RQ",
+        "latitude": 53.4871410227688,
+        "longitude": -2.28951265147983
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:30",
+          "day": "Friday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:30",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "emmaus-salford",
+      "serviceProviderName": "Emmaus Salford",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bfb870542339c2378c4",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": " If you are homeless today you can go to Salford Housing Options Point and ask for housing options advice.",
+      "tags": [
+        "Anyone who is homeless."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Unity House",
+        "streetLine2": "Chorley Road",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Swinton",
+        "postcode": "M27 5AW",
+        "latitude": 53.5110529803902,
+        "longitude": -2.33970822223498
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "salford-housing-options",
+      "serviceProviderName": "Salford Housing Options",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "emergency",
+          "name": "Emergency"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58e3b3c8faad65099ce9add8",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Threshold Great Moves provides dispersed units of supported accommodation in different locations in the borough. Staff provide support with independent living skills, cooking, benefits, budgeting, drug and alcohol issues, access to education, training and employment.&#10;&#10;Referrals to this project need to be made through the single point of access based at Tameside Housing Advice. Please phone 0161 331 2700 or visit [Tameside Housing Advice&rsquo;s website](http://tamesidehousingadvice.org).",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Threshold",
+        "streetLine2": "New Charter Housing Trust Group ",
+        "streetLine3": "Cavendish 249",
+        "streetLine4": "Cavendish Street",
+        "city": "Ashton-under-Lyne",
+        "postcode": "OL6 7AT",
+        "latitude": 53.4900187371866,
+        "longitude": -2.10222231932369
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "threshold",
+      "serviceProviderName": "Threshold",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58e3b541faad65099ce9adf2",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Gibson Terrace:&#10;We are part of New Charter Homes and we provide temporary accommodation for homeless families who have been given a homelessness duty by the council. We have a total of 65 units of self-contained accommodation in different locations in the borough and with varying levels of support.&#10;A referral to our accommodation can only be made on [Tameside Housing Advice&#39;s website](http://tamesidehousingadvice.org/) as part of a homelessness application. Telephone 0161 331 2700.",
+      "tags": [
+        "Homeless families who have been given a homelessness duty by the council."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Cavendish 249",
+        "streetLine2": "Cavendish Street ",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton-Under-Lyne",
+        "postcode": "OL6 7AT",
+        "latitude": 53.4900187371866,
+        "longitude": -2.10222231932369
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "new-charter-homes-limited",
+      "serviceProviderName": "New Charter Homes Limited",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "emergency",
+          "name": "Emergency"
+        },
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58e3b177faad65099ce9a722",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Based in the Tameside area, New Charter is committed to meeting the housing needs of local people by providing GREAT homes. We are also committed to providing GREAT neighbourhoods, and as part of this commitment we will give priority for some of our homes to people who can demonstrate a &ldquo;Community Contribution&rdquo;. For more information about our &ldquo;Community Contribution&rdquo; scheme, please see [our website](http://www.newcharterhomes.co.uk/find-home/community-contribution)&#10;&#10;If you are not already registered with us, you will need to complete our [eligibility form](http://www.newcharterhomes.co.uk/find-home/housing-application-eligibility)&#10;&#10;For further information telephone 0161 331 2000 or email CBL@newcharter.co.uk",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Cavendish 249",
+        "streetLine2": "Cavendish Street ",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton-Under-Lyne",
+        "postcode": "OL6 7AT",
+        "latitude": 53.4900187371866,
+        "longitude": -2.10222231932369
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "new-charter-homes-limited",
+      "serviceProviderName": "New Charter Homes Limited",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "rented",
+          "name": "Rented"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58e3b32afaad65099ce9ab9a",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Threshold Housing First provides 12 units of accommodation for women offenders, using the Housing First Model. The project operates across Oldham, Stockport and Tameside and can offer immediate access to housing without the need for the applicant to prove they are &ldquo;tenancy ready&rdquo;. We offer a recovery orientated service with individualised person driven support, with an aim of social and community integration.  &#10;Referrals can be made through any third party with consent from the woman, and self referrals will be accepted&#10;Phone: 07792 957224 or 0161 331 2180.",
+      "tags": [
+        "Female offenders"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Threshold",
+        "streetLine2": "New Charter Housing Trust Group ",
+        "streetLine3": "Cavendish 249",
+        "streetLine4": "Cavendish Street",
+        "city": "Ashton-under-Lyne",
+        "postcode": "OL6 7AT",
+        "latitude": 53.4900187371866,
+        "longitude": -2.10222231932369
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "threshold",
+      "serviceProviderName": "Threshold",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c05870542339c2378e3",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "This scheme aims to help local people move-on to more permanent accommodation and primarily focuses upon single people who do not meet the criteria under the current Stockport Rent Deposit Scheme to access social housing. A cashless bond or guarantee bond is provided to allow people who are homeless to access private rented accommodation, and substitute an upfront cash deposit that many homeless people struggle to obtain. Monthly rental payments can then be made directly to a landlord by means of a housing benefit claim. The deposit or guarantee will last for the duration of the first six months and a maximum of twelve months. During this time the tenant is expected to demonstrate that they have been able to manage a tenancy and save towards the actual cost of the bond.",
+      "tags": [
+        "Individuals who have been either awarded a non-priority homeless decision within the Stockport area or have been threatened with homelessness."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Stockport Homes",
+        "streetLine2": "St. Peter&rsquo;s Square",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 1NZ",
+        "latitude": 53.4094095497031,
+        "longitude": -2.15992929923073
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "h3",
+      "serviceProviderName": "H3",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "rented",
+          "name": "Rented"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "59528241c238cb0e4cbc0a27",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Women Refuge&#10;&#10;Women&rsquo;s Refuge offers temporary  supported accommodation to 13 women and families and offers 2 other properties outside of the Refuge. We offer Support to the women and families who have suffered domestic abuse.&#10;&#10;The refuge is a safe and secure temporary accommodation for single women and women with children (up to age 16) who need to escape from a domestic abuse situation. We will provide you with support and information regarding emotional, financial, legal, housing and other issues so you can begin to rebuild your life. Our refuge has a large play room and outside play facilities for children.",
+      "tags": [
+        "women suffering domestic abuse"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "PO Box 193",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 3QP",
+        "latitude": 53.40756469758,
+        "longitude": -2.161561994446
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "stockport-without-abuse",
+      "serviceProviderName": "Stockport Without Abuse",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "emergency",
+          "name": "Emergency"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58de440e01ad0f06b8e35a42",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "",
+      "tags": [
+        "Male and 35+"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "215 Mossley Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton Under Lyne",
+        "postcode": "OL6 6LX",
+        "latitude": 53.4904108779769,
+        "longitude": -2.08339867976857
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greystones-housing-group",
+      "serviceProviderName": "Greystones Housing Group",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58e3bee7faad65099ce9b062",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "The IMPACT Project is adjacent to the Greystones supported housing unit. We have 5 accommodation units designed to be short stay and to help people make the first step away from sleeping rough.&#10;&#10;When receiving a notification that someone is sleeping rough in Tameside we also provide an outreach service where we make contact with the person on the street and endeavour to put them in contact with the services they need.   ",
+      "tags": [
+        "18+"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "215 Mossley Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton Under Lyne",
+        "postcode": "OL6 6LX",
+        "latitude": 53.4904108779769,
+        "longitude": -2.08339867976857
+      },
+      "openingTimes": [
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greystones-housing-group",
+      "serviceProviderName": "Greystones Housing Group",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "emergency",
+          "name": "Emergency"
+        },
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58ac74d78b21a80d20d5a5ae",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "First Place, 22 Union Street,",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Oldham",
+        "postcode": "OL1 1BE",
+        "latitude": 53.5395964885664,
+        "longitude": -2.11454916768729
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "18:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "first-choice-homes-oldham",
+      "serviceProviderName": "First Choice Homes Oldham",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "rented",
+          "name": "Rented"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "593febac9cad0a3fb837ce1d",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Nightstop Oldham - Nightstop is a national network run by Depaul, providing short term emergency accommodation for 16 - 25 year olds in volunteers homes with hosts who have been trained and vetted.&#10;&#10;If you have a suitable spare room and want to help young people please call 0161 6249155 or email porterstreet@depauluk.org",
+      "tags": [
+        "16 -25 year olds"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Depaul UK",
+        "streetLine2": "Oldham Reconnect",
+        "streetLine3": "Positive Steps, Media Place",
+        "streetLine4": "80 Union Street",
+        "city": "Oldham",
+        "postcode": "OL1 1DJ",
+        "latitude": 53.5402744483997,
+        "longitude": -2.11047685523247
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "depaul-uk---manchester",
+      "serviceProviderName": "Depaul UK - Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "emergency",
+          "name": "Emergency"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "593ff1ed9cad0a3fb837ce33",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Oldham Young People Pathway in Oldham (OYPP) provides accommodation for young people in Oldham in supported, semi independent and supported Lodgings with host families.",
+      "tags": [
+        "16 - 23 and homeless or at risk of homelessness in the Oldham area."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Depaul UK",
+        "streetLine2": "Oldham Reconnect",
+        "streetLine3": "Positive Steps, Media Place",
+        "streetLine4": "80 Union Street",
+        "city": "Oldham",
+        "postcode": "OL1 1DJ",
+        "latitude": 53.5402744483997,
+        "longitude": -2.11047685523247
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "depaul-uk---manchester",
+      "serviceProviderName": "Depaul UK - Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "595104ccc238cb0e4cbc03bb",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "The Acorn Recovery Project comprises of a number of programmes.&#10;&#10;We can provide a range of short, medium and long-term accommodation within established recovery communities. The support gained by those who are established in recovery helps provide a safe and secure environment for you to develop yours.&#10;&#10;&ldquo;I feel I have finally found somewhere to make a home and have friends in my life today, and that is more than I ever thought possible.&rdquo;&#10;&#10;Our move-on housing offers a secure place to continue your recovery journey while further developing your independence.&#10;&#10;&ldquo;I did all the hard work, but I&rsquo;d never have got through it, if it wasn&rsquo;t for the help the staff gave me.&rdquo;&#10;&#10;You can even stay in our accommodation after your treatment if you wish, as long as you participate in our recovery programmes and recovery community.&#10;&#10;&ldquo;From entering the house several months ago as an empty shell of a man, I now have hopes and dreams and I can now see a bright future ahead!&rdquo;&#10;&#10;You&rsquo;ll feel proud to be self-sufficient but reassured by an abstinent community around you. In clean, comfortable surroundings, you can regain a sense of self worth and develop your skills around independence once again.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Fulstone House ",
+        "streetLine2": "130 Mile End Lane",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": " Stockport",
+        "postcode": "SK2 6BY",
+        "latitude": 53.3947151311362,
+        "longitude": -2.13671574333859
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        }
+      ],
+      "serviceProviderId": "calico-group",
+      "serviceProviderName": "Calico Group",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "hosted",
+          "name": "Hosted"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58a1a1980bc3da271c69f5d0",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "The Housing Links goal is to empower any person affected by homelessness regardless of race, class, sexuality, religion, cultural differences, being HIV Positive, or having AIDS, or for any other reason.&#10;&#10;Homelessness can affect any person at any time.&#10;&#10;Nobody is immune.&#10;&#10;The Housing Link aims to support people in the transition period from becoming/being homeless to eventually securing accommodation for themselves and achieving their goals&#10;&#10;We have a large selection of properties to support this goal. Our Housing Support Workers work closely with all of our clients ensuring their needs are met; they are fully engaged and encourage clients to make positive, pro-active choices to ultimately achieve independence.",
+      "tags": [
+        "Any person affected by homelessness"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Head Office",
+        "streetLine2": "12 Mather Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Radcliffe",
+        "postcode": "M26 4TL",
+        "latitude": 53.5632001228727,
+        "longitude": -2.32809338077634
+      },
+      "openingTimes": [
+        {
+          "startTime": "00:00",
+          "endTime": "00:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "the-housing-link",
+      "serviceProviderName": "The Housing Link",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58e3c9e9faad653a40bb7e60",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "We provide accommodation-based support to people across Tameside experiencing complex problems and who are at risk of social exclusion. The team offers comprehensive and intensive housing assistance to 16 customers including self-contained accommodation and Housing First.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Foundation - Tameside",
+        "streetLine2": "Rear of Flat 3",
+        "streetLine3": "Ambleside",
+        "streetLine4": "",
+        "city": "Stalybridge",
+        "postcode": "SK15 1EB",
+        "latitude": 53.4908743595341,
+        "longitude": -2.05997787905853
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "foundation-uk---tameside",
+      "serviceProviderName": "Foundation UK  - Tameside",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "588b5cf76bad0f11981c3f6a",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Emmaus communities are not hostels for the homeless; they provide a home for as long as someone needs it. For many, this support and stability is like being part of a family, providing a safe, caring and understanding place in which to settle and re-build their lives. Often this is an opportunity to overcome issues such as addiction, get support with mental health issues or rebuild relationships with family and friends. &#10;&#10;Emmaus Mossley offers you a home, work in a social enterprise and an opportunity for you to gain confidence, training and any support you may need to live independently. To join an Emmaus community you have to commit to working full-time in the social enterprise but the rewards for doing so are great. &#10;&#10;There are many benefits to joining an Emmaus Mossley. Help is available in things you wish to change in your life. This can cover anything &ndash; from personal development, training, career development, and housing support to help with drug or alcohol dependency, mental health and physical wellbeing. The Emmaus Mossley community is a drug and alcohol free environment.",
+      "tags": [
+        "Suitable for people aged 18 and above."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Emmaus Mossley",
+        "streetLine2": "Longlands Mill",
+        "streetLine3": "Queen Street",
+        "streetLine4": null,
+        "city": "Mossley",
+        "postcode": "OL5 9AH",
+        "latitude": 53.5152052788079,
+        "longitude": -2.04018150077426
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Friday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "emmaus-mossley",
+      "serviceProviderName": "Emmaus Mossley",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "59241ecf09c3da1714af45f7",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "Bond Guarantees:&#10;&#10;Get housed in a private rented tenancy with help from a Bond Guarantee, without having your own money up front for a bond. Get a head start and support to look for accommodation - knowing which landlords and Letting Agents accept people claiming benefits and which properties are available. Get support from us when you sign your tenancy. We will be there to support you and to check the landlord has all the correct paperwork and is doing everything legally.&#10;&#10;You can apply for a Bond Guarantee if you are homeless or due to become homeless and on benefits or a low income and have a local connection to Rochdale/Bolton.  A local connection includes living and being settled in the area for at least 6 months, or 3 years out of the last 5, working in the area or having close family members in the area of Rochdale or Bolton. Please see [our website](http://www.thebondboard.org.uk/need-accomodation/about-the-bond/) for further information on how to apply.",
+      "tags": [
+        "Homeless or on benefits or a low income with a local connection to Bolton or Rochdale"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "209-211 Bury Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Rochdale",
+        "postcode": "OL11 4EE",
+        "latitude": 53.6152377684651,
+        "longitude": -2.17082009841598
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "the-bond-board",
+      "serviceProviderName": "The Bond Board",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "financial-support",
+          "name": "Financial support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5889e04c6bad0f11981bf3e1",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "",
+      "tags": [
+        "20+"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Emmaus Bolton",
+        "streetLine2": "Derby Barracks",
+        "streetLine3": "Fletcher Street",
+        "streetLine4": null,
+        "city": "Bolton",
+        "postcode": "BL3 6NF",
+        "latitude": 53.5721443920291,
+        "longitude": -2.43491069291553
+      },
+      "openingTimes": [
+        {
+          "startTime": "00:00",
+          "endTime": "00:00",
+          "day": "Sunday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:00",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "emmaus-bolton",
+      "serviceProviderName": "Emmaus Bolton",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5888c183b2c3d6254cfc070e",
+      "categoryId": "accom",
+      "categoryName": "Accommodation",
+      "categorySynopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation.",
+      "info": "They provide help and support to prevent homelessness. They work with the Landlord to resolve issues, help with court appeals, and negotiate extending lodging arrangements. They also make referrals and assist in any way to avoid the loss of a home. ",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Homeless Welfare, Ground Floor, Town Hall, Victoria Square",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "",
+        "postcode": "BL1 1RU",
+        "latitude": 53.5782354945739,
+        "longitude": -2.43077459075297
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "13:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "bolton-council-homelessness-prevention",
+      "serviceProviderName": "Bolton Council Homelessness Prevention ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "rented",
+          "name": "Rented"
+        },
+        {
+          "id": "supported",
+          "name": "Supported"
+        }
+      ],
+      "isOpen247": false
+    }
+  ],
+  "category": {
+    "id": "accom",
+    "name": "Accommodation",
+    "synopsis": "Permanent and temporary accommodation options. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/), or visit one of the [housing support agencies](https://streetsupport.net/find-help/category/?category=support&sub-category=housing) for advice on finding accommodation."
+  }
+}
