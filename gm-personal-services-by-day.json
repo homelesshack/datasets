@@ -1,0 +1,1431 @@
+{
+  "categoryName": "Personal Services",
+  "categoryKey": "services",
+  "daysServices": [
+    {
+      "name": "Monday",
+      "serviceProviders": [
+        {
+          "key": "barnabus",
+          "name": "Barnabus",
+          "serviceInfo": "Hot showers are available in our Beacon drop-in 5 days a week. We also offer clean clothes and toiletries. Showers are also available during our ladies only session on the first Friday of each month 2-4 pm.",
+          "tags": [],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "The Beacon",
+            "street1": "45 Bloom Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 3LY",
+            "openingTimes": [],
+            "latitude": 53.4769358511002,
+            "longitude": -2.23806468087968,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "13:00",
+            "day": "Monday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "booth-centre",
+          "name": "Booth Centre",
+          "serviceInfo": "A hot shower is available at the booth centre every day during the week.  We also provide towels and toiletries.  This service operates on a first come first served basis as we have limited availability, so we reccommend attending early.",
+          "tags": [],
+          "address": {
+            "key": "63000f37-75f8-48f8-b344-5560488edf5e",
+            "street": "Edward Holt House",
+            "street1": "Pimblett Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M3 1FU",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4905686797488,
+            "longitude": -2.2438382465874,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "12:00",
+            "day": "Monday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Clients can do there laundry at the centre.",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Monday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Showers available.",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Monday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Hairdresser available",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Monday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "salford-loaves-and-fishes",
+          "name": "Salford Loaves and Fishes",
+          "serviceInfo": null,
+          "tags": [
+            "Anyone over the age of 18"
+          ],
+          "address": {
+            "key": "18978a61-06db-4dfb-9bd3-ae0a2c14216c",
+            "street": "Mona Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Salford",
+            "postcode": "M6 6PP",
+            "openingTimes": [],
+            "latitude": 53.4919920086962,
+            "longitude": -2.28317012009174,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:30",
+            "endTime": "14:00",
+            "day": "Monday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "salford-loaves-and-fishes",
+          "name": "Salford Loaves and Fishes",
+          "serviceInfo": null,
+          "tags": [
+            "Anyone over the age of 18"
+          ],
+          "address": {
+            "key": "18978a61-06db-4dfb-9bd3-ae0a2c14216c",
+            "street": "Mona Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Salford",
+            "postcode": "M6 6PP",
+            "openingTimes": [],
+            "latitude": 53.4919920086962,
+            "longitude": -2.28317012009174,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:30",
+            "endTime": "14:00",
+            "day": "Monday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "wellspring",
+          "name": "The Wellspring",
+          "serviceInfo": null,
+          "tags": [],
+          "address": {
+            "key": "dd749162-fb89-4777-963c-284ba4f31e7f",
+            "street": "Harvey St",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Stockport",
+            "postcode": "SK1 1YD",
+            "openingTimes": [],
+            "latitude": 53.4104668720237,
+            "longitude": -2.15564588494777,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "11:30",
+            "day": "Monday"
+          },
+          "locationDescription": null
+        }
+      ],
+      "index": 0
+    },
+    {
+      "name": "Tuesday",
+      "serviceProviders": [
+        {
+          "key": "barnabus",
+          "name": "Barnabus",
+          "serviceInfo": "Hot showers are available in our Beacon drop-in 5 days a week. We also offer clean clothes and toiletries. Showers are also available during our ladies only session on the first Friday of each month 2-4 pm.",
+          "tags": [],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "The Beacon",
+            "street1": "45 Bloom Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 3LY",
+            "openingTimes": [],
+            "latitude": 53.4769358511002,
+            "longitude": -2.23806468087968,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "13:00",
+            "day": "Tuesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "booth-centre",
+          "name": "Booth Centre",
+          "serviceInfo": "A hot shower is available at the booth centre every day during the week.  We also provide towels and toiletries.  This service operates on a first come first served basis as we have limited availability, so we reccommend attending early.",
+          "tags": [],
+          "address": {
+            "key": "63000f37-75f8-48f8-b344-5560488edf5e",
+            "street": "Edward Holt House",
+            "street1": "Pimblett Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M3 1FU",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4905686797488,
+            "longitude": -2.2438382465874,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "12:00",
+            "day": "Tuesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "booth-centre",
+          "name": "Booth Centre",
+          "serviceInfo": "The booth centre offer the opportunity for all people who use the centre to recieve free hair cuts by qualified hair dressers.  &#10;please note that whilst this service is available every Tuesday, on Thursdays, this service takes place on alternate weeks.  please contact us at the centre for clarifcation.",
+          "tags": [],
+          "address": {
+            "key": "63000f37-75f8-48f8-b344-5560488edf5e",
+            "street": "Edward Holt House",
+            "street1": "Pimblett Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M3 1FU",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4905686797488,
+            "longitude": -2.2438382465874,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "12:00",
+            "day": "Tuesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Clients can do there laundry at the centre.",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Tuesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Showers available.",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Tuesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Hairdresser available",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Tuesday"
+          },
+          "locationDescription": null
+        }
+      ],
+      "index": 1
+    },
+    {
+      "name": "Wednesday",
+      "serviceProviders": [
+        {
+          "key": "barnabus",
+          "name": "Barnabus",
+          "serviceInfo": "Hot showers are available in our Beacon drop-in 5 days a week. We also offer clean clothes and toiletries. Showers are also available during our ladies only session on the first Friday of each month 2-4 pm.",
+          "tags": [],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "The Beacon",
+            "street1": "45 Bloom Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 3LY",
+            "openingTimes": [],
+            "latitude": 53.4769358511002,
+            "longitude": -2.23806468087968,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "13:00",
+            "day": "Wednesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "booth-centre",
+          "name": "Booth Centre",
+          "serviceInfo": "A hot shower is available at the booth centre every day during the week.  We also provide towels and toiletries.  This service operates on a first come first served basis as we have limited availability, so we reccommend attending early.",
+          "tags": [],
+          "address": {
+            "key": "63000f37-75f8-48f8-b344-5560488edf5e",
+            "street": "Edward Holt House",
+            "street1": "Pimblett Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M3 1FU",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4905686797488,
+            "longitude": -2.2438382465874,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "12:00",
+            "day": "Wednesday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Clients can do there laundry at the centre.",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Wednesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Showers available.",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Wednesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Hairdresser available",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Wednesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "salford-loaves-and-fishes",
+          "name": "Salford Loaves and Fishes",
+          "serviceInfo": null,
+          "tags": [
+            "Anyone over the age of 18"
+          ],
+          "address": {
+            "key": "18978a61-06db-4dfb-9bd3-ae0a2c14216c",
+            "street": "Mona Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Salford",
+            "postcode": "M6 6PP",
+            "openingTimes": [],
+            "latitude": 53.4919920086962,
+            "longitude": -2.28317012009174,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:30",
+            "endTime": "14:00",
+            "day": "Wednesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "salford-loaves-and-fishes",
+          "name": "Salford Loaves and Fishes",
+          "serviceInfo": null,
+          "tags": [
+            "Anyone over the age of 18"
+          ],
+          "address": {
+            "key": "18978a61-06db-4dfb-9bd3-ae0a2c14216c",
+            "street": "Mona Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Salford",
+            "postcode": "M6 6PP",
+            "openingTimes": [],
+            "latitude": 53.4919920086962,
+            "longitude": -2.28317012009174,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:30",
+            "endTime": "14:00",
+            "day": "Wednesday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "wellspring",
+          "name": "The Wellspring",
+          "serviceInfo": null,
+          "tags": [],
+          "address": {
+            "key": "dd749162-fb89-4777-963c-284ba4f31e7f",
+            "street": "Harvey St",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Stockport",
+            "postcode": "SK1 1YD",
+            "openingTimes": [],
+            "latitude": 53.4104668720237,
+            "longitude": -2.15564588494777,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "11:30",
+            "day": "Wednesday"
+          },
+          "locationDescription": null
+        }
+      ],
+      "index": 2
+    },
+    {
+      "name": "Thursday",
+      "serviceProviders": [
+        {
+          "key": "barnabus",
+          "name": "Barnabus",
+          "serviceInfo": "Hot showers are available in our Beacon drop-in 5 days a week. We also offer clean clothes and toiletries. Showers are also available during our ladies only session on the first Friday of each month 2-4 pm.",
+          "tags": [],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "The Beacon",
+            "street1": "45 Bloom Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 3LY",
+            "openingTimes": [],
+            "latitude": 53.4769358511002,
+            "longitude": -2.23806468087968,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "13:00",
+            "day": "Thursday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "booth-centre",
+          "name": "Booth Centre",
+          "serviceInfo": "A hot shower is available at the booth centre every day during the week.  We also provide towels and toiletries.  This service operates on a first come first served basis as we have limited availability, so we reccommend attending early.",
+          "tags": [],
+          "address": {
+            "key": "63000f37-75f8-48f8-b344-5560488edf5e",
+            "street": "Edward Holt House",
+            "street1": "Pimblett Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M3 1FU",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4905686797488,
+            "longitude": -2.2438382465874,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "12:00",
+            "day": "Thursday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "booth-centre",
+          "name": "Booth Centre",
+          "serviceInfo": "The booth centre offer the opportunity for all people who use the centre to recieve free hair cuts by qualified hair dressers.  &#10;please note that whilst this service is available every Tuesday, on Thursdays, this service takes place on alternate weeks.  please contact us at the centre for clarifcation.",
+          "tags": [],
+          "address": {
+            "key": "63000f37-75f8-48f8-b344-5560488edf5e",
+            "street": "Edward Holt House",
+            "street1": "Pimblett Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M3 1FU",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4905686797488,
+            "longitude": -2.2438382465874,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "12:00",
+            "day": "Thursday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Clients can do there laundry at the centre.",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Thursday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Showers available.",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Thursday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Hairdresser available",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Thursday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "salford-loaves-and-fishes",
+          "name": "Salford Loaves and Fishes",
+          "serviceInfo": null,
+          "tags": [
+            "Anyone over the age of 18"
+          ],
+          "address": {
+            "key": "18978a61-06db-4dfb-9bd3-ae0a2c14216c",
+            "street": "Mona Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Salford",
+            "postcode": "M6 6PP",
+            "openingTimes": [],
+            "latitude": 53.4919920086962,
+            "longitude": -2.28317012009174,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:30",
+            "endTime": "14:00",
+            "day": "Thursday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "salford-loaves-and-fishes",
+          "name": "Salford Loaves and Fishes",
+          "serviceInfo": null,
+          "tags": [
+            "Anyone over the age of 18"
+          ],
+          "address": {
+            "key": "18978a61-06db-4dfb-9bd3-ae0a2c14216c",
+            "street": "Mona Street",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Salford",
+            "postcode": "M6 6PP",
+            "openingTimes": [],
+            "latitude": 53.4919920086962,
+            "longitude": -2.28317012009174,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:30",
+            "endTime": "14:00",
+            "day": "Thursday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "wellspring",
+          "name": "The Wellspring",
+          "serviceInfo": null,
+          "tags": [],
+          "address": {
+            "key": "dd749162-fb89-4777-963c-284ba4f31e7f",
+            "street": "Harvey St",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Stockport",
+            "postcode": "SK1 1YD",
+            "openingTimes": [],
+            "latitude": 53.4104668720237,
+            "longitude": -2.15564588494777,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "11:30",
+            "day": "Thursday"
+          },
+          "locationDescription": null
+        }
+      ],
+      "index": 3
+    },
+    {
+      "name": "Friday",
+      "serviceProviders": [
+        {
+          "key": "barnabus",
+          "name": "Barnabus",
+          "serviceInfo": "Hot showers are available in our Beacon drop-in 5 days a week. We also offer clean clothes and toiletries. Showers are also available during our ladies only session on the first Friday of each month 2-4 pm.",
+          "tags": [],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "The Beacon",
+            "street1": "45 Bloom Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M1 3LY",
+            "openingTimes": [],
+            "latitude": 53.4769358511002,
+            "longitude": -2.23806468087968,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "13:00",
+            "day": "Friday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "booth-centre",
+          "name": "Booth Centre",
+          "serviceInfo": "A hot shower is available at the booth centre every day during the week.  We also provide towels and toiletries.  This service operates on a first come first served basis as we have limited availability, so we reccommend attending early.",
+          "tags": [],
+          "address": {
+            "key": "63000f37-75f8-48f8-b344-5560488edf5e",
+            "street": "Edward Holt House",
+            "street1": "Pimblett Street",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M3 1FU",
+            "openingTimes": [
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Monday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Tuesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Wednesday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Thursday"
+              },
+              {
+                "startTime": "09:00",
+                "endTime": "12:00",
+                "day": "Friday"
+              }
+            ],
+            "latitude": 53.4905686797488,
+            "longitude": -2.2438382465874,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "09:00",
+            "endTime": "12:00",
+            "day": "Friday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Clients can do there laundry at the centre.",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Friday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Showers available.",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Friday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "cornerstone-day-centre",
+          "name": "Cornerstone",
+          "serviceInfo": "Hairdresser available",
+          "tags": [
+            "Adults facing a wide range of social issues including homelessness."
+          ],
+          "address": {
+            "key": "15c31ec6-9581-4161-ae99-271c301c4866",
+            "street": "104b Denmark Road",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Manchester",
+            "postcode": "M15 6JS",
+            "openingTimes": [],
+            "latitude": 53.4611199299643,
+            "longitude": -2.24065702809002,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:30",
+            "endTime": "16:00",
+            "day": "Friday"
+          },
+          "locationDescription": null
+        },
+        {
+          "key": "wellspring",
+          "name": "The Wellspring",
+          "serviceInfo": null,
+          "tags": [],
+          "address": {
+            "key": "dd749162-fb89-4777-963c-284ba4f31e7f",
+            "street": "Harvey St",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Stockport",
+            "postcode": "SK1 1YD",
+            "openingTimes": [],
+            "latitude": 53.4104668720237,
+            "longitude": -2.15564588494777,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "11:30",
+            "day": "Friday"
+          },
+          "locationDescription": null
+        }
+      ],
+      "index": 4
+    },
+    {
+      "name": "Saturday",
+      "serviceProviders": [
+        {
+          "key": "lifeshare",
+          "name": "Lifeshare",
+          "serviceInfo": "Free Showers at Weekend Breakfast and haircuts available at monthly wellbeing clinic",
+          "tags": [
+            "over 18s"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "Charter Street Ragged School ,",
+            "street1": "142 Dantzic Street ",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": " M4 4DN",
+            "openingTimes": [],
+            "latitude": 53.4896579009624,
+            "longitude": -2.23635755747702,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:30",
+            "endTime": "09:00",
+            "day": "Saturday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "lifeshare",
+          "name": "Lifeshare",
+          "serviceInfo": "Free Showers at Weekend Breakfast and haircuts available at monthly wellbeing clinic",
+          "tags": [
+            "over 18s"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "Charter Street Ragged School ,",
+            "street1": "142 Dantzic Street ",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": " M4 4DN",
+            "openingTimes": [],
+            "latitude": 53.4896579009624,
+            "longitude": -2.23635755747702,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:30",
+            "endTime": "09:00",
+            "day": "Saturday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "wellspring",
+          "name": "The Wellspring",
+          "serviceInfo": null,
+          "tags": [],
+          "address": {
+            "key": "dd749162-fb89-4777-963c-284ba4f31e7f",
+            "street": "Harvey St",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Stockport",
+            "postcode": "SK1 1YD",
+            "openingTimes": [],
+            "latitude": 53.4104668720237,
+            "longitude": -2.15564588494777,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "11:30",
+            "day": "Saturday"
+          },
+          "locationDescription": null
+        }
+      ],
+      "index": 5
+    },
+    {
+      "name": "Sunday",
+      "serviceProviders": [
+        {
+          "key": "coffee4craig",
+          "name": "Coffee4Craig",
+          "serviceInfo": "Our sunday evening service has showers aswell as hot food, hot drinks, advice and support.",
+          "tags": [],
+          "address": {
+            "key": "15dc6b0d-87c2-4c02-ae31-4c4fcfd2928f",
+            "street": "52 Oldham St",
+            "street1": "",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": "M4 1LE",
+            "openingTimes": [
+              {
+                "startTime": "17:00",
+                "endTime": "19:00",
+                "day": "Sunday"
+              }
+            ],
+            "latitude": 53.483397559647,
+            "longitude": -2.23401712221756,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "17:00",
+            "endTime": "19:00",
+            "day": "Sunday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "lifeshare",
+          "name": "Lifeshare",
+          "serviceInfo": "Free Showers at Weekend Breakfast and haircuts available at monthly wellbeing clinic",
+          "tags": [
+            "over 18s"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "Charter Street Ragged School ,",
+            "street1": "142 Dantzic Street ",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": " M4 4DN",
+            "openingTimes": [],
+            "latitude": 53.4896579009624,
+            "longitude": -2.23635755747702,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:30",
+            "endTime": "09:00",
+            "day": "Sunday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "lifeshare",
+          "name": "Lifeshare",
+          "serviceInfo": "Free Showers at Weekend Breakfast and haircuts available at monthly wellbeing clinic",
+          "tags": [
+            "over 18s"
+          ],
+          "address": {
+            "key": "00000000-0000-0000-0000-000000000000",
+            "street": "Charter Street Ragged School ,",
+            "street1": "142 Dantzic Street ",
+            "street2": "",
+            "street3": "",
+            "city": "Manchester",
+            "postcode": " M4 4DN",
+            "openingTimes": [],
+            "latitude": 53.4896579009624,
+            "longitude": -2.23635755747702,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "07:30",
+            "endTime": "09:00",
+            "day": "Sunday"
+          },
+          "locationDescription": ""
+        },
+        {
+          "key": "wellspring",
+          "name": "The Wellspring",
+          "serviceInfo": null,
+          "tags": [],
+          "address": {
+            "key": "dd749162-fb89-4777-963c-284ba4f31e7f",
+            "street": "Harvey St",
+            "street1": null,
+            "street2": null,
+            "street3": null,
+            "city": "Stockport",
+            "postcode": "SK1 1YD",
+            "openingTimes": [],
+            "latitude": 53.4104668720237,
+            "longitude": -2.15564588494777,
+            "isOpen247": false,
+            "telephone": null
+          },
+          "openingTime": {
+            "startTime": "10:00",
+            "endTime": "11:30",
+            "day": "Sunday"
+          },
+          "locationDescription": null
+        }
+      ],
+      "index": 6
+    }
+  ],
+  "synopsis": "Haircuts, laundry, showers, religious services ..."
+}

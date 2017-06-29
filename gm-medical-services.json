@@ -1,0 +1,1476 @@
+{
+  "providers": [
+    {
+      "id": "58eba540faad651940cdab32",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Support and treatment for young drug users. Please call 0161 839 2054 to make an appointment. Young people or professionals can also come into the service to speak to a duty worker.&#10;Wednesday evenings we have a evening peer mentoring group so are open until 8pm.",
+      "tags": [
+        "Under 18s"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "103 Oldham Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 1LW",
+        "latitude": 53.4836392702347,
+        "longitude": -2.23451574266415
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:15",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:15",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:15",
+          "endTime": "20:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:15",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:15",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "lifeline",
+      "serviceProviderName": "Lifeline",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "drug-alcohol",
+          "name": "Drug and Alcohol Treatment"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bfe870542339c2378cc",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Support registering with GPS and health referrals including sexual health tests available to clients. On the last Sunday of the month our Wellbeing Drop in at Dantzic st has doctors, dentists and podiatrists.",
+      "tags": [
+        "16-25 &amp; over 18"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "1st floor",
+        "streetLine2": "27 Houldsworth Street",
+        "streetLine3": null,
+        "streetLine4": null,
+        "city": "Manchester",
+        "postcode": "M1 1EB",
+        "latitude": 53.4835909837923,
+        "longitude": -2.2316221630479
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "lifeshare",
+      "serviceProviderName": "Lifeshare",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "nurse",
+          "name": "Practice Nurse"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57ee6780cbad0f3754c346c4",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Dentist available for any homeless person.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Ancoats Primary Care Centre",
+        "streetLine2": "Old Mill Street",
+        "streetLine3": "Ancoats",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 6EE",
+        "latitude": 53.4829128466428,
+        "longitude": -2.21945770466593
+      },
+      "openingTimes": [
+        {
+          "startTime": "12:00",
+          "endTime": "15:00",
+          "day": "Tuesday"
+        }
+      ],
+      "serviceProviderId": "urban-village-medical-practice",
+      "serviceProviderName": "Urban Village Medical Practice",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "dentist",
+          "name": "Dentist"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57ee5aa1cbad0f3754c3431e",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "The practice provides specialist service provision including sexual health, infectious diseases clinic, family planning, minor surgery and substance misuse services. In addition the practice has been offering full registration and access to all primary care services to homeless people in the city for the last 15 years; the practice operates a weekly multi-disciplinary drop in and other specialist homeless clinics throughout the week for homeless people. The practice currently has approximately 700 homeless patients registered. To register, contact Rachel Brennan on 0161 272 5652 or 07847 476402.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Ancoats Primary Care Centre",
+        "streetLine2": "Old Mill Street",
+        "streetLine3": "Ancoats",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 6EE",
+        "latitude": 53.4829128466428,
+        "longitude": -2.21945770466593
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "urban-village-medical-practice",
+      "serviceProviderName": "Urban Village Medical Practice",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "gp",
+          "name": "General Practice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57ee5b15cbad0f3754c34333",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Wound dressing clinic for any homeless person.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Ancoats Primary Care Centre",
+        "streetLine2": "Old Mill Street",
+        "streetLine3": "Ancoats",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 6EE",
+        "latitude": 53.4829128466428,
+        "longitude": -2.21945770466593
+      },
+      "openingTimes": [
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "urban-village-medical-practice",
+      "serviceProviderName": "Urban Village Medical Practice",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "nurse",
+          "name": "Practice Nurse"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bff870542339c2378cf",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Nursing staff from Urban Village Medical Practice attend the centre on a weekly basis, offering full registration and access to all primary care services to people who use the centre.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Edward Holt House",
+        "streetLine2": "Pimblett Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1FU",
+        "latitude": 53.4905686797488,
+        "longitude": -2.2438382465874
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "11:00",
+          "day": "Wednesday"
+        }
+      ],
+      "serviceProviderId": "booth-centre",
+      "serviceProviderName": "Booth Centre",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "gp",
+          "name": "General Practice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58eb9ee9faad651940cda5e8",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Our open access runs from 9am to 11:30am Monday to Friday, where anyone is free to attend and will be assessed, or call to make an appointment on 0161 214 0770. People can also drop in during our opening hours and a referral will be taken and appointment booked as appropriate. &#10;&#10;We provide a full range of treatment and recovery interventions for people who require services for their drug or alcohol use - Assessment; &#10;Brief Interventions; Medically assisted recovery; Community detoxification; Referral for in-patient detoxification; Drop in groups&#10;Informal and structured group programmes; Health assessments; BBV testing; Hepatitis B vaccinations; Pod working; Facilitating access to mutual aid pods; One to one sessions with engagement and recovery workers; Access to recovery services on site. ",
+      "tags": [
+        "Over 18s"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "43A Carnarvon Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1EZ",
+        "latitude": 53.4915406181816,
+        "longitude": -2.24325601327593
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "20:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "20:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "20:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "manchester-integrated-drug-and-alcohol-service",
+      "serviceProviderName": "Manchester Integrated Drug and Alcohol Service",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "drug-alcohol",
+          "name": "Drug and Alcohol Treatment"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c07870542339c2378ee",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Don&rsquo;t struggle alone. We provide 24-hour mental health crisis support to adults who are experiencing anxiety, panic attacks, depression, suicidal thoughts or are in crisis.&#10;&#10;We operate a flexible service as part of Inspiring Change Manchester. Contact: inspiringchangemanchester.shelter.org.uk for more information.",
+      "tags": [
+        "18+"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Zion Community Resource Centre",
+        "streetLine2": "339 Stretford Road",
+        "streetLine3": "Hulme",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M15 4ZY",
+        "latitude": 53.4664695852488,
+        "longitude": -2.25297895248985
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "17:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "self-help",
+      "serviceProviderName": "Self Help",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "mental-health",
+          "name": "Mental Health"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5909e1ddcbad1013344cfc93",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Treatment and recovery interventions for people who require services for their drug or alcohol use - Assessment; Brief Interventions; Medically assisted recovery; Second opinions when requested by a GP; Community detoxification; Referral for in-patient detoxification; Drop in groups; Informal and structured group programmes; Health assessments; BBV testing; Hepatitis B vaccinations; Pod working; Facilitating access to mutual aid pods; One to one sessions with engagement and recovery workers; Access to recovery services on site. You can either drop in to our sessions in the mornings Monday &ndash; Friday, at the Zion Community Resource Centre, 339 Stretford Road, Manchester, M15 5ZA, or ring 0161 226 5526 for an appointment. We take referrals from any source as long as they&rsquo;re with the person&rsquo;s consent. Clients can also self refer to the service. Please call us on 0161 226 552 to make a referral.",
+      "tags": [
+        "Over 18"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Zion Community Resource Centre",
+        "streetLine2": "339 Stretford Road",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M15 4ZY",
+        "latitude": 53.4664695852488,
+        "longitude": -2.25297895248985
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "manchester-integrated-drug-and-alcohol-service",
+      "serviceProviderName": "Manchester Integrated Drug and Alcohol Service",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "drug-alcohol",
+          "name": "Drug and Alcohol Treatment"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c03870542339c2378de",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Our on-call advice and information service operates out of hours 24/7: call 061 276 6515. Our services include: Immediate Crisis Support; Forensic Medical Examination; Access to Emergency Contraception; Sexual Health Screening for Sexually Transmitted Infections; Access to counselling support for as long as you need it; Access to an Independent Sexual Violence Advisor to provide support through any court action taken",
+      "tags": [
+        "Men",
+        "women",
+        "young people and children"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "The Old St Mary&#39;s Hospital",
+        "streetLine2": "York Place",
+        "streetLine3": "Oxford Road",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M13 9WL",
+        "latitude": 53.462439650671,
+        "longitude": -2.22771130987518
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "st-mary39s-sexual-assault-referral-centre",
+      "serviceProviderName": "St Mary&#39;s Sexual Assault Referral Centre",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "sexual",
+          "name": "Sexual Health"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bee870542339c237890",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Revive Dental Care operate once a month on a Thursday  from 10.30am to 12.30pm at Cornerstone.  This is a great opportunity for anyone who doesn’t have a dentist.  No appointment necessary.",
+      "tags": [
+        "Adults who face a wide range of social issues including homelessness."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "104b Denmark Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M15 6JS",
+        "latitude": 53.4611199299643,
+        "longitude": -2.24065702809002
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "cornerstone-day-centre",
+      "serviceProviderName": "Cornerstone",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "dentist",
+          "name": "Dentist"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "594bd3249cad0a25d0437350",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Ramsgate House Community Mental Health Team is one of three Community Mental Health Teams (CMHT) serving Salford.  It is an integrated specialist team which serves the local community and offers a range of therapeutic interventions and treatments for adults over the age of 16 with severe and enduring mental health issues.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Ramsgate House",
+        "streetLine2": "Ramsgate Street ",
+        "streetLine3": "Lower Broughton",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": "M7 2YL",
+        "latitude": 53.4975020748147,
+        "longitude": -2.25516869827627
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greater-manchester-mental-health-nhs",
+      "serviceProviderName": "Greater Manchester Mental Health NHS",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "mental-health",
+          "name": "Mental Health"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "594bd8659cad0a25d04373c8",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Achieve Salford Recovery Services brings together people from a range of organisations, backgrounds and experience to deliver confidential services, opportunities, treatments and therapies for people seeking help in tackling their own drug use, or that of a loved one aged 25 and over.  At Achieve we value people with lived experience of their own recovery or as a carer and these play a central role in our services along side professionally qualified staff from clinical and therapeutic backgrounds.&#10;&#10;We want to help you in more ways than one; with the help of our team we offer information, support and advice to aid you in your recovery. We also offer aftercare support, to help you remain drug and alcohol free.",
+      "tags": [
+        "above 25s"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "6 Acton Square  ",
+        "streetLine2": "The Crescent",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Salford ",
+        "postcode": "M5 4NY",
+        "latitude": 53.4840418365383,
+        "longitude": -2.27347263660117
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greater-manchester-mental-health-nhs",
+      "serviceProviderName": "Greater Manchester Mental Health NHS",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "drug-alcohol",
+          "name": "Drug and Alcohol Treatment"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58a42f4f0bc3da271c6a67b4",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "We have a GP on site three times each week",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Windsor Christian Centre",
+        "streetLine2": "Churchill Way",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": "M6 5BU",
+        "latitude": 53.4860114524149,
+        "longitude": -2.28453178219705
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:00",
+          "endTime": "21:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "07:00",
+          "endTime": "21:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "07:00",
+          "endTime": "21:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "07:00",
+          "endTime": "21:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "07:00",
+          "endTime": "21:30",
+          "day": "Friday"
+        },
+        {
+          "startTime": "07:00",
+          "endTime": "21:30",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "07:00",
+          "endTime": "21:30",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "narrowgate",
+      "serviceProviderName": "Narrowgate",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "gp",
+          "name": "General Practice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf4870542339c2378ad",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "",
+      "tags": [
+        "Anyone over the age of 18"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Windsor Drop-in Centre, Churchill Way",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": "M6 5BU",
+        "latitude": 53.4860114524149,
+        "longitude": -2.28453178219705
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "salford-loaves-and-fishes",
+      "serviceProviderName": "Salford Loaves and Fishes",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "gp",
+          "name": "General Practice"
+        },
+        {
+          "id": "nurse",
+          "name": "Practice Nurse"
+        },
+        {
+          "id": "dentist",
+          "name": "Dentist"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "594bd2629cad0a25d0437332",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Cromwell House Community Mental Health Team is one of three Community Mental Health Teams (CMHT) serving Salford.  It is an integrated specialist team which serves the local community and offers a range of therapeutic interventions and treatments for adults over the age of 16 with severe and enduring mental health issues.&#10;",
+      "tags": [
+        "above 16s"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Cromwell House",
+        "streetLine2": "32 Cromwell Road   ",
+        "streetLine3": "Eccles ",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": "M30 0GT",
+        "latitude": 53.4844971594205,
+        "longitude": -2.35040632958829
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greater-manchester-mental-health-nhs",
+      "serviceProviderName": "Greater Manchester Mental Health NHS",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "mental-health",
+          "name": "Mental Health"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "594bd4e49cad0a25d0437392",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Our community mental health teams aim to provide a specialist assessment of health and social care needs, recovery based care planning as well as diagnosis, treatment and support for service users who live in north Trafford and have mental health difficulties. We provide support for their carers and families.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Crossgate House   ",
+        "streetLine2": "Cross St",
+        "streetLine3": "Sale",
+        "streetLine4": "",
+        "city": " Cheshire",
+        "postcode": "M33 7FT",
+        "latitude": 53.4268198967489,
+        "longitude": -2.32421225356843
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greater-manchester-mental-health-nhs",
+      "serviceProviderName": "Greater Manchester Mental Health NHS",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "mental-health",
+          "name": "Mental Health"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58eb9f2efaad651940cda5f2",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "You can attend an open access session and breakfast club on Monday-Friday mornings, or call 0161 945 8772 for an appointment.&#10;&#10;We provide a full range of treatment and recovery interventions for people who require services for their drug or alcohol use - Assessment&#10;Brief Interventions; Prescribing; Community detoxification; Referral for in-patient detox; Drop in&rsquo;s; Informal and structured group programmes; &#10;Linking into mutual aid; One to one sessions; Education and employment support; Health assessments; Recovery services on site.",
+      "tags": [
+        "Over 18s"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Bradnor Road",
+        "streetLine2": "Sharston Industrial Estate",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M22 4TF",
+        "latitude": 53.4005615359763,
+        "longitude": -2.25909978430467
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "20:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "20:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "20:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "manchester-integrated-drug-and-alcohol-service",
+      "serviceProviderName": "Manchester Integrated Drug and Alcohol Service",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "drug-alcohol",
+          "name": "Drug and Alcohol Treatment"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65be8870542339c237876",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "We provide mental health support to ex-service personnel for conditions including depression, alcohol and substance misuse, anger problems and post-traumatic stress disorder. Some people who have served in the armed forces say that they can experience emotional difficulties and find it hard to ask for help. This may be because of difficult experiences or simply adjusting to civilian life. Pennine Care previously delivered the service across the North West as part of a pilot and has so far helped over 1,000 veterans with a range of mental health problems. To get support you can call us on 0300 323 0707 or fill in the simple online referral form on our site; https://www.penninecare.nhs.uk/your-services/military-veterans-service/",
+      "tags": [
+        "Military veteran."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Pennine Care NHS Foundation Trust",
+        "streetLine2": "Trust Headquarters",
+        "streetLine3": "225 Old Street",
+        "streetLine4": "Ashton-under-Lyne",
+        "city": "Lancashire",
+        "postcode": "OL6 7SR",
+        "latitude": 53.4857421422934,
+        "longitude": -2.09998164069158
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "military-veterans-service",
+      "serviceProviderName": "Military Veterans' Service",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "mental-health",
+          "name": "Mental Health"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c06870542339c2378e7",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "This programme links Housing and Health support with Stepping Hill Hospital, aiming to reduce unsafe and unplanned homeless discharges and repeated use of A&amp;E services. We have two dedicated members of staff working with temporary accommodation schemes and Stepping Hill Hospital to ensure that homeless people are supported to access appropriate resources, reduce the number of admissions and reduce unplanned discharges. The project also provides follow up support to all patients. 1-1 support is offered to all patients to help them manage their health and housing needs better. This also includes working to identify and complete referral to local services such as drug and alcohol, mental health and homefinder support.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Stockport Homes",
+        "streetLine2": "St. Peter&rsquo;s Square",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 1NZ",
+        "latitude": 53.4094095497031,
+        "longitude": -2.15992929923073
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "h3",
+      "serviceProviderName": "H3",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "hospital",
+          "name": "Hospital"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bea870542339c237880",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "No appointment necessary",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Harvey St",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 1YD",
+        "latitude": 53.4104668720237,
+        "longitude": -2.15564588494777
+      },
+      "openingTimes": [
+        {
+          "startTime": "11:30",
+          "endTime": "14:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "11:30",
+          "endTime": "14:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "wellspring",
+      "serviceProviderName": "The Wellspring",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "nurse",
+          "name": "Practice Nurse"
+        },
+        {
+          "id": "gp",
+          "name": "General Practice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5951bdfac238cb0e4cbc050d",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "At Early Break we have our own doctor available to clients in each area.  Our doctor has a special interest in working with young people who are using substances and have a wealth of experience of doing so. The Early Break doctors do not see every Early Break client; they only see the young people where it has been identified in their care plan that it would be appropriate for them to see the doctor or where a young person has requested it.&#10;&#10;The Early Break doctors do more than prescribe medication. They can offer advice and treatment around medical issues which may or may not be related to substance use. The doctors are able to support us in educating young people about the health effects of using substances and can arrange for screening to be carried out if needed.&#10;&#10;The Early Break doctors may also make contact with the young person&rsquo;s own GP if necessary.",
+      "tags": [
+        "youths"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Annara House   ",
+        "streetLine2": "7-11 Bury Road",
+        "streetLine3": "Radcliffe ",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M26 2UG",
+        "latitude": 53.5647036811355,
+        "longitude": -2.32054083318844
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "early-break",
+      "serviceProviderName": "Early Break",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "drug-alcohol",
+          "name": "Drug and Alcohol Treatment"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "594bd6279cad0a25d04373b4",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "South Community Mental Health Team (CMHT) aims to provide a specialist assessment of health and social care needs, recovery based care planning as well as diagnosis, treatment and support for service users who live in south Trafford and have mental health difficulties. We provide support for their carers and families.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "2A Craven Drive  ",
+        "streetLine2": "Brook Heys",
+        "streetLine3": "Broadheath",
+        "streetLine4": "",
+        "city": "Altrincham",
+        "postcode": " WA14 5JF",
+        "latitude": 53.4023650175801,
+        "longitude": -2.3607554779222
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greater-manchester-mental-health-nhs",
+      "serviceProviderName": "Greater Manchester Mental Health NHS",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "mental-health",
+          "name": "Mental Health"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "594bd2bd9cad0a25d0437336",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "Prescott House Community Mental Health Team is one of three Community Mental Health Teams (CMHT) serving Salford.  It is an integrated specialist team which serves the local community and offers a range of therapeutic interventions and treatments for adults over the age of 16 with severe and enduring mental health issues.&#10;",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Prescott House",
+        "streetLine2": "Prescott Street  ",
+        "streetLine3": "Little Hulton",
+        "streetLine4": "",
+        "city": " Salford ",
+        "postcode": "M28 0ZA",
+        "latitude": 53.5257667341736,
+        "longitude": -2.41134099227655
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greater-manchester-mental-health-nhs",
+      "serviceProviderName": "Greater Manchester Mental Health NHS",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "mental-health",
+          "name": "Mental Health"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "594bd47a9cad0a25d0437358",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": null,
+      "tags": [],
+      "location": {
+        "description": "Barnett House is a temporary location",
+        "streetLine1": "Barnett House",
+        "streetLine2": "Viking Works",
+        "streetLine3": "Weston Street",
+        "streetLine4": "",
+        "city": "Bolton",
+        "postcode": "BL3 2RX",
+        "latitude": 53.5670169945808,
+        "longitude": -2.41840007737495
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greater-manchester-mental-health-nhs",
+      "serviceProviderName": "Greater Manchester Mental Health NHS",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "mental-health",
+          "name": "Mental Health"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5951be55c238cb0e4cbc051e",
+      "categoryId": "medical",
+      "categoryName": "Medical Services",
+      "categorySynopsis": "Doctors, dentists, mental health services ...",
+      "info": "At Early Break we have our own doctor available to clients in each area.  Our doctor has a special interest in working with young people who are using substances and have a wealth of experience of doing so. The Early Break doctors do not see every Early Break client; they only see the young people where it has been identified in their care plan that it would be appropriate for them to see the doctor or where a young person has requested it.&#10;&#10;The Early Break doctors do more than prescribe medication. They can offer advice and treatment around medical issues which may or may not be related to substance use. The doctors are able to support us in educating young people about the health effects of using substances and can arrange for screening to be carried out if needed.&#10;&#10;The Early Break doctor&rsquo;s may also make contact with the young person&rsquo;s own GP if necessary.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "10 Water Street ",
+        "streetLine2": "off Drake Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Rochdale ",
+        "postcode": "OL16 1TL",
+        "latitude": 53.616205744281,
+        "longitude": -2.15292607144103
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "early-break",
+      "serviceProviderName": "Early Break",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "drug-alcohol",
+          "name": "Drug and Alcohol Treatment"
+        }
+      ],
+      "isOpen247": false
+    }
+  ],
+  "category": {
+    "id": "medical",
+    "name": "Medical Services",
+    "synopsis": "Doctors, dentists, mental health services ..."
+  }
+}

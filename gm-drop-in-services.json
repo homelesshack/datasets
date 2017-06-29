@@ -1,0 +1,1080 @@
+{
+  "providers": [
+    {
+      "id": "57d65bea870542339c237882",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "Our Beacon drop-in is open 5 days a week offering a hot breakfast, snacks and some evening meals. We also offer food, clothes, blankets, hot showers and toiletries for our friends. The centre receives around 500 visits per week where our friends are able to take part in a range of activities. We run a variety of classes at our drop-in to help build self esteem, confidence and skills. We also offer opportunities for training and volunteering as part of our buddy scheme. We also have a part time nurse funded by the Big Lottery. 3 days a week in a our drop-in, she provides basic nursing, registration with a GP and referrals to specialist clinics. We also hold afternoon activity sessions at the drop in Tuesday-Thursday. The Beacon is often the start of our friends&#39; journey. We then refer them onto our support workers at our separate support office who offer one to one support 5 days a week. ",
+      "tags": [
+        "Homeless and vulnerable adults"
+      ],
+      "location": {
+        "description": "The Beacon, drop in centre on Bloom Street near Chorlton Street Bus Station",
+        "streetLine1": "The Beacon",
+        "streetLine2": "45 Bloom Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 3LY",
+        "latitude": 53.4769358511002,
+        "longitude": -2.23806468087968
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "15:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "19:45",
+          "endTime": "21:00",
+          "day": "Tuesday"
+        }
+      ],
+      "serviceProviderId": "barnabus",
+      "serviceProviderName": "Barnabus",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf5870542339c2378af",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "If there\u0027s something troubling you, come to us for confidential advice.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "74 Oxford Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 5NH",
+        "latitude": 53.474224342145,
+        "longitude": -2.24104762720658
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "20:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "20:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "20:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "20:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "20:30",
+          "day": "Friday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "20:30",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "20:30",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "samaritans",
+      "serviceProviderName": "Samaritans",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57eabae4cbad0f1a6092eae1",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "Hot Meals,Advice,Support,Showers,Phone and TV. at our Sunday evening drop in. ",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "52 Oldham Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester ",
+        "postcode": "M4 1LE",
+        "latitude": 53.483397559647,
+        "longitude": -2.23401712221756
+      },
+      "openingTimes": [
+        {
+          "startTime": "17:00",
+          "endTime": "19:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "coffee4craig",
+      "serviceProviderName": "Coffee4Craig",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58efa9bcfaad6619400a7c7a",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "Young People&#39;s drop in for age 16-25",
+      "tags": [
+        "16-25s"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "1st floor",
+        "streetLine2": "27 Houldsworth Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 1EB",
+        "latitude": 53.4835909837923,
+        "longitude": -2.2316221630479
+      },
+      "openingTimes": [
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "lifeshare",
+      "serviceProviderName": "Lifeshare",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf6870542339c2378b2",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "Pop in for advice, but it is best to call us before you come.",
+      "tags": [
+        "LGBT"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "5 Oak Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 5JD",
+        "latitude": 53.4840950661472,
+        "longitude": -2.23584437681465
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "albert-kennedy-trust",
+      "serviceProviderName": "Albert Kennedy Trust",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57f6151acbad0f3754c3851e",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "Morning Hours is a safe-space for anyone who is street homeless and moved out of shop doorways in the early hours. In addition to providing a safe-space, Morning Hours has toilet facilities, as well as a basic breakfast of tea/coffee and toast. Morning Hours is open every Friday, between 7am and 9am.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "St Ann Church",
+        "streetLine2": "St Ann Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M2 7LF",
+        "latitude": 53.4816828791461,
+        "longitude": -2.24637904956573
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:00",
+          "endTime": "09:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "st-ann39s-church",
+      "serviceProviderName": "St Ann&#39;s Church",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bfc870542339c2378c6",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "A welcoming, supportive dropin for women who sex work, with access to refreshments.",
+      "tags": [
+        "sex workers"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "94-96 Fairfield St  ",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 2WR",
+        "latitude": 53.475420606571,
+        "longitude": -2.22208576134738
+      },
+      "openingTimes": [
+        {
+          "startTime": "12:30",
+          "endTime": "15:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "20:00",
+          "endTime": "22:45",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "20:00",
+          "endTime": "22:45",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "20:00",
+          "endTime": "22:45",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "mash-manchester-action-on-street-health",
+      "serviceProviderName": "MASH; Manchester Action on Street Health ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "593545199cad0b0c14bff539",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "Drop in for a coffee and chat or to use the computer.",
+      "tags": [
+        "For people living in unsupported temporary accommodation (B&amp;B&#39;s)"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Brunswick Parish Church",
+        "streetLine2": "Brunswick Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M13 9TQ",
+        "latitude": 53.4693287275071,
+        "longitude": -2.22565428686088
+      },
+      "openingTimes": [
+        {
+          "startTime": "11:00",
+          "endTime": "13:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "11:00",
+          "endTime": "13:30",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "justlife",
+      "serviceProviderName": "Justlife",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "587f796db2c3d62b8c510677",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "Hot meal and music on alternate Wednesdays. 14th December, 11th/25th January.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "110 Oldham Rd",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 6AG",
+        "latitude": 53.4865827925854,
+        "longitude": -2.22764482381055
+      },
+      "openingTimes": [
+        {
+          "startTime": "19:30",
+          "endTime": "21:00",
+          "day": "Wednesday"
+        }
+      ],
+      "serviceProviderId": "sanctury",
+      "serviceProviderName": "Sanctuary",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65be9870542339c23787c",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "Homeless Clinic dropin for registered patients - to register contact Rachel Brennan on 07847476402 or 0161 2725652. We have GP and nurse, drug assessment/treatment, alcohol and mental health advice.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Ancoats Primary Care Centre",
+        "streetLine2": "Old Mill Street",
+        "streetLine3": "Ancoats",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 6EE",
+        "latitude": 53.4829128466428,
+        "longitude": -2.21945770466593
+      },
+      "openingTimes": [
+        {
+          "startTime": "14:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        }
+      ],
+      "serviceProviderId": "urban-village-medical-practice",
+      "serviceProviderName": "Urban Village Medical Practice",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf2870542339c23789e",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "Breakfast Drop in with breakfast and showers for over 18s.",
+      "tags": [
+        "Over 18s"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "142 Dantzic Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 4DN",
+        "latitude": 53.4896579009624,
+        "longitude": -2.23635755747702
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:00",
+          "endTime": "09:00",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "07:00",
+          "endTime": "09:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "lifeshare",
+      "serviceProviderName": "Lifeshare",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bfa870542339c2378c0",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "Drop in advice hub open daily providing support and advice, free internet access, free drinks and a snack.",
+      "tags": [
+        "Over 18s"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Edward Holt House",
+        "streetLine2": "Pimblett Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1FU",
+        "latitude": 53.4905686797488,
+        "longitude": -2.2438382465874
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "13:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "13:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "13:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "13:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "booth-centre",
+      "serviceProviderName": "Booth Centre",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf6870542339c2378b6",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "A warm, safe and comfortable environment to access our services, rest or meet other clients and socialise.",
+      "tags": [
+        "Adult"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "104b Denmark Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M15 6JS",
+        "latitude": 53.4611199299643,
+        "longitude": -2.24065702809002
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "cornerstone-day-centre",
+      "serviceProviderName": "Cornerstone",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65be9870542339c237879",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "Drop-in centre offering a communal space with an equipped lounge. Cheap hot meals, showers and laundry. Free tea, coffee and soup. The centre hosts services provided by the Citizens Advice Bureau and Salford Health Matters - support and advice, doctor\u0027s surgery, drug and alcohol clinic, needle exchange, dental treatment. Specialist stop smoking advice and literacy support.",
+      "tags": [
+        "Anyone over the age of 18"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Windsor Drop-in Centre, Churchill Way",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": "M6 5BU",
+        "latitude": 53.4860114524149,
+        "longitude": -2.28453178219705
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "salford-loaves-and-fishes",
+      "serviceProviderName": "Salford Loaves and Fishes",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bef870542339c237893",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "Drop in for a coffee and chat or to use the computer.",
+      "tags": [
+        "People living in Unsupported Temporary Accommodation"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "1479-1489 Ashton Old Road,",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M11 1HH",
+        "latitude": 53.4729554702876,
+        "longitude": -2.15524205867038
+      },
+      "openingTimes": [
+        {
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "justlife",
+      "serviceProviderName": "Justlife",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bfb870542339c2378c3",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "Up to an hour&#39;s support with filling out forms, writing a CV, using the phone to contact benefits, landlords, doctors, etc, reading through letters, using the internet. Please call 0161 235 6900 to book an appointment.",
+      "tags": [
+        "Homeless or at risk;"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Avenue Library",
+        "streetLine2": "Victoria Avenue East",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Blackley",
+        "postcode": "M9 6HW",
+        "latitude": 53.5324256405775,
+        "longitude": -2.20678464430017
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "12:30",
+          "day": "Tuesday"
+        }
+      ],
+      "serviceProviderId": "people-first-housing",
+      "serviceProviderName": "People First Housing Association",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "594bc3ac9cad0a25d0437111",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "The Centre runs welfare benefit drop-in sessions on Monday, Tuesday, Thursday and Friday from 9am - 11.30am, where you can get initial advice.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "84-86 Liverpool Road",
+        "streetLine2": "Eccles ",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M30 0WZ",
+        "latitude": 53.4832949834766,
+        "longitude": -2.34962788251715
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "11:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "11:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "11:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "11:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "salford-ucrc",
+      "serviceProviderName": "Salford UCRC",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "591c7d3ccbad100320e3e358",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "Breakfast club and advice drop in.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Bradnor Road",
+        "streetLine2": "Sharston Industrial Estate",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M22 4TF",
+        "latitude": 53.4005615359763,
+        "longitude": -2.25909978430467
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "12:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "10:30",
+          "day": "Friday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "manchester-integrated-drug-and-alcohol-service",
+      "serviceProviderName": "Manchester Integrated Drug and Alcohol Service",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58bd78a48b21a81168bb45eb",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "We currently offer is a Drop In service where people can get a hot meal. We also have support workers from other agencies that work alongside us at the drop in to provide advice and signposting.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "203 Roundthorn Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Oldham",
+        "postcode": "OL4 5LD",
+        "latitude": 53.5358962354254,
+        "longitude": -2.09011188936555
+      },
+      "openingTimes": [
+        {
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "salvation-army-oldham",
+      "serviceProviderName": "Salvation Army (Oldham)",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "591dba9609c3da1714aea454",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": null,
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Mosses Community Centre",
+        "streetLine2": "Cecil Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Bury",
+        "postcode": "BL9 0SB",
+        "latitude": 53.5901695545374,
+        "longitude": -2.29168241926154
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:00",
+          "endTime": "12:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "bury-rough-sleepers",
+      "serviceProviderName": "Bury Rough Sleepers",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "591dbaa209c3da1714aea458",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": null,
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Humphrey House",
+        "streetLine2": "Angouleme Way",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Bury",
+        "postcode": "BL9 0EQ",
+        "latitude": 53.5903435110848,
+        "longitude": -2.29405546636981
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:00",
+          "endTime": "10:00",
+          "day": "Monday"
+        }
+      ],
+      "serviceProviderId": "bury-rough-sleepers",
+      "serviceProviderName": "Bury Rough Sleepers",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58c176998b21a71478fb43fa",
+      "categoryId": "dropin",
+      "categoryName": "Drop-In",
+      "categorySynopsis": "Day centres and social spaces that support homeless people.",
+      "info": "The health and wellbeing Hub is a drop in service, anybody is welcome - patients carers and health care professionals - to get information and advice and to see what we can offer. A registered nurse will be available throughout the session. A volunteer will also be available to help people access online information and creative therapy materials will be available as well. We are hoping that this new service will mean we can provide help and advice to more people and that more patients for the potentially progressive life-limiting illness will be able to access our services.",
+      "tags": [],
+      "location": {
+        "description": "NB: The service is available for three weeks of the month at the address below: &#10;&#10;St Ann&rsquo;s Hospice &#10;Meadowsweet Lane (off Peel Lane)&#10;Little Hulton, Worsley,&#10;Manchester M28 OFE&#10;&#10;The remaining week will be an outreach service. It is advisable to confirm location details with the organisation on  0161 702 5416.",
+        "streetLine1": "St Ann&rsquo;s Hospice ",
+        "streetLine2": "Meadowsweet Lane (off Peel Lane)",
+        "streetLine3": "Little Hulton",
+        "streetLine4": "Worsley",
+        "city": "Manchester",
+        "postcode": "M28 0FE",
+        "latitude": 53.5281540693782,
+        "longitude": -2.42521238242318
+      },
+      "openingTimes": [
+        {
+          "startTime": "12:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        }
+      ],
+      "serviceProviderId": "st-ann39s-health-and-wellbeing-hub",
+      "serviceProviderName": "St Ann&#39;s Hospice",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "Drop-In"
+        }
+      ],
+      "isOpen247": false
+    }
+  ],
+  "category": {
+    "id": "dropin",
+    "name": "Drop-In",
+    "synopsis": "Day centres and social spaces that support homeless people."
+  }
+}

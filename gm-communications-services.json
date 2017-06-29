@@ -1,0 +1,415 @@
+{
+  "providers": [
+    {
+      "id": "57d65bfa870542339c2378c2",
+      "categoryId": "communications",
+      "categoryName": "Communications",
+      "categorySynopsis": "Internet and telephone access, and postal services.",
+      "info": "Every Tuesday, 2-4 pm, we hold an I.T Cafe session. During this session, our homeless friends have the opportunity to learn vital I.T Skills. Computers are available for use in our Beacon Drop-in centre and we encourage our friends to use this time for job searching, accessing benefits etc. ",
+      "tags": [
+        "Homeless and vulnerable adults"
+      ],
+      "location": {
+        "description": "Barnabus, The Beacon Drop-in Centre",
+        "streetLine1": "The Beacon",
+        "streetLine2": "45 Bloom Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 3LY",
+        "latitude": 53.4769358511002,
+        "longitude": -2.23806468087968
+      },
+      "openingTimes": [
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        }
+      ],
+      "serviceProviderId": "barnabus",
+      "serviceProviderName": "Barnabus",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "internet",
+          "name": "Internet access"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bef870542339c237892",
+      "categoryId": "communications",
+      "categoryName": "Communications",
+      "categorySynopsis": "Internet and telephone access, and postal services.",
+      "info": "Everyone knows they would benefit from getting to grips with IT and learning how to use a computer but not everyone knows where to start. We have just the place and just the right team to help even those convinced they could never do it. Our patient and dedicated volunteers like nothing better than to see the growing confidence of those who come with no previous experience leave with yet another certificate marking their progress. We have a computer suite and internet access. We offer basic IT courses and some other vocational training including catering qualifications.",
+      "tags": [
+        "People who have served a custodial sentence."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Methodist Central Buildings",
+        "streetLine2": "Oldham Street",
+        "streetLine3": null,
+        "streetLine4": null,
+        "city": "Manchester",
+        "postcode": "M1 1JQ",
+        "latitude": 53.4819104794289,
+        "longitude": -2.2360432100405
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:30",
+          "endTime": "12:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "14:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "12:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "14:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "12:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "14:30",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "gm-community-chaplaincy",
+      "serviceProviderName": "Greater Manchester Community Chaplaincy",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "internet",
+          "name": "Internet access"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bfd870542339c2378ca",
+      "categoryId": "communications",
+      "categoryName": "Communications",
+      "categorySynopsis": "Internet and telephone access, and postal services.",
+      "info": "Limited phone and internet available for young people at the office",
+      "tags": [
+        "16-25"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "1st floor",
+        "streetLine2": "27 Houldsworth Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 1EB",
+        "latitude": 53.4835909837923,
+        "longitude": -2.2316221630479
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "lifeshare",
+      "serviceProviderName": "Lifeshare",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "telephone",
+          "name": "Telephone"
+        },
+        {
+          "id": "internet",
+          "name": "Internet access"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bfc870542339c2378c8",
+      "categoryId": "communications",
+      "categoryName": "Communications",
+      "categorySynopsis": "Internet and telephone access, and postal services.",
+      "info": "",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Edward Holt House",
+        "streetLine2": "Pimblett Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1FU",
+        "latitude": 53.4905686797488,
+        "longitude": -2.2438382465874
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "booth-centre",
+      "serviceProviderName": "Booth Centre",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "telephone",
+          "name": "Telephone"
+        },
+        {
+          "id": "internet",
+          "name": "Internet access"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf7870542339c2378b7",
+      "categoryId": "communications",
+      "categoryName": "Communications",
+      "categorySynopsis": "Internet and telephone access, and postal services.",
+      "info": "Access to a telephone.",
+      "tags": [
+        "Adults facing a wide range of social issues including homelessness."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "104b Denmark Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M15 6JS",
+        "latitude": 53.4611199299643,
+        "longitude": -2.24065702809002
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "cornerstone-day-centre",
+      "serviceProviderName": "Cornerstone",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "telephone",
+          "name": "Telephone"
+        },
+        {
+          "id": "internet",
+          "name": "Internet access"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57ed1061cbad0f3754c32d27",
+      "categoryId": "communications",
+      "categoryName": "Communications",
+      "categorySynopsis": "Internet and telephone access, and postal services.",
+      "info": null,
+      "tags": [
+        "Elliott&#39;s Greengrocers",
+        "Chorlton Precinct",
+        "Wilbraham Road",
+        "Chorlton"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Elliott&#39;s fruit and veg ",
+        "streetLine2": "Chorlton precinct ",
+        "streetLine3": "Wilbraham road ",
+        "streetLine4": "",
+        "city": "Chorlton ",
+        "postcode": "M21 9aq ",
+        "latitude": 53.4429440941598,
+        "longitude": -2.27838730740742
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Friday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "reach-out-to-the-community",
+      "serviceProviderName": "Reach Out to the Community ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "telephone",
+          "name": "Telephone"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf0870542339c237894",
+      "categoryId": "communications",
+      "categoryName": "Communications",
+      "categorySynopsis": "Internet and telephone access, and postal services.",
+      "info": "Justlife service users are able to use the IT facilities three mornings a week for jobsearch, social networking, email and internet searching.",
+      "tags": [
+        "People living in unsupported temporary accommodation (B&amp;B&#39;s)"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "1479-1489 Ashton Old Road,",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M11 1HH",
+        "latitude": 53.4729554702876,
+        "longitude": -2.15524205867038
+      },
+      "openingTimes": [
+        {
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "10:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "justlife",
+      "serviceProviderName": "Justlife",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "internet",
+          "name": "Internet access"
+        }
+      ],
+      "isOpen247": false
+    }
+  ],
+  "category": {
+    "id": "communications",
+    "name": "Communications",
+    "synopsis": "Internet and telephone access, and postal services."
+  }
+}
